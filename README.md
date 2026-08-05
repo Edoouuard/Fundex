@@ -4,36 +4,40 @@
 
 Live site : https://fundex-scout.vercel.app/
 
-## Version
+## Contenu du repo
 
-`index.html` = la **version live actuelle** (« Fundex: VC Intelligence »), chargée via
-Supabase. La base contient **2044 fonds** (table Supabase `investors`), pas un snapshot
-statique.
+| Fichier | Description |
+|---|---|
+| `index.html` | Le site (app single-page, charge les données depuis Supabase) |
+| `fundex-data-enriched.json` | **Base enrichie** : 2044 fonds (id, name, aum, check_size, sector_focus, stage_focus, scout_network, latest_deals…) |
+| `deal-watch.py` | **Sous-agent de veille des derniers deals** (scan / apply / report) |
+| `README.md` | Ce fichier |
 
 ## Architecture
 
-- **Front** : app single-page autonome (`index.html`, JS vanilla + `pdf.js` pour l'export)
-- **Backend données** : **Supabase** (Postgres REST). Clés anon côté client (publiques).
-  - Base : `https://wxtklptwwvcrjfrejrtl.supabase.co`
-  - Table : `investors` (2044 lignes)
-- **Fonctionnalités** : filtres par stage/secteur/pays, **Scout Network** (37 fonds),
-  matching par taille de fonds, portfolio, deep linking, export.
+- **Front** : app single-page autonome (`index.html`), données chargées depuis **Supabase**
+  (table `investors`).
+- **Base Supabase** : 2044 fonds · URL `https://wxtklptwwvcrjfrejrtl.supabase.co`
+- **Veille deals** : `deal-watch.py` identifie les fonds notables (37 `scout_network`),
+  délègue la recherche des derniers investissements à des sous-agents, applique les
+  résultats vérifiés, et met à jour Supabase. Automatisé via un cron hebdomadaire.
 
-## Champs de la table investors (24)
+## Champs de la table investors (principaux)
 
 `id`, `slug`, `name`, `description`, `thesis`, `investment_thesis`, `overview`,
 `fund_history_text`, `team_highlights`, `team_size`, `aum`, `check_size_min`,
 `check_size_max`, `founded_year`, `headquarters`, `country`, `sector_focus`,
 `stage_focus`, `website`, `notable_portfolio`, `logo_url`, `featured`,
-`scout_network` (bool), `vcbeast_url`, `created_at`.
+`scout_network` (bool), `vcbeast_url`, `latest_deals` (ajouté par la veille),
+`deals_last_checked`, `created_at`.
 
-## Couverture clé (sur 2044 fonds)
+## Veille deals — usage du script
 
-- `name`, `website`, `overview`, `scout_network`, `stage_focus` ≈ 95–100 %
-- `sector_focus` 95 % · `thesis` 88 % · `check_size_min/max` 76 %/71 %
-- `aum` 42 % · `notable_portfolio` 56 % · `founded_year` 47 %
+```bash
+python deal-watch.py scan --top 30   # voir les fonds notables à traiter
+python deal-watch.py apply fichier.json  # appliquer les deals vérifiés
+python deal-watch.py report            # état d'enrichissement
+```
 
-## Note
-
-L'ancienne version embarquait les données en dur dans le HTML (1285 fonds). La version
-actuelle charge les 2044 via Supabase — c'est la source de vérité à jour.
+Le cron hebdomadaire (lundi 09h00) exécute le cycle complet : scan → délégation de
+recherche → application → PATCH Supabase.
