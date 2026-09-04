@@ -12,13 +12,13 @@ Usage:
   python deal_watch.py apply <deals.json>   # applique les deals trouvés sur les fiches
   python deal_watch.py report               # résumé de l'état d'enrichissement
 
-Base attendue : fundex_2044_enriched.json (à côté du script, ou via --data).
-Les corrections écrites dans : fundex_2044_enriched.json (backup auto avant écriture).
+Base attendue : fundex-data-enriched.json (à côté du script, ou via --data).
+Les corrections écrites dans : fundex-data-enriched.json (backup auto avant écriture).
 """
 import argparse, json, os, sys, re
 from datetime import date
 
-BASE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fundex_2044_enriched.json")
+BASE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fundex-data-enriched.json")
 
 def load():
     if not os.path.exists(BASE): sys.exit(f"Base introuvable : {BASE}")
