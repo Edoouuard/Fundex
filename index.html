@@ -447,6 +447,9 @@ body{background:var(--white);color:var(--ink);font-family:'Instrument Sans',sans
 @media(max-width:768px){.ds-results-header{padding:12px 16px}}
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments);};</script>
+<script defer src="/_vercel/insights/script.js"></script>
+<script defer src="/_vercel/speed-insights/script.js"></script>
 </head>
 <body>
 <div id="fund-page">
@@ -970,6 +973,7 @@ function renderTable(scored){
 }
 async function openFP(id){
   var f=ALL.find(function(x){return x.id===id;});if(!f)return;
+  va('event',{name:'fund_view',data:{fund:f.name}});
   curId=id;
   document.querySelectorAll('#fund-tbody tr').forEach(function(r){r.classList.toggle('selected',r.dataset.id===id);});
   document.getElementById('fp-breadcrumb').textContent='Fundex / '+f.name;
@@ -1072,6 +1076,7 @@ function cScore(f){
 function activateCompatProfile(){
   var stage=document.getElementById('sub-stage').value,sector=document.getElementById('sub-sector').value,country=document.getElementById('sub-country').value.trim();
   if(!stage&&!sector&&!country){showToast('Fill in stage, sector or country first');return;}
+  va('event',{name:'compat_profile_run',data:{stage:stage,sector:sector}});
   COMPAT={stage:stage||null,sector:sector||null,country:country||null};
   var chips=[stage,sector,country].filter(Boolean);
   document.getElementById('compat-chips').innerHTML=chips.map(function(c){return'<span class="compat-chip">'+c+'</span>';}).join('');
@@ -1119,7 +1124,7 @@ function submitDeck(){
   btn.disabled=true;btn.textContent='Sending\u2026';
   fetch(SB+'/rest/v1/submissions',{method:'POST',headers:{apikey:SK,Authorization:'Bearer '+SK,'Content-Type':'application/json',Prefer:'return=minimal'},
     body:JSON.stringify({founder:name,email:email,company:company,website:document.getElementById('sub-url').value.trim()||null,country:country,city:city,year_founded:document.getElementById('sub-founded').value.trim()||null,stage:stage,mrr:mrr,exact_mrr:document.getElementById('sub-exact-mrr').value.trim()||null,sector:sector,dev_stage:document.getElementById('sub-dev-stage').value||null,proprietary_tech:document.getElementById('sub-proprietary-tech').value||null,revenue_model:document.getElementById('sub-revenue-model').value.trim()||null,raise_target:document.getElementById('sub-raise').value||null,allocation:document.getElementById('sub-allocation').value.trim()||null,lead_investor:document.getElementById('sub-lead-investor').value.trim()||null,co_investors:document.getElementById('sub-co-investors').value.trim()||null,round_terms:document.getElementById('sub-round-terms').value.trim()||null,problem:problem,why_now:document.getElementById('sub-why').value.trim()||null,data_room_url:document.getElementById('sub-data-room').value.trim()||null,deck_url:dk||(subFile?subFile.name:null),how_found:document.getElementById('sub-how-found').value.trim()||null,status:'new',source:'fundex'})
-  }).finally(function(){document.getElementById('sub-form-wrap').style.display='none';document.getElementById('sub-sent').classList.add('visible');});
+  }).finally(function(){va('event',{name:'deck_submitted',data:{sector:sector,stage:stage}});document.getElementById('sub-form-wrap').style.display='none';document.getElementById('sub-sent').classList.add('visible');});
 }
 function resetSubForm(){
   ['sub-name','sub-email','sub-company','sub-url','sub-country','sub-city','sub-founded','sub-deck-url','sub-problem','sub-revenue-model','sub-why','sub-exact-mrr','sub-allocation','sub-lead-investor','sub-co-investors','sub-round-terms','sub-how-found','sub-data-room'].forEach(function(id){var el=document.getElementById(id);if(el)el.value='';});
@@ -1286,6 +1291,7 @@ async function extractPdfText(file){
 async function activateFit(){
   var stage=document.getElementById('fit-stage').value,sector=document.getElementById('fit-sector').value,country=document.getElementById('fit-country').value.trim(),raise=document.getElementById('fit-raise').value,pitch=(document.getElementById('fit-pitch').value||'').trim(),deckUrl=(document.getElementById('fit-deck-url').value||'').trim();
   if(!stage&&!sector&&!country&&!fitDeckFile&&!deckUrl){showToast('Fill in at least one field or upload a deck');return;}
+  va('event',{name:'fit_run',data:{stage:stage,sector:sector,has_deck:!!(fitDeckFile||deckUrl)}});
   document.getElementById('fit-idle').style.display='none';
   document.getElementById('fit-loading').style.display='block';
   document.getElementById('fit-results').style.display='none';
