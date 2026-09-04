@@ -1441,7 +1441,7 @@ function scoreFundsForProfile(profile){
       if(fc.includes(country)||country.includes(fc)){score+=10;reasons.push((f.headquarters||f.country)+' based');}
     } else if(!fc) score+=5;
     if(raise&&f.check_size_min&&f.check_size_max){
-      var mn=parseFloat(f.check_size_min),mx=parseFloat(f.check_size_max);
+      var mn=parseChk(f.check_size_min),mx=parseChk(f.check_size_max);
       if(raise>=mn*0.3&&raise<=mx*5){score+=8;reasons.push(fmtChk(f.check_size_min,f.check_size_max)+' checks');}
     }
     if(f.scout_network){score+=25;reasons.push('Scout Network');}
