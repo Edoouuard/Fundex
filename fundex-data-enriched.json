@@ -72439,37 +72439,6 @@
     "created_at": "2026-05-22T19:39:57.302273+00:00"
   },
   {
-    "id": "40b408e1-dfde-4526-8868-ffe709028a01",
-    "name": "Apus Capital",
-    "slug": "apus-capital",
-    "description": "Independent Frankfurt investment boutique founded in 2011, advising the Apus Capital Revalue and Marathon funds across technology, life science, industry and environment.",
-    "thesis": "Backs \"winners of change\": high-growth companies in technology, life science, industry and environmental sectors, identified through fundamental company analysis.",
-    "investment_thesis": null,
-    "overview": "Apus Capital GmbH is an independent investment boutique based in Frankfurt am Main, Germany, founded in 2011 by four partners with a combined 120+ years of experience. The firm advises the Apus Capital Revalue Fonds and Marathon Fund, targeting high-growth, innovative companies across technology, life science, industry and environmental sectors.\n\nNote for review: public sources describe Apus Capital primarily as a manager of publicly-traded/UCITS retail funds (Revalue Fonds R, Marathon Fund), not a direct startup-stage venture capital investor. No evidence of a seed/Series A direct-investment program was found. Stage focus, check size and notable portfolio were left blank rather than guessed — worth confirming with your contact there whether this listing belongs in scout_network.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "2-10",
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": 2011,
-    "headquarters": "Frankfurt am Main, Germany",
-    "country": "Germany",
-    "sector_focus": [
-      "Biotech",
-      "Climate",
-      "Other"
-    ],
-    "stage_focus": [],
-    "website": "https://apus.capital/en/",
-    "notable_portfolio": [],
-    "logo_url": "https://www.google.com/s2/favicons?domain=apus.capital&sz=64",
-    "featured": false,
-    "scout_network": true,
-    "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.302273+00:00"
-  },
-  {
     "id": "b5502ed7-48c2-431f-9147-63cc4bfde0c8",
     "name": "B123 Group",
     "slug": "b123-group",
