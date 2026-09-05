@@ -3441,7 +3441,6 @@
     "country": "United States",
     "sector_focus": [
       "Digital Health",
-      "Consumer",
       "Consumer"
     ],
     "stage_focus": [
@@ -3634,7 +3633,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Dubai, UAE",
-    "country": "UAE",
+    "country": "United Arab Emirates",
     "sector_focus": [
       "Fintech",
       "SaaS",
@@ -3828,8 +3827,7 @@
     "country": "United States",
     "sector_focus": [
       "Fintech",
-      "Agriculture",
-      "Fintech"
+      "Agriculture"
     ],
     "stage_focus": [
       "Pre-Seed",
@@ -5743,7 +5741,6 @@
     "notable_portfolio": [
       "Chevron",
       "Browser is not supporting - image",
-      "COMING SOON",
       "Applications closed",
       "Technology Startups",
       "Entrepreneurs Trained",
@@ -6790,12 +6787,12 @@
       "Consumer",
       "Enterprise",
       "Fintech",
-      "AI",
-      "IA"
+      "AI"
     ],
     "stage_focus": [
       "Series B+",
-      "Seed→Serie A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://www.dst-global.com",
     "notable_portfolio": [
@@ -7330,7 +7327,6 @@
       "VERACITY",
       "TEAL",
       "GAMETO",
-      "COMING SOON",
       "CONNECTIVITY",
       "CREATIVELY",
       "SOLSTICE",
@@ -9792,9 +9788,8 @@
       "Consumer",
       "Fintech",
       "AI",
-      "climate",
-      "SaaS",
-      "fintech"
+      "Climate",
+      "SaaS"
     ],
     "stage_focus": [
       "Pre-Seed",
@@ -12957,17 +12952,16 @@
       "Enterprise",
       "Consumer",
       "AI",
-      "health",
-      "fintech",
-      "enterprise",
-      "defence",
-      "climate"
+      "Aerospace & Defense",
+      "Climate"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://generalcatalyst.com",
     "notable_portfolio": [
@@ -14160,7 +14154,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Moscow, Moscow City",
-    "country": "Russian Federation",
+    "country": "Russia",
     "sector_focus": [
       "Cybersecurity",
       "Fintech",
@@ -16331,7 +16325,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Delft, Zuid-Holland",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "sector_focus": [],
     "stage_focus": [],
     "website": "https://yesdelft.com",
@@ -17490,11 +17484,12 @@
     "headquarters": "London, New York, Montreal, Paris, Tokyo",
     "country": "United Kingdom",
     "sector_focus": [
-      "IA",
-      "Crypto & Web3"
+      "AI",
+      "Web3"
     ],
     "stage_focus": [
-      "Seed→Serie A"
+      "Seed",
+      "Series A"
     ],
     "website": "http://www.whitestarcapital.com",
     "notable_portfolio": [],
@@ -20582,7 +20577,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": null,
-    "country": "{{ map.address }}",
+    "country": null,
     "sector_focus": [
       "Aerospace & Defense",
       "Other",
@@ -23574,17 +23569,16 @@
       "Fintech",
       "Climate",
       "AI",
-      "enterprise",
-      "fintech",
-      "climate",
-      "consumer"
+      "Enterprise"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://eqtventures.com",
     "notable_portfolio": [
@@ -27377,7 +27371,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Amsterdam, Noord-Holland",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "sector_focus": [
       "Agriculture",
       "Enterprise",
@@ -29189,15 +29183,13 @@
       "Climate",
       "SaaS",
       "AI",
-      "fintech",
-      "marketplaces"
+      "Marketplace"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed to Series A"
+      "Series B+"
     ],
     "website": "https://flyerone.vc/",
     "notable_portfolio": [],
@@ -30556,7 +30548,7 @@
     "check_size_max": null,
     "founded_year": 2017,
     "headquarters": "Dubai, UAE",
-    "country": "UAE",
+    "country": "United Arab Emirates",
     "sector_focus": [
       "Fintech",
       "Enterprise"
@@ -31256,7 +31248,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Eindhoven, Noord-Brabant",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "sector_focus": [
       "Climate",
       "Impact"
@@ -32825,7 +32817,7 @@
     "check_size_max": null,
     "founded_year": 2017,
     "headquarters": "Dubai, UAE",
-    "country": "UAE",
+    "country": "United Arab Emirates",
     "sector_focus": [
       "Fintech",
       "Consumer",
@@ -33355,8 +33347,8 @@
     "check_size_min": "$10K",
     "check_size_max": "$1M",
     "founded_year": 2006,
-    "headquarters": "Search\t\t\t\t\t, , , , , , , Search",
-    "country": "Search",
+    "headquarters": "Amsterdam, Netherlands",
+    "country": "Netherlands",
     "sector_focus": [
       "Aerospace & Defense",
       "Digital Health",
@@ -36110,17 +36102,13 @@
       "Fintech",
       "Climate",
       "AI",
-      "SaaS",
-      "consumer",
-      "fintech",
-      "climate"
+      "SaaS"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Pre-seed"
+      "Series B+"
     ],
     "website": "https://heartfelt.vc",
     "notable_portfolio": [],
@@ -39077,18 +39065,14 @@
       "Consumer",
       "Fintech",
       "SaaS",
-      "marketplaces",
-      "AI",
-      "fintech",
-      "IA"
+      "Marketplace",
+      "AI"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed to Series A",
-      "Seed→Serie A"
+      "Series B+"
     ],
     "website": "http://inovo.vc/",
     "notable_portfolio": [
@@ -41314,7 +41298,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Amsterdam, Noord-Holland",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "sector_focus": [
       "Biotech",
       "Fintech",
@@ -43551,7 +43535,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Naarden, Noord-Holland",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "sector_focus": [
       "Biotech",
       "Digital Health"
@@ -44302,11 +44286,12 @@
     "country": "France",
     "sector_focus": [
       "Biotech",
-      "Industry 4.0",
-      "DeepTech"
+      "Industrial",
+      "Deeptech"
     ],
     "stage_focus": [
-      "Pre-seed→Seed"
+      "Pre-Seed",
+      "Seed"
     ],
     "website": "https://www.ovni.capital",
     "notable_portfolio": [
@@ -46740,9 +46725,7 @@
       "SaaS",
       "AI",
       "DevTools",
-      "B2B SaaS",
-      "cloud",
-      "cybersecurity"
+      "Cybersecurity"
     ],
     "stage_focus": [
       "Seed",
@@ -48550,7 +48533,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Amsterdam, Noord-Holland",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "sector_focus": [
       "Biotech",
       "Digital Health",
@@ -50863,7 +50846,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Amsterdam, Noord-Holland",
-    "country": "The Netherlands",
+    "country": "Netherlands",
     "sector_focus": [],
     "stage_focus": [
       "Pre-Seed",
@@ -54031,9 +54014,7 @@
       "SaaS",
       "Consumer",
       "Fintech",
-      "fintech",
-      "consumer",
-      "marketplaces"
+      "Marketplace"
     ],
     "stage_focus": [
       "Pre-Seed",
@@ -57210,7 +57191,7 @@
     "check_size_max": "$10M",
     "founded_year": 2014,
     "headquarters": "Dubai, UAE",
-    "country": "UAE",
+    "country": "United Arab Emirates",
     "sector_focus": [
       "Fintech",
       "Enterprise",
@@ -57662,18 +57643,15 @@
       "SaaS",
       "Enterprise",
       "Consumer",
-      "devtools",
-      "fintech",
-      "consumer",
-      "marketplaces",
+      "DevTools",
       "Fintech",
+      "Marketplace",
       "Deeptech"
     ],
     "stage_focus": [
       "Series B+",
-      "Pre-seed",
-      "Seed",
-      "Pre-Seed"
+      "Pre-Seed",
+      "Seed"
     ],
     "website": "https://ycombinator.com",
     "notable_portfolio": [
@@ -58203,9 +58181,9 @@
     "country": null,
     "sector_focus": [
       "SaaS",
-      "fintech",
-      "consumer",
-      "marketplaces"
+      "Fintech",
+      "Consumer",
+      "Marketplace"
     ],
     "stage_focus": [
       "Seed"
@@ -58551,14 +58529,14 @@
     "country": "Switzerland",
     "sector_focus": [
       "AI",
-      "software",
-      "healthtech",
-      "fintech",
-      "deeptech",
-      "climate"
+      "Digital Health",
+      "Fintech",
+      "Deeptech",
+      "Climate"
     ],
     "stage_focus": [
-      "Seed to Series A/B"
+      "Seed",
+      "Series A"
     ],
     "website": "https://redalpine.com",
     "notable_portfolio": [],
@@ -58661,12 +58639,16 @@
     "sector_focus": [
       "AI",
       "SaaS",
-      "fintech",
-      "consumer",
-      "infra"
+      "Fintech",
+      "Consumer",
+      "Enterprise"
     ],
     "stage_focus": [
-      "Seed to growth"
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.thetwentyminutevc.com/",
     "notable_portfolio": [],
@@ -58780,14 +58762,16 @@
     "headquarters": "London",
     "country": "United Kingdom",
     "sector_focus": [
-      "B2B SaaS",
-      "healthtech",
-      "fintech",
+      "SaaS",
+      "Digital Health",
+      "Fintech",
       "AI",
-      "deeptech"
+      "Deeptech"
     ],
     "stage_focus": [
-      "Seed to Series B"
+      "Seed",
+      "Series A",
+      "Series B"
     ],
     "website": "https://albionvc.com",
     "notable_portfolio": [],
@@ -58816,14 +58800,14 @@
     "country": "Germany",
     "sector_focus": [
       "AI",
-      "climate",
-      "fintech",
-      "mobility",
-      "health",
-      "B2B software"
+      "Climate",
+      "Fintech",
+      "Mobility",
+      "Digital Health",
+      "SaaS"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "https://atlanticlabs.de",
@@ -58967,13 +58951,13 @@
     "headquarters": "Madrid / London / Paris",
     "country": "Spain",
     "sector_focus": [
-      "Marketplaces",
-      "SaaS-enabled platforms",
+      "Marketplace",
+      "SaaS",
       "AI",
-      "fintech"
+      "Fintech"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "https://samaipata.vc",
@@ -59051,14 +59035,14 @@
     "country": "United Kingdom",
     "sector_focus": [
       "SaaS",
-      "fintech",
+      "Fintech",
       "AI",
-      "crypto",
-      "marketplaces"
+      "Web3",
+      "Marketplace"
     ],
     "stage_focus": [
       "Series A",
-      "Seed selectively"
+      "Seed"
     ],
     "website": "https://mosaicventures.com",
     "notable_portfolio": [],
@@ -59086,14 +59070,14 @@
     "headquarters": "Berlin",
     "country": "Germany",
     "sector_focus": [
-      "B2B SaaS",
+      "SaaS",
       "AI",
-      "fintech",
-      "devtools",
-      "HR tech"
+      "Fintech",
+      "DevTools",
+      "Enterprise"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "https://cavalry.vc",
@@ -59122,15 +59106,14 @@
     "headquarters": "Malmo / Berlin",
     "country": "Sweden",
     "sector_focus": [
-      "Climate software",
-      "energy",
-      "food",
-      "agri",
-      "mobility",
-      "industry"
+      "Climate",
+      "Consumer",
+      "Agriculture",
+      "Mobility",
+      "Industrial"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "http://paleblue.info",
@@ -59209,13 +59192,17 @@
     "country": "France",
     "sector_focus": [
       "Impact",
-      "climate",
+      "Climate",
       "SaaS",
-      "health",
-      "fintech"
+      "Digital Health",
+      "Fintech"
     ],
     "stage_focus": [
-      "Seed to growth"
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://ring.capital",
     "notable_portfolio": [
@@ -59340,12 +59327,15 @@
     "country": "Spain",
     "sector_focus": [
       "Climate",
-      "fintech",
+      "Fintech",
       "SaaS",
-      "consumer"
+      "Consumer"
     ],
     "stage_focus": [
-      "Series A to growth"
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://seaya.vc",
     "notable_portfolio": [],
@@ -59373,13 +59363,14 @@
     "headquarters": "Bilbao / Madrid",
     "country": "Spain",
     "sector_focus": [
-      "Marketplaces",
+      "Marketplace",
       "SaaS",
-      "consumer",
-      "fintech"
+      "Consumer",
+      "Fintech"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://alliron.vc",
     "notable_portfolio": [],
@@ -59445,14 +59436,16 @@
     "headquarters": "Madrid / London / LatAm",
     "country": "Spain",
     "sector_focus": [
-      "Telecom",
+      "Enterprise",
       "SaaS",
       "AI",
-      "fintech",
-      "consumer"
+      "Fintech",
+      "Consumer"
     ],
     "stage_focus": [
-      "Pre-seed to Series A"
+      "Pre-Seed",
+      "Seed",
+      "Series A"
     ],
     "website": "https://wayra.com",
     "notable_portfolio": [],
@@ -59571,13 +59564,12 @@
     "headquarters": "London",
     "country": "United Kingdom",
     "sector_focus": [
-      "Ecommerce",
-      "marketplaces",
+      "Marketplace",
       "SaaS",
-      "applied AI"
+      "AI"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "http://www.forwardven.com",
@@ -59608,11 +59600,11 @@
     "sector_focus": [
       "SaaS",
       "AI",
-      "marketplaces",
-      "fintech"
+      "Marketplace",
+      "Fintech"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "https://playfair.vc",
@@ -59641,13 +59633,11 @@
     "headquarters": "London / Paris / Berlin",
     "country": "United Kingdom",
     "sector_focus": [
-      "Company creation",
       "AI",
-      "deeptech",
-      "software"
+      "Deeptech"
     ],
     "stage_focus": [
-      "Pre-seed"
+      "Pre-Seed"
     ],
     "website": "https://joinef.com",
     "notable_portfolio": [],
@@ -59710,12 +59700,12 @@
     "sector_focus": [
       "SaaS",
       "AI",
-      "fintech",
-      "consumer",
-      "hardware"
+      "Fintech",
+      "Consumer"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://newfundcap.com",
     "notable_portfolio": [
@@ -60019,12 +60009,15 @@
     "country": "Germany",
     "sector_focus": [
       "Deeptech",
-      "life sciences",
-      "software",
-      "climate"
+      "Biotech",
+      "Climate"
     ],
     "stage_focus": [
-      "Seed to growth"
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://bayernkapital.de",
     "notable_portfolio": [
@@ -60063,12 +60056,14 @@
     "country": "France",
     "sector_focus": [
       "SaaS",
-      "marketplaces",
-      "consumer",
-      "fintech"
+      "Marketplace",
+      "Consumer",
+      "Fintech"
     ],
     "stage_focus": [
-      "Seed to Series B"
+      "Seed",
+      "Series A",
+      "Series B"
     ],
     "website": "https://ventechvc.com",
     "notable_portfolio": [
@@ -60185,12 +60180,14 @@
     "sector_focus": [
       "Fintech",
       "SaaS",
-      "health",
-      "climate",
-      "crypto"
+      "Digital Health",
+      "Climate",
+      "Web3"
     ],
     "stage_focus": [
-      "Pre-seed to Series A"
+      "Pre-Seed",
+      "Seed",
+      "Series A"
     ],
     "website": "https://picuscapital.com",
     "notable_portfolio": [],
@@ -60220,11 +60217,13 @@
     "sector_focus": [
       "Deeptech",
       "SaaS",
-      "climate",
-      "health"
+      "Climate",
+      "Digital Health"
     ],
     "stage_focus": [
-      "Seed to Series B"
+      "Seed",
+      "Series A",
+      "Series B"
     ],
     "website": "https://coparion.de",
     "notable_portfolio": [],
@@ -60252,13 +60251,13 @@
     "headquarters": "Berlin",
     "country": "Germany",
     "sector_focus": [
-      "Digital",
-      "life sciences",
-      "creative",
-      "impact"
+      "Biotech",
+      "Consumer",
+      "Impact"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://ibb-bet.de",
     "notable_portfolio": [],
@@ -60358,12 +60357,14 @@
     "country": "Finland",
     "sector_focus": [
       "Deeptech",
-      "gaming",
+      "Gaming",
       "SaaS",
-      "health"
+      "Digital Health"
     ],
     "stage_focus": [
-      "Pre-seed to Series A"
+      "Pre-Seed",
+      "Seed",
+      "Series A"
     ],
     "website": "https://lifeline.vc",
     "notable_portfolio": [],
@@ -60392,12 +60393,13 @@
     "country": "Finland",
     "sector_focus": [
       "Deeptech",
-      "brand tech",
+      "Consumer",
       "AI",
-      "health"
+      "Digital Health"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://maki.vc",
     "notable_portfolio": [
@@ -60430,13 +60432,10 @@
     "headquarters": "Helsinki / Stockholm / Tallinn",
     "country": "Finland",
     "sector_focus": [
-      "Active VC fund in Europe",
-      "early-stage Nordic",
-      "Baltic",
-      "European software and tech startups."
+      "SaaS"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "https://icebreaker.vc",
@@ -60467,12 +60466,13 @@
     "sector_focus": [
       "SaaS",
       "AI",
-      "fintech",
-      "health",
-      "consumer"
+      "Fintech",
+      "Digital Health",
+      "Consumer"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "http://www.inventure.vc",
     "notable_portfolio": [],
@@ -60501,12 +60501,11 @@
     "country": "Finland",
     "sector_focus": [
       "Deeptech",
-      "science",
-      "quantum",
-      "biotech"
+      "Biotech"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://voima.vc",
     "notable_portfolio": [],
@@ -60570,12 +60569,15 @@
     "headquarters": "Antwerp / Amsterdam / Munich",
     "country": "Belgium",
     "sector_focus": [
-      "B2B SaaS",
-      "software",
-      "fintech"
+      "SaaS",
+      "Fintech"
     ],
     "stage_focus": [
-      "Seed to growth"
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://fortino.be",
     "notable_portfolio": [],
@@ -61192,9 +61194,9 @@
     "headquarters": "Helsinki / London",
     "country": "Finland",
     "sector_focus": [
-      "B2B software",
-      "data",
-      "open source",
+      "SaaS",
+      "Enterprise",
+      "DevTools",
       "AI"
     ],
     "stage_focus": [
@@ -61231,11 +61233,11 @@
     "country": "Switzerland",
     "sector_focus": [
       "Deeptech",
-      "life sciences",
-      "software"
+      "Biotech"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://vipartners.ch",
     "notable_portfolio": [],
@@ -61568,7 +61570,7 @@
     "check_size_max": null,
     "founded_year": 2012,
     "headquarters": "Dubai, UAE",
-    "country": "UAE",
+    "country": "United Arab Emirates",
     "sector_focus": [
       "Fintech",
       "Aerospace & Defense"
@@ -61655,11 +61657,15 @@
     "sector_focus": [
       "Deeptech",
       "SaaS",
-      "health",
-      "climate"
+      "Digital Health",
+      "Climate"
     ],
     "stage_focus": [
-      "Seed to growth"
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://nrwbank.de",
     "notable_portfolio": [],
@@ -61840,12 +61846,13 @@
     "headquarters": "Luxembourg",
     "country": "Luxembourg",
     "sector_focus": [
-      "Consumer internet",
+      "Consumer",
       "SaaS",
-      "fintech"
+      "Fintech"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "http://www.mangrove.vc/",
     "notable_portfolio": [],
@@ -63280,12 +63287,13 @@
     "country": "United Kingdom",
     "sector_focus": [
       "SaaS",
-      "fintech",
-      "consumer",
-      "marketplaces"
+      "Fintech",
+      "Consumer",
+      "Marketplace"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://profounderscapital.com",
     "notable_portfolio": [],
@@ -63400,13 +63408,14 @@
     "headquarters": "Athens",
     "country": "Greece",
     "sector_focus": [
-      "Marketplaces",
+      "Marketplace",
       "SaaS",
-      "fintech",
-      "travel"
+      "Fintech",
+      "Consumer"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "http://venturefriends.vc/",
     "notable_portfolio": [],
@@ -64965,12 +64974,11 @@
     "country": "Germany",
     "sector_focus": [
       "Deeptech",
-      "climate",
-      "AI",
-      "frontier tech"
+      "Climate",
+      "AI"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "https://possible.vc",
@@ -65226,13 +65234,16 @@
     "headquarters": "Paris",
     "country": "France",
     "sector_focus": [
-      "Digital tech",
-      "life sciences",
-      "microbiome",
-      "fintech"
+      "Enterprise",
+      "Biotech",
+      "Fintech"
     ],
     "stage_focus": [
-      "Seed to growth"
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://seventure.fr",
     "notable_portfolio": [
@@ -65310,12 +65321,10 @@
     "headquarters": "Tel Aviv, Israel",
     "country": "Israel",
     "sector_focus": [
-      "Deep Tech",
-      "Climate & Energy",
-      "Compute",
-      "Manufacturing & Robotics",
-      "Aerospace & Defense",
-      "B2B"
+      "Deeptech",
+      "Climate",
+      "Robotics",
+      "Aerospace & Defense"
     ],
     "stage_focus": [
       "Pre-Seed",
@@ -65673,12 +65682,15 @@
     "headquarters": "Chester",
     "country": "United Kingdom",
     "sector_focus": [
-      "Life sciences",
-      "tech",
-      "renewable energy"
+      "Biotech",
+      "Climate"
     ],
     "stage_focus": [
-      "Seed to growth"
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://deepbridge.co.uk",
     "notable_portfolio": [],
@@ -65745,12 +65757,11 @@
     "headquarters": "Leicester / UK",
     "country": "United Kingdom",
     "sector_focus": [
-      "Health",
-      "tech",
-      "regional innovation"
+      "Digital Health"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "http://www.catapultthinking.com",
     "notable_portfolio": [],
@@ -66229,13 +66240,12 @@
     "headquarters": "Helsinki / Nordics",
     "country": "Finland",
     "sector_focus": [
-      "Student founders",
       "SaaS",
       "AI",
-      "consumer"
+      "Consumer"
     ],
     "stage_focus": [
-      "Pre-seed"
+      "Pre-Seed"
     ],
     "website": "http://wave.capital",
     "notable_portfolio": [],
@@ -67745,12 +67755,13 @@
     "country": "Spain",
     "sector_focus": [
       "SaaS",
-      "consumer",
-      "fintech",
+      "Consumer",
+      "Fintech",
       "AI"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "http://theventure.city",
     "notable_portfolio": [
@@ -68070,16 +68081,13 @@
       "Digital Health",
       "Other",
       "Consumer",
-      "Fintech",
-      "insurtech",
-      "embedded finance"
+      "Fintech"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Pre-seed"
+      "Series B+"
     ],
     "website": "https://www.firstcircle.capital/",
     "notable_portfolio": [
@@ -68321,13 +68329,14 @@
     "headquarters": "Helsinki",
     "country": "Finland",
     "sector_focus": [
-      "B2B SaaS",
-      "fintech",
-      "health",
+      "SaaS",
+      "Fintech",
+      "Digital Health",
       "AI"
     ],
     "stage_focus": [
-      "Seed to Series A"
+      "Seed",
+      "Series A"
     ],
     "website": "https://superhero.capital",
     "notable_portfolio": [],
@@ -68760,15 +68769,15 @@
     "headquarters": "Stamford / London",
     "country": "United Kingdom",
     "sector_focus": [
-      "B2B SaaS",
+      "SaaS",
       "AI",
-      "fintech",
-      "digital marketplaces"
+      "Fintech",
+      "Marketplace"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed",
-      "early growth"
+      "Growth"
     ],
     "website": "https://haatch.com",
     "notable_portfolio": [
@@ -69324,71 +69333,6 @@
     "created_at": "2026-05-22T19:29:47.204175+00:00"
   },
   {
-    "id": "89c47997-a057-44eb-b63d-4168d7be2261",
-    "name": "Verified",
-    "slug": "verified",
-    "description": "Verified is a RegTech company helping businesses across Europe navigate the complexities of compliance. We provide smart, scalable solutions that streamline key compliance workflows – including Anti-Money Laundering (AML & KYC), Due Diligence (DD), and Contract Lifecycle Management (CLM). Since 2012, we’ve been building innovative tools to make compliance smoother and more secure – starting with e-signatures and digital identity, and now offering a full suite of RegTech services. More than 5,500",
-    "thesis": "Verified is a RegTech company helping businesses across Europe navigate the complexities of compliance. We provide smart, scalable solutions that streamline key compliance workflows – including Anti-Money Laundering (AML & KYC), Due Diligence (DD), and Contract Lifecycle Management (CLM). Since 2012, we’ve been building innovative tools to make compliance smoother and more secure – starting with e-signatures and digital identity, and now offering a full suite of RegTech services. More than 5,500",
-    "investment_thesis": null,
-    "overview": null,
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "81.0",
-    "aum": "$175M",
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": 2025,
-    "headquarters": "Bay Area",
-    "country": "SE",
-    "sector_focus": [],
-    "stage_focus": [],
-    "website": "https://verified.eu",
-    "notable_portfolio": [
-      "English",
-      "Svenska",
-      "Norsk",
-      "Suomi",
-      "Jan-Håkon Elverland",
-      "Mette Pedersen",
-      "Andrea Mortensen",
-      "Heidi Sannes",
-      "Andreas Lidhed",
-      "Victoria Boije",
-      "Torstein Lerhol",
-      "Jenny Koch",
-      "Tommy Jarnemark",
-      "Elin Jönsson",
-      "Eelis Ripatti",
-      "Suradech Samee",
-      "Lisa Ekström",
-      "Ankita Sheth",
-      "Raeder - elevating efficiency with Verified",
-      "1. Faster processes",
-      "2. Access to the right data",
-      "3. Increased Regulatory Compliance",
-      "1. Import all kinds of contracts",
-      "2. Smart data extraction",
-      "3. Improve structure",
-      "1. Speed up your signing processes",
-      "2. Secured identification",
-      "3. Legally binding",
-      "1. Single Source of Truth",
-      "2. Standardize & collaborate",
-      "3. Invite for the right access",
-      "Coworkers",
-      "Lorem ipsum dolor sit amet elit",
-      "See Verified in action",
-      "Pricing",
-      "More Links",
-      "Layer 2"
-    ],
-    "logo_url": "https://d878vporrm2hj.cloudfront.net/company/27607163_company_logo",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.030902+00:00"
-  },
-  {
     "id": "01dd9123-99e6-43ad-a274-a20f3b7472e8",
     "name": "Twelve Below",
     "slug": "twelve-below",
@@ -69484,7 +69428,7 @@
     "check_size_max": null,
     "founded_year": 2019,
     "headquarters": "UK",
-    "country": "IL",
+    "country": "Israel",
     "sector_focus": [],
     "stage_focus": [],
     "website": "http://www.remagineventures.com",
@@ -69710,11 +69654,12 @@
     "headquarters": "Boston, Amsterdam",
     "country": "Netherlands",
     "sector_focus": [
-      "InsurTech",
-      "FoodTech"
+      "Fintech",
+      "Consumer"
     ],
     "stage_focus": [
-      "Seed→Serie A"
+      "Seed",
+      "Series A"
     ],
     "website": "http://www.anterracapital.com",
     "notable_portfolio": [],
@@ -69742,13 +69687,11 @@
     "headquarters": "London",
     "country": "United Kingdom",
     "sector_focus": [
-      "Generalist early",
       "AI",
-      "climate",
-      "B2B"
+      "Climate"
     ],
     "stage_focus": [
-      "Pre-seed",
+      "Pre-Seed",
       "Seed"
     ],
     "website": "https://sfccapital.com",
@@ -71780,9 +71723,7 @@
       "SaaS",
       "Consumer",
       "Marketplace",
-      "marketplaces",
-      "consumer",
-      "fintech",
+      "Fintech",
       "AI"
     ],
     "stage_focus": [
@@ -71790,7 +71731,8 @@
       "Series A",
       "Series B+",
       "Growth",
-      "Seed to growth"
+      "Series B",
+      "Series C"
     ],
     "website": "https://headline.com",
     "notable_portfolio": [
@@ -71833,16 +71775,13 @@
       "Consumer",
       "Fintech",
       "Impact",
-      "fintech",
-      "health",
       "SaaS"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Pre-seed"
+      "Series B+"
     ],
     "website": "http://ascensionventures.org/",
     "notable_portfolio": [
@@ -71962,16 +71901,16 @@
       "Fintech",
       "Climate",
       "Gaming",
-      "web3",
-      "sports",
-      "media"
+      "Web3"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.bitkraft.vc",
     "notable_portfolio": [
@@ -72093,8 +72032,7 @@
       "Fintech",
       "Climate",
       "Deeptech",
-      "semiconductors",
-      "enterprise",
+      "Enterprise",
       "AI"
     ],
     "stage_focus": [
@@ -72102,7 +72040,9 @@
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://www.abven.com",
     "notable_portfolio": [
@@ -72185,9 +72125,7 @@
       "Fintech",
       "Enterprise",
       "SaaS",
-      "fintech",
-      "AI",
-      "consumer"
+      "AI"
     ],
     "stage_focus": [
       "Pre-Seed",
@@ -72236,16 +72174,13 @@
       "Consumer",
       "Fintech",
       "Climate",
-      "Foodtech",
-      "alternative protein",
-      "agriculture"
+      "Agriculture"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Pre-seed"
+      "Series B+"
     ],
     "website": "https://bigideaventures.com/",
     "notable_portfolio": [
@@ -72285,14 +72220,13 @@
       "Fintech",
       "Climate",
       "Web3",
-      "IA"
+      "AI"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed→Série A"
+      "Series B+"
     ],
     "website": "http://blueyard.com/",
     "notable_portfolio": [
@@ -72330,16 +72264,16 @@
       "Other",
       "Consumer",
       "Fintech",
-      "Climate",
-      "energy",
-      "industrial decarbonization"
+      "Climate"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.breakthroughenergy.org",
     "notable_portfolio": [
@@ -72420,14 +72354,12 @@
       "Deeptech",
       "AI",
       "Biotech",
-      "IA",
       "Cybersecurity"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
-      "Series A",
-      "Seed→Serie A"
+      "Series A"
     ],
     "website": "https://www.singular.vc",
     "notable_portfolio": [],
@@ -72460,16 +72392,14 @@
       "Consumer",
       "Fintech",
       "Climate",
-      "B2B SaaS",
-      "fintech",
+      "SaaS",
       "AI"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Pre-seed"
+      "Series B+"
     ],
     "website": "http://www.changeventures.com",
     "notable_portfolio": [],
@@ -72544,16 +72474,16 @@
       "Other",
       "Consumer",
       "Fintech",
-      "Climate",
-      "insurance",
-      "lending"
+      "Climate"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://www.clocktowerventures.com",
     "notable_portfolio": [],
@@ -72681,9 +72611,8 @@
       "SaaS",
       "Marketplace",
       "AI",
-      "Product-led software",
-      "consumer",
-      "fintech"
+      "Consumer",
+      "Fintech"
     ],
     "stage_focus": [
       "Seed",
@@ -72726,16 +72655,16 @@
       "Other",
       "Consumer",
       "Fintech",
-      "Climate",
-      "insurtech",
-      "climate fintech"
+      "Climate"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://www.commerzventures.com",
     "notable_portfolio": [
@@ -72773,17 +72702,15 @@
       "Consumer",
       "Fintech",
       "Climate",
-      "Enterprise software",
+      "Enterprise",
       "AI",
-      "data",
-      "devtools"
+      "DevTools"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed to Series A"
+      "Series B+"
     ],
     "website": "https://crane.vc/",
     "notable_portfolio": [
@@ -72873,16 +72800,13 @@
       "Fintech",
       "Climate",
       "SaaS",
-      "fintech",
-      "AI",
-      "consumer"
+      "AI"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed to Series A"
+      "Series B+"
     ],
     "website": "http://dayoneventures.com/",
     "notable_portfolio": [
@@ -72973,15 +72897,12 @@
       "AI",
       "Digital Health",
       "Fintech",
-      "Deeptech",
-      "IA",
-      "Semi-conducteurs"
+      "Deeptech"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed→Serie A"
+      "Series B+"
     ],
     "website": "https://www.earlybird.com",
     "notable_portfolio": [
@@ -73059,17 +72980,16 @@
     "country": "United States",
     "sector_focus": [
       "Climate",
-      "Energy",
-      "climate",
-      "mobility",
-      "grid"
+      "Mobility"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://energyimpactpartners.com",
     "notable_portfolio": [
@@ -73151,16 +73071,16 @@
       "Consumer",
       "Fintech",
       "Climate",
-      "Proptech",
-      "climate",
-      "real estate tech"
+      "PropTech"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://fifthwall.com/",
     "notable_portfolio": [
@@ -73279,16 +73199,16 @@
       "Consumer",
       "Fintech",
       "Climate",
-      "Capital markets",
-      "fintech",
-      "enterprise software"
+      "Enterprise"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://illuminate.vc/",
     "notable_portfolio": [],
@@ -73371,17 +73291,17 @@
       "Other",
       "Consumer",
       "Fintech",
-      "Healthtech",
-      "deeptech",
-      "SaaS",
-      "fintech"
+      "Deeptech",
+      "SaaS"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.inkef.com",
     "notable_portfolio": [
@@ -73456,9 +73376,7 @@
       "Fintech",
       "Digital Health",
       "Consumer",
-      "SaaS",
-      "consumer",
-      "health"
+      "SaaS"
     ],
     "stage_focus": [
       "Series B+",
@@ -73781,8 +73699,8 @@
       "Other",
       "Consumer",
       "Fintech",
-      "frontier tech",
-      "crypto",
+      "Deeptech",
+      "Web3",
       "AI"
     ],
     "stage_focus": [
@@ -73790,7 +73708,9 @@
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://www.hummingbird.vc/",
     "notable_portfolio": [
@@ -73972,16 +73892,14 @@
       "Consumer",
       "Fintech",
       "SaaS",
-      "fintech",
       "AI",
-      "marketplaces"
+      "Marketplace"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Pre-seed"
+      "Series B+"
     ],
     "website": "https://www.kaya.vc/",
     "notable_portfolio": [
@@ -74018,9 +73936,7 @@
       "Fintech",
       "Consumer",
       "Marketplace",
-      "health",
-      "fintech",
-      "climate"
+      "Climate"
     ],
     "stage_focus": [
       "Series A",
@@ -74104,15 +74020,17 @@
     "sector_focus": [
       "Consumer",
       "Enterprise",
-      "fintech",
-      "marketplaces",
+      "Fintech",
+      "Marketplace",
       "SaaS"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://leftlanecap.com",
     "notable_portfolio": [
@@ -74238,15 +74156,11 @@
     "headquarters": "Amsterdam, Netherlands",
     "country": "Netherlands",
     "sector_focus": [
-      "Web3",
-      "Crypto",
-      "DeFi",
-      "web3 infrastructure"
+      "Web3"
     ],
     "stage_focus": [
       "Seed",
-      "Series A",
-      "Seed to Series A"
+      "Series A"
     ],
     "website": "https://maven11.com",
     "notable_portfolio": [
@@ -74285,14 +74199,12 @@
       "Aerospace & Defense",
       "Digital Health",
       "Enterprise",
-      "IA",
-      "DeepTech"
+      "Deeptech"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed→Serie A"
+      "Series B+"
     ],
     "website": "https://www.nvidia.com/en-us/about-nvidia/ventures/",
     "notable_portfolio": [
@@ -74420,14 +74332,15 @@
     "sector_focus": [
       "Cybersecurity",
       "Aerospace & Defense",
-      "national security",
       "AI"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://paladincapgroup.com",
     "notable_portfolio": [
@@ -74465,16 +74378,15 @@
       "SaaS",
       "Marketplace",
       "Consumer",
-      "fintech",
-      "marketplaces",
-      "climate",
-      "supply chain",
+      "Fintech",
+      "Climate",
+      "Industrial",
       "AI"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
-      "Seed to Series B"
+      "Series B"
     ],
     "website": "https://project-a.com",
     "notable_portfolio": [
@@ -74560,16 +74472,15 @@
       "Marketplace",
       "Fintech",
       "Enterprise",
-      "Marketplaces",
-      "consumer",
-      "fintech",
       "SaaS"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.rocket-internet.com",
     "notable_portfolio": [
@@ -74610,16 +74521,14 @@
       "Digital Health",
       "Deeptech",
       "Consumer",
-      "consumer",
-      "web3",
-      "health",
-      "fintech"
+      "Web3",
+      "Fintech"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to Series B"
+      "Series B"
     ],
     "website": "https://www.samsungnext.com",
     "notable_portfolio": [
@@ -74706,14 +74615,14 @@
       "Consumer",
       "Gaming",
       "Fintech",
-      "Entertainment",
-      "sensors",
-      "mobility"
+      "Deeptech",
+      "Mobility"
     ],
     "stage_focus": [
       "Series A",
       "Series B+",
-      "Seed to Series B"
+      "Seed",
+      "Series B"
     ],
     "website": "https://www.sony.com/en/SonyInfo/corporate-info/innovation-fund/",
     "notable_portfolio": [
@@ -74754,13 +74663,15 @@
       "AI",
       "Digital Health",
       "Fintech",
-      "Biotech",
-      "Life sciences",
-      "digital tech"
+      "Biotech"
     ],
     "stage_focus": [
       "Series B+",
-      "Seed to growth"
+      "Seed",
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.wellington.com",
     "notable_portfolio": [
@@ -74845,13 +74756,14 @@
       "AI",
       "Digital Health",
       "Industrial",
-      "mobility",
-      "enterprise"
+      "Mobility"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.technexus.com",
     "notable_portfolio": [
@@ -74921,12 +74833,14 @@
     "headquarters": "San Francisco, CA",
     "country": "United States",
     "sector_focus": [
-      "Biotech",
-      "therapeutics"
+      "Biotech"
     ],
     "stage_focus": [
       "Series A",
-      "Seed to growth"
+      "Seed",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://versantventures.com",
     "notable_portfolio": [
@@ -75054,16 +74968,16 @@
     "sector_focus": [
       "AI",
       "SaaS",
-      "data",
-      "climate",
-      "fintech",
-      "marketplaces",
-      "LegalTech",
-      "Crypto & Web3"
+      "Enterprise",
+      "Climate",
+      "Fintech",
+      "Marketplace",
+      "Web3"
     ],
     "stage_focus": [
-      "Seed to Series A/B",
-      "Seed→Serie B"
+      "Seed",
+      "Series A",
+      "Series B"
     ],
     "website": "https://www.serenaventures.com/",
     "notable_portfolio": [
@@ -75194,9 +75108,8 @@
       "Enterprise",
       "SaaS",
       "Consumer",
-      "fintech",
-      "consumer",
-      "cyber"
+      "Fintech",
+      "Cybersecurity"
     ],
     "stage_focus": [
       "Series B+",
@@ -75239,9 +75152,7 @@
       "Other",
       "Consumer",
       "Fintech",
-      "Semiconductors",
-      "nanotech",
-      "deeptech",
+      "Deeptech",
       "AI"
     ],
     "stage_focus": [
@@ -75249,7 +75160,9 @@
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://www.imecxpand.com/",
     "notable_portfolio": [
@@ -76155,16 +76068,15 @@
     "sector_focus": [
       "Fintech",
       "Consumer",
-      "Enterprise",
-      "lending",
-      "payments",
-      "insurtech"
+      "Enterprise"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.qedinvestors.com",
     "notable_portfolio": [
@@ -76255,16 +76167,15 @@
       "AI",
       "SaaS",
       "Cybersecurity",
-      "DevTools",
-      "enterprise",
-      "cloud",
-      "cybersecurity"
+      "DevTools"
     ],
     "stage_focus": [
       "Series A",
       "Series B+",
       "Seed",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://m12.vc",
     "notable_portfolio": [
@@ -76404,17 +76315,15 @@
       "Fintech",
       "Climate",
       "SaaS",
-      "fintech",
-      "health",
-      "climate",
-      "consumer",
-      "deeptech"
+      "Deeptech"
     ],
     "stage_focus": [
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://www.eurazeo.com",
     "notable_portfolio": [
@@ -76459,9 +76368,7 @@
       "Consumer",
       "Fintech",
       "AI",
-      "SaaS",
-      "Internet",
-      "fintech"
+      "SaaS"
     ],
     "stage_focus": [
       "Seed",
@@ -76562,20 +76469,21 @@
     "check_size_max": "$100M",
     "founded_year": 2017,
     "headquarters": "Abu Dhabi, UAE",
-    "country": "UAE",
+    "country": "United Arab Emirates",
     "sector_focus": [
       "Enterprise",
       "AI",
       "Fintech",
       "Digital Health",
       "SaaS",
-      "fintech",
-      "health",
-      "mobility"
+      "Mobility"
     ],
     "stage_focus": [
       "Series B+",
-      "Series A to growth"
+      "Series A",
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://mubadala.com",
     "notable_portfolio": [
@@ -76613,9 +76521,7 @@
       "Enterprise",
       "Digital Health",
       "Fintech",
-      "commerce",
-      "SaaS",
-      "fintech"
+      "SaaS"
     ],
     "stage_focus": [
       "Series A",
@@ -76694,17 +76600,16 @@
       "Enterprise",
       "AI",
       "Consumer",
-      "enterprise",
-      "consumer",
-      "fintech",
-      "infra"
+      "Fintech"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "https://lsvp.com",
     "notable_portfolio": [
@@ -79516,14 +79421,11 @@
       "Fintech",
       "SaaS",
       "AI",
-      "Cybersecurity",
-      "Technology",
-      "fintech",
-      "infra"
+      "Cybersecurity"
     ],
     "stage_focus": [
       "Series B+",
-      "Growth / late"
+      "Growth"
     ],
     "website": "https://www.silverlake.com",
     "notable_portfolio": [
@@ -79844,7 +79746,7 @@
     "check_size_max": null,
     "founded_year": null,
     "headquarters": "Abu Dhabi, UAE",
-    "country": "UAE",
+    "country": "United Arab Emirates",
     "sector_focus": [
       "Aerospace & Defense",
       "Digital Health",
@@ -80051,14 +79953,15 @@
     "headquarters": "London / Barcelona / Berlin",
     "country": "United Kingdom",
     "sector_focus": [
-      "B2B SaaS",
-      "cybersecurity",
+      "SaaS",
+      "Cybersecurity",
       "AI",
-      "fintech infra",
-      "devtools"
+      "Fintech",
+      "DevTools"
     ],
     "stage_focus": [
-      "Seed to Series A/B"
+      "Seed",
+      "Series A"
     ],
     "website": "https://nautacapital.com",
     "notable_portfolio": [
@@ -81566,17 +81469,15 @@
       "Consumer",
       "Fintech",
       "Climate",
-      "Defence",
-      "deeptech",
-      "AI",
-      "resilience"
+      "Deeptech",
+      "AI"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to Series B"
+      "Series B"
     ],
     "website": "http://expeditionsfund.com/",
     "notable_portfolio": [
@@ -81616,15 +81517,13 @@
       "Climate",
       "SaaS",
       "AI",
-      "security",
-      "fintech"
+      "Cybersecurity"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed to Series A"
+      "Series B+"
     ],
     "website": "http://www.credoventures.com",
     "notable_portfolio": [
@@ -82564,16 +82463,16 @@
       "Fintech",
       "AI",
       "SaaS",
-      "fintech",
-      "consumer",
-      "climate"
+      "Climate"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Series A to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://www.cherry.vc",
     "notable_portfolio": [
@@ -82615,16 +82514,14 @@
       "Other",
       "Consumer",
       "Fintech",
-      "IA",
-      "InsurTech",
+      "AI",
       "Gaming"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Seed→Serie A"
+      "Series B+"
     ],
     "website": "https://elevationcapital.com",
     "notable_portfolio": [
@@ -82664,16 +82561,15 @@
       "Consumer",
       "Fintech",
       "Climate",
-      "B2B SaaS",
+      "SaaS",
       "AI",
-      "marketplaces"
+      "Marketplace"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
-      "Series B+",
-      "Pre-seed"
+      "Series B+"
     ],
     "website": "http://www.episode1.com",
     "notable_portfolio": [
@@ -82809,16 +82705,15 @@
       "Fintech",
       "Climate",
       "SaaS",
-      "consumer",
       "AI",
-      "marketplaces"
+      "Marketplace"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Pre-seed to Series B"
+      "Series B"
     ],
     "website": "http://www.entreecap.com",
     "notable_portfolio": [
@@ -82956,15 +82851,16 @@
       "Consumer",
       "Fintech",
       "Climate",
-      "Gaming",
-      "interactive entertainment"
+      "Gaming"
     ],
     "stage_focus": [
       "Pre-Seed",
       "Seed",
       "Series A",
       "Series B+",
-      "Seed to growth"
+      "Series B",
+      "Series C",
+      "Growth"
     ],
     "website": "http://www.griffingp.com",
     "notable_portfolio": [
