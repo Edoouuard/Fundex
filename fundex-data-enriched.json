@@ -53414,44 +53414,6 @@
     "created_at": "2026-05-22T19:29:49.859043+00:00"
   },
   {
-    "id": "29b24b98-5170-4152-985c-b659e684eb5a",
-    "name": "Revolution Rise of the Rest",
-    "slug": "revolution-rise-of-the-rest",
-    "description": "Steve Case's initiative investing in startups outside traditional tech hubs like Silicon Valley. Focuses on seed-stage companies in underserved US markets.",
-    "thesis": "Investing in seed-stage startups located outside traditional coastal tech hubs, with a focus on entrepreneurial talent in underserved American markets.",
-    "investment_thesis": "Revolution Rise of the Rest specifically targets seed-stage companies in US markets outside Silicon Valley, Boston, and New York, believing these regions offer superior value creation opportunities due to lower competition, reduced operational costs, and undervalued talent pools. The fund focuses on companies that can leverage geographic advantages - accessing local enterprise customers, benefiting from university partnerships, or tapping into industry-specific expertise in their regions. They evaluate teams based on their connection to and understanding of their local markets, seeking entrepreneurs who can build sustainable competitive advantages through geographic positioning. The fund particularly favors SaaS companies serving enterprise customers and consumer businesses that can scale beyond their initial markets. Their edge lies in being among the first institutional investors willing to lead rounds in these markets, combined with their platform's ability to connect portfolio companies with follow-on investors and strategic partners through their extensive network and Rise of the Rest events.",
-    "overview": "Revolution's Rise of the Rest Seed Fund represents one of the most geographically focused venture capital strategies in the industry, targeting early-stage companies in US markets outside the traditional Silicon Valley-Boston-New York corridor. Founded by AOL co-founder Steve Case in 2014, the initiative emerged from Case's belief that venture capital was too concentrated in coastal hubs, leaving promising entrepreneurs in cities like Nashville, Detroit, and Denver underserved and undervalued. The Rise of the Rest Seed Fund operates as part of Revolution's broader ecosystem, which includes growth-stage investing and the high-profile Rise of the Rest bus tours that visit secondary markets across America. With $150 million in assets under management, the fund focuses exclusively on seed-stage investments, typically writing checks ranging from $250,000 to $1 million. The fund's portfolio demonstrates its commitment to geographic diversification, with investments spanning markets from Austin and Atlanta to Pittsburgh and Phoenix. Notable portfolio companies include OrderUp (acquired by Groupon), UrbanStems, and various SaaS and consumer-focused startups that have leveraged lower operational costs and emerging talent pools in their respective markets. The fund's investment approach capitalizes on the arbitrage opportunity between coastal and inland markets - backing companies that might struggle to get attention from Sand Hill Road but can achieve significant traction with lower customer acquisition costs and operational expenses. Revolution Rise of the Rest has participated in the broader trend of venture capital geographic expansion, though few firms have made it as central to their identity and investment thesis. The fund's annual Rise of the Rest tour, which visits different cities and culminates in pitch competitions, has become a signature element of their brand and deal sourcing strategy. Case's prominence as both an entrepreneur and investor has given the fund significant platform advantages, helping portfolio companies access networks and opportunities that might otherwise be concentrated on the coasts. The timing of the fund's launch proved prescient, as remote work trends and rising costs in traditional tech hubs have validated many of its core assumptions about the potential for startup ecosystems in secondary markets.",
-    "fund_history_text": null,
-    "team_highlights": "Steve Case leads Revolution Rise of the Rest as Chairman and CEO, bringing his experience as AOL co-founder and his extensive network from decades in tech and policy circles. Case's background includes serving on President Obama's Council on Jobs and Competitiveness and authoring 'The Third Wave,' which outlines his thesis about technology's evolution beyond pure internet plays. The investment team includes Managing Director Clara Brenner, who joined from Foundry Group and brings operational experience from companies like Techstars. The fund leverages Revolution's broader platform, which includes experienced investors and operators who have built companies across multiple geographic markets. The team's strength lies in combining Silicon Valley investment experience with deep conviction about opportunities in emerging startup ecosystems nationwide.",
-    "team_size": "10-25",
-    "aum": "$150M",
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": 2014,
-    "headquarters": "Washington, DC",
-    "country": "United States",
-    "sector_focus": [
-      "SaaS",
-      "Consumer",
-      "Enterprise"
-    ],
-    "stage_focus": [
-      "Seed"
-    ],
-    "website": "https://revolution.com/entity/rise-of-the-rest-seed-fund",
-    "notable_portfolio": [
-      "ShipBob",
-      "DataRobot",
-      "Whose Your Landlord",
-      "Roadie"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/eb30db315415841c143b812ca4bb5d752ff652a5-128x128.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/revolution-rise-of-the-rest",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
-  },
-  {
     "id": "a6f2792d-639a-45be-a0b0-533e65590ba9",
     "name": "LD Capital",
     "slug": "ld-capital",
@@ -53860,7 +53822,11 @@
     "notable_portfolio": [
       "Built In",
       "Owlet",
-      "Cotopaxi"
+      "Cotopaxi",
+      "ShipBob",
+      "DataRobot",
+      "Whose Your Landlord",
+      "Roadie"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/2780ce80f136a2eddd5047acacfee10c3f4735a6-128x128.png",
     "featured": false,
