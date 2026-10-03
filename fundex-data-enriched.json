@@ -14876,45 +14876,6 @@
     "created_at": "2026-05-22T19:29:47.204175+00:00"
   },
   {
-    "id": "2f2bfda0-db4d-466d-abd8-8e22048e08c5",
-    "name": "Bread & Butter Ventures",
-    "slug": "bread-butter-ventures",
-    "description": "Denver-based venture capital fund investing in early-stage companies outside of traditional tech hubs. Founded by Christine Perich to support entrepreneurs building innovative businesses in emerging markets and underserved regions.",
-    "thesis": "Investing in early-stage companies in emerging ecosystems outside of Silicon Valley.",
-    "investment_thesis": null,
-    "overview": "Bread & Butter Ventures is a Denver-based venture capital fund founded by Christine Perich with a mission to support early-stage companies outside of traditional tech hubs like Silicon Valley and New York. The firm focuses on backing entrepreneurs building innovative businesses in emerging markets and underserved regions, recognizing the significant opportunities that exist beyond coastal technology centers. Their investment focus spans consumer products, enterprise software, digital health, and AI technologies, typically investing at the pre-seed and seed stages. The firm's geographic strategy reflects a belief that great companies can emerge from anywhere, and that there are substantial advantages to investing in markets with lower competition and cost structures. By providing capital and expertise to founders in these markets, Bread & Butter Ventures aims to help build sustainable, scalable businesses while contributing to the growth of regional entrepreneurial ecosystems.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "5-15",
-    "aum": "$25M",
-    "check_size_min": "$100K",
-    "check_size_max": "$500K",
-    "founded_year": 2017,
-    "headquarters": "Denver, CO",
-    "country": "United States",
-    "sector_focus": [
-      "Consumer",
-      "Enterprise",
-      "Digital Health",
-      "AI"
-    ],
-    "stage_focus": [
-      "Pre-Seed",
-      "Seed"
-    ],
-    "website": "https://breadbutterventures.com",
-    "notable_portfolio": [
-      "Pepperlane",
-      "ClassDojo",
-      "Ibotta"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/322827b7a02fbdde7338201d04d4a0989da1efe2-200x200.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/bread-butter-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
-  },
-  {
     "id": "ebf56e8b-f545-46d3-9e32-edf0882f9d23",
     "name": "Bragiel Brothers",
     "slug": "bragiel-brothers",
@@ -70390,15 +70351,16 @@
       "Arrive Logistics",
       "Zaarly",
       "Handprint",
-      "Wide Subscribe Form",
-      "Email Address",
       "Tradeverifyd",
       "SocialCrowd",
       "Chiyo",
       "VoicecareAI",
       "ShearShare",
       "Upsie",
-      "Orbiit"
+      "Orbiit",
+      "Pepperlane",
+      "ClassDojo",
+      "Ibotta"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/3d6a40cd25d6d7e5d6443827286456794a19116b-288x288.png",
     "featured": false,
