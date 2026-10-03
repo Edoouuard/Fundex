@@ -589,13 +589,26 @@
       "Stone",
       "Movile",
       "ContaAzul",
-      "Pagar.me"
+      "Pagar.me",
+      "Astor",
+      "180 Seguros",
+      "NG.CASH",
+      "Yuno",
+      "99",
+      "Rappi"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/90a0ca4d30f30c33126a3ea378af1a950cf7c66c-128x128.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/monashees",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "Astor",
+      "180 Seguros",
+      "NG.CASH",
+      "Yuno"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "47a45ab4-c90b-420e-abf1-e70e4b4b6ab7",
@@ -3751,14 +3764,26 @@
       "Dropbox",
       "Atlassian",
       "CrowdStrike",
-      "Facebook"
+      "Facebook",
+      "Ema",
+      "Zed",
+      "VoidZero",
+      "Campfire",
+      "Agave"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a5f8133bc068a517fd710e993779a4924f1a6487-256x256.png",
     "featured": true,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/accel",
     "created_at": "2026-05-22T19:29:46.720779+00:00",
-    "latest_deals": []
+    "latest_deals": [
+      "Ema",
+      "Zed",
+      "VoidZero",
+      "Campfire",
+      "Agave"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "3d121a1c-c68b-4717-94b6-b11ee4a20cdd",
@@ -6050,12 +6075,28 @@
       "Series A"
     ],
     "website": "https://crv.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "7AI",
+      "Fulcrum",
+      "Outtake",
+      "Lotus Health AI",
+      "DoorDash",
+      "Dropbox",
+      "Twitter",
+      "Vercel"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "7AI",
+      "Fulcrum",
+      "Outtake",
+      "Lotus Health AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "22b9e89a-0146-45c4-9464-269ac18107b3",
@@ -10407,13 +10448,26 @@
       "Red Ventures",
       "Mindstrong",
       "Bright Health",
-      "Udaan"
+      "Udaan",
+      "Fervo Energy",
+      "Lunar Energy",
+      "PaleBlueDot AI",
+      "Sift Healthcare",
+      "Bird",
+      "Apptronik"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/2c9c7849e4d78a5b555eab37f1b13c19c8a57af8-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/b-capital-group",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Fervo Energy",
+      "Lunar Energy",
+      "PaleBlueDot AI",
+      "Sift Healthcare"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "75002610-16a0-4d2b-a2a8-8a49e73a8fe2",
@@ -13112,12 +13166,27 @@
       "Series B+"
     ],
     "website": "https://www.bowcapital.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "ReBlood Rx",
+      "Luffy AI",
+      "Sizable Energy",
+      "Farmers Business Network",
+      "Nuro",
+      "Clearco",
+      "GoMotive"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/8e8a0b91d43191ee16db1c9844daac138d1d688d-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bow-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "ReBlood Rx",
+      "Luffy AI",
+      "Sizable Energy",
+      "Farmers Business Network"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "4610a674-c6d1-4ed9-9af0-5aa62cd12137",
@@ -13723,14 +13792,21 @@
       "Amgen",
       "Genzyme",
       "Amylin Pharmaceuticals",
-      "ISTA Pharmaceuticals"
+      "ISTA Pharmaceuticals",
+      "Vertero",
+      "Onyx Pharmaceuticals",
+      "Tandem Diabetes Care",
+      "NuVasive"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/557f3f885466f4525b91ead8dca8134404755cbe-16x16.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/domain-associates",
     "created_at": "2026-05-22T19:29:48.091206+00:00",
-    "latest_deals": []
+    "latest_deals": [
+      "Vertero"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "830b7709-f685-4c8e-bb06-65ae67f8c9e9",
@@ -15521,12 +15597,27 @@
       "Seed"
     ],
     "website": "https://www.cotu.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Kingpin",
+      "Cercli",
+      "Aydi",
+      "Rekaz",
+      "Huspy",
+      "Mnzil",
+      "AdalFi"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d41600461a8f4db843d15ad5bad018fbaa7d10b9-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/cotu-ventures",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [
+      "Kingpin",
+      "Cercli",
+      "Aydi",
+      "Rekaz"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "a4687e72-bc95-4e53-90c1-ee5b5974a787",
@@ -16628,13 +16719,26 @@
       "10x Genomics",
       "Denali Therapeutics",
       "Beam Therapeutics",
-      "Caribou Biosciences"
+      "Caribou Biosciences",
+      "Beacon Biosignals",
+      "Octave Bioscience",
+      "Leyden Labs",
+      "Ginkgo Bioworks",
+      "23andMe",
+      "Adaptive Biotechnologies",
+      "Recursion Pharmaceuticals"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/2e43f4332b6fa5d36226fbe57dda300e2a05691d-57x57.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/casdin-capital",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [
+      "Beacon Biosignals",
+      "Octave Bioscience",
+      "Leyden Labs"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "a6773599-5fa0-4e1c-b848-5f8b3dddc9f7",
@@ -17438,13 +17542,27 @@
       "Observable Networks",
       "Accompany",
       "MindMeld",
-      "Cognitive Networks"
+      "Cognitive Networks",
+      "World Labs",
+      "Qunnect",
+      "Anthropic",
+      "SpecterOps",
+      "Scale AI",
+      "Cohere",
+      "Mistral AI"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/5b80ed9ba37755c049df46e6b2c94669c8d21f34-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/cisco-investments",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [
+      "World Labs",
+      "Qunnect",
+      "Anthropic",
+      "SpecterOps"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "d54186bf-d976-4502-b3a8-0d9e63a47c3d",
@@ -17610,45 +17728,6 @@
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/cleo-capital",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
-  },
-  {
-    "id": "6552f9ef-f57d-4b66-b6b8-d47c04568396",
-    "name": "Clean Energy Finance Corporation",
-    "slug": "clean-energy-finance-corporation",
-    "description": "Learn which startups Clean Energy Finance Corporation invests in, what size check sizes they write, and who their partners are (e.g. ).",
-    "thesis": "Accelerates Australia's transformation towards a more competitive economy in a carbon constrained world by investing in clean energy, energy efficiency and low emissions technologies.",
-    "investment_thesis": null,
-    "overview": "Clean Energy Finance Corporation is a venture capital firm.\nWe’re Australia’s ‘green bank’, investing in our net zero emissions future. With access to more than $30 billion from the Australian Government, we’re backing economy-wide decarbonisation, including transforming our energy grid, driving investment in sustainable housing and supporting climate tech innovators.\nThe firm focuses on Pre-Seed, Seed, Series A, Series B+ investments across sectors including Aerospace & Defense, Other, Consumer, Fintech, Climate.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "100-150",
-    "aum": "$10B",
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": 2012,
-    "headquarters": "Sydney, Australia",
-    "country": "Australia",
-    "sector_focus": [
-      "Climate"
-    ],
-    "stage_focus": [
-      "Pre-Seed",
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "website": "https://cefc.com.au",
-    "notable_portfolio": [
-      "Genex Power",
-      "Lyon Group",
-      "Windlab",
-      "Infradebt"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/3b5928228fe86ca132c4448acb17fa3eeceae4b8-57x57.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/clean-energy-finance-corporation",
     "created_at": "2026-05-22T19:29:47.667574+00:00"
   },
   {
@@ -20015,13 +20094,26 @@
       "Tesla",
       "BirdEye",
       "Persona",
-      "Cedar"
+      "Cedar",
+      "Supabase",
+      "Replit",
+      "Daylight",
+      "Starbridge",
+      "ClickUp",
+      "Vanta"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/874b896e864c1510dcb3dc0e5c085c89dac0f259-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/craft-ventures",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [
+      "Supabase",
+      "Replit",
+      "Daylight",
+      "Starbridge"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "2c312591-a47c-4334-8007-ce0bc6668d59",
@@ -20514,13 +20606,27 @@
       "TiVo",
       "Glu Mobile",
       "Shutterfly",
-      "Chegg"
+      "Chegg",
+      "RockRose Risk",
+      "Apaluma",
+      "QuadSci",
+      "Compa",
+      "Chime",
+      "Postmates",
+      "BetterUp"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/81df45f266d2356f6d8b147e4a986e0febb5f15f-191x191.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/crosslink-capital",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [
+      "RockRose Risk",
+      "Apaluma",
+      "QuadSci",
+      "Compa"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "100e0a68-b43a-4151-8289-06e5e60ff303",
@@ -23930,13 +24036,27 @@
       "Velo3D",
       "AiDash",
       "Cityblock Health",
-      "Gecko Robotics"
+      "Gecko Robotics",
+      "Muon Space",
+      "Antora Energy",
+      "True Anomaly",
+      "Ever",
+      "Redwood Materials",
+      "Wayve",
+      "VulcanForms"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/0034171a58f1566b03359f8b668e8510dffcab78-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/eclipse-ventures",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Muon Space",
+      "Antora Energy",
+      "True Anomaly",
+      "Ever"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "962b5477-c56e-46c4-951a-fbfdda28447d",
@@ -25399,13 +25519,27 @@
       "Vezeeta",
       "Careem",
       "Rock Health",
-      "Gojek"
+      "Gojek",
+      "Headway",
+      "Thndr",
+      "Felix",
+      "Nymcard",
+      "dLocal",
+      "Loft",
+      "Kavak"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/06cfc7fa4482309d99e2b85866b334d1bb1cd9fe-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/endeavor-catalyst",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Headway",
+      "Thndr",
+      "Felix",
+      "Nymcard"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "420e24d3-4c01-4fcf-b6cd-ebd910d9eb4f",
@@ -27507,13 +27641,25 @@
       "Guardant Health",
       "Notion",
       "Docker",
-      "PagerDuty"
+      "PagerDuty",
+      "Mercor",
+      "Chalk",
+      "Entire",
+      "n8n",
+      "Adyen"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/18670ba2339338a47d51bf1588eb94f176eef08e-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/felicis-ventures",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [
+      "Mercor",
+      "Chalk",
+      "Entire",
+      "n8n"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "5dc3f007-3d54-47c9-9985-39f7e03dd345",
@@ -28090,13 +28236,25 @@
     "notable_portfolio": [
       "Allscripts",
       "Careerbuilder",
-      "Surgalign"
+      "Surgalign",
+      "TPN.health",
+      "Cycle Labs",
+      "Gradient Cyber",
+      "Smartsheet",
+      "Upwork",
+      "Pluralsight"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/08886f9cca59ef90dcfe80e1909f31000c1cfcc2-41x41.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/first-analysis",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [
+      "TPN.health",
+      "Cycle Labs",
+      "Gradient Cyber"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ff929c44-2410-4cba-9637-e7c9b1553918",
@@ -29710,13 +29868,20 @@
       "Wizfreight",
       "Zaraye",
       "World map",
-      "Search Form"
+      "Search Form",
+      "Enter"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1b68ad91403ea8b0da468ee5590c5e29a44bafe7-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/foundamental",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [
+      "Faktus",
+      "Enter",
+      "CalcTree"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1e7f185b-1b6b-4bc4-8ad1-6318bba47cf4",
@@ -31423,14 +31588,18 @@
       "HashiCorp",
       "Peloton",
       "Opendoor",
-      "Square"
+      "Square",
+      "Affirm",
+      "Poshmark",
+      "athenahealth"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/df3b49c802adf257b5ad4635f7c83b95ea8eeccd-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ggv-capital",
     "created_at": "2026-05-22T19:29:48.526685+00:00",
-    "latest_deals": []
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "89309ca6-6086-4c16-8fea-fe01772e44e1",
@@ -39104,13 +39273,22 @@
       "Palantir",
       "SpaceX",
       "Airbnb",
-      "Uber"
+      "Uber",
+      "Hubbl Technologies",
+      "Datadog",
+      "Stripe",
+      "Carta",
+      "Coupang"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/c9d450685ecdd41ff085a07c8f19965fd7ece0ce-192x192.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/industry-ventures",
-    "created_at": "2026-05-22T19:29:48.973772+00:00"
+    "created_at": "2026-05-22T19:29:48.973772+00:00",
+    "latest_deals": [
+      "Hubbl Technologies"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "9f279678-39b4-4adc-b908-b925072a6bcc",
@@ -43714,44 +43892,6 @@
     "created_at": "2026-07-08T22:33:49.094385+00:00"
   },
   {
-    "id": "d909508b-7d30-4054-aea8-e78628fbced8",
-    "name": "Luxor Capital Group",
-    "slug": "luxor-capital-group",
-    "description": "Multi-strategy investment firm with an active venture and growth equity practice in technology sectors.",
-    "thesis": "Flexible capital partner for growth-stage technology companies.",
-    "investment_thesis": null,
-    "overview": "Luxor Capital Group is a multi-strategy investment firm founded by Christian Leone that has evolved from its hedge fund roots to become an active player in venture capital and growth equity. The firm manages capital across multiple strategies including long-short equity, credit, and private investments, with their venture and growth practice focusing on later-stage technology companies. Luxor's approach combines traditional hedge fund analytical rigor with venture capital's forward-looking perspective, allowing them to make large investments in growth-stage companies with proven business models. The firm has been particularly active in enterprise software and fintech, leveraging their deep understanding of public market dynamics to identify private companies with strong potential for eventual public offerings. Christian Leone's background in both public and private markets has shaped Luxor's investment philosophy, emphasizing companies with clear paths to profitability and strong unit economics. The firm's ability to write large checks and provide liquidity solutions has made them attractive partners for high-growth companies seeking capital to scale operations.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "50-100",
-    "aum": "$7B+",
-    "check_size_min": "$20M",
-    "check_size_max": "$200M",
-    "founded_year": 1999,
-    "headquarters": "New York, NY",
-    "country": "United States",
-    "sector_focus": [
-      "Enterprise",
-      "Consumer",
-      "Fintech"
-    ],
-    "stage_focus": [
-      "Series B+"
-    ],
-    "website": "https://www.luxorcapital.com",
-    "notable_portfolio": [
-      "SpaceX",
-      "Rivian",
-      "Montage International"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1d830578664221ec5091b15853d017fb20ec0287-200x200.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/luxor-capital-group",
-    "created_at": "2026-05-22T19:29:49.413037+00:00",
-    "latest_deals": []
-  },
-  {
     "id": "5109773a-58a2-479e-99cf-c5566de521fb",
     "name": "Kima Ventures",
     "slug": "kima-ventures",
@@ -44413,13 +44553,28 @@
       "Shippeo",
       "RockFi",
       "Formality",
-      "Alpic"
+      "Alpic",
+      "Rayon",
+      "Qevlar AI",
+      "Littlefish",
+      "Track Titan",
+      "EcoVadis",
+      "Pennylane",
+      "Alan",
+      "Wave Mobile Money"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/79aba1590291a71aa7afd4521db677c1f118f633-640x427.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/partech",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "Rayon",
+      "Qevlar AI",
+      "Littlefish",
+      "Track Titan"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e5ca5ae0-2135-47cb-a6d5-0f4f87ecadcb",
@@ -46936,13 +47091,26 @@
       "HashiCorp",
       "Affirm",
       "PagerDuty",
-      "Zendesk"
+      "Zendesk",
+      "Wispr",
+      "fal",
+      "Token Security",
+      "Browserbase",
+      "Anthropic",
+      "Square"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/2ab7a8f933fe1b6545f075aedc05a29d69cc2d12-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/notable-capital",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "Wispr",
+      "fal",
+      "Token Security",
+      "Browserbase"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e6864850-5d08-4d16-8332-e8cde44cf5e8",
@@ -49731,13 +49899,27 @@
       "Celo",
       "Solana",
       "Dfinity",
-      "MakerDAO"
+      "MakerDAO",
+      "Power.Win",
+      "Cambrian",
+      "Berachain",
+      "Seismic",
+      "Polymarket",
+      "Uniswap",
+      "EigenLayer"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/4787dc9de28be01e38b5a4fd8910784737be3e3d-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/polychain-capital",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
+    "created_at": "2026-05-22T19:29:49.859043+00:00",
+    "latest_deals": [
+      "Power.Win",
+      "Cambrian",
+      "Berachain",
+      "Seismic"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b0df02ff-1169-4232-b68e-d0aedc227f2d",
@@ -50928,14 +51110,21 @@
       "Momenta",
       "XTransfer",
       "Pony.ai",
-      "iDreamSky Technology"
+      "iDreamSky Technology",
+      "Partner Robotics",
+      "Tiantian Baiying",
+      "Yixia"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/9f724b6114aeceb3d7304a206d2872931aed461f-48x48.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/redpoint-china-ventures",
     "created_at": "2026-05-22T19:29:49.859043+00:00",
-    "latest_deals": []
+    "latest_deals": [
+      "Partner Robotics",
+      "Tiantian Baiying"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "3a5e8d70-6a96-4275-adf7-a8a99ecc1646",
@@ -53373,13 +53562,26 @@
       "Akouos",
       "Aprea Therapeutics",
       "Sarepta Therapeutics",
-      "Intercept Pharmaceuticals"
+      "Intercept Pharmaceuticals",
+      "Hemab Therapeutics",
+      "GlycoEra",
+      "T-Therapeutics",
+      "Actelion Pharmaceuticals",
+      "Myricx Bio",
+      "Corvidia Therapeutics",
+      "Shockwave Medical"
     ],
     "logo_url": "https://d878vporrm2hj.cloudfront.net/company/4891300_company_logo",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:54.063231+00:00"
+    "created_at": "2026-05-22T19:39:54.063231+00:00",
+    "latest_deals": [
+      "Hemab Therapeutics",
+      "GlycoEra",
+      "T-Therapeutics"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "d9529bdc-ba9a-4ed1-b68e-28c7f5ef93a4",
@@ -54381,43 +54583,6 @@
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/starting-line",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
-  },
-  {
-    "id": "9b05f619-87d9-4978-bc1e-9b21f94c6707",
-    "name": "Steadfast Financial",
-    "slug": "steadfast-financial",
-    "description": "Growth equity firm investing in late-stage technology companies with proven business models and strong market positions.",
-    "thesis": "Backs proven growth companies with strong fundamentals approaching or at scale.",
-    "investment_thesis": null,
-    "overview": "Steadfast Financial was established in 2004 as a growth equity firm focused on investing in late-stage technology companies with proven business models and strong market positions. With over $4 billion in assets under management, the firm has built a reputation for backing high-growth companies at critical inflection points in their development.\n\nThe firm's investment strategy targets Series B and later-stage companies across enterprise software, consumer technology, and fintech sectors. Steadfast's thesis centers on identifying companies with strong fundamentals that are approaching or at scale, providing growth capital to help them expand market share, enter new markets, or accelerate product development. The firm typically invests in companies that have demonstrated product-market fit and are generating significant revenue growth.\n\nNotable portfolio investments include Uber, where Steadfast participated in growth rounds during the ride-sharing giant's expansion phase; Palantir, the data analytics platform that has become a major enterprise software provider; and Instacart, the grocery delivery platform that saw explosive growth during the pandemic. These investments showcase the firm's ability to identify and support category-defining companies at scale.\n\nBased in New York, Steadfast Financial leverages its extensive network and operational expertise to help portfolio companies navigate the challenges of rapid growth, providing strategic guidance on market expansion, operational scaling, and preparation for eventual public offerings or strategic exits.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": "$4B+",
-    "check_size_min": "$25M",
-    "check_size_max": "$200M",
-    "founded_year": 2004,
-    "headquarters": "New York, NY",
-    "country": "United States",
-    "sector_focus": [
-      "Enterprise",
-      "Consumer",
-      "Fintech"
-    ],
-    "stage_focus": [
-      "Series B+"
-    ],
-    "website": "https://www.steadfastcap.com",
-    "notable_portfolio": [
-      "Uber",
-      "Palantir",
-      "Instacart"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/b535d2a38d4c6df038681ba8626602ce3e69f478-200x200.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/steadfast-financial",
     "created_at": "2026-05-22T19:29:49.859043+00:00"
   },
   {
@@ -55428,13 +55593,24 @@
       "TubeMogul",
       "Qumulo",
       "Sunrun",
-      "Palantir"
+      "Palantir",
+      "Dextr AI",
+      "Shennon Biotechnologies",
+      "YO Labs",
+      "Cerebras Systems",
+      "Solana"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/7067bf20f6035d911624db0a04c7d4c4e7fd3e66-4800x2520.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/foundation-capital",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [
+      "Dextr AI",
+      "Shennon Biotechnologies",
+      "YO Labs"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1196cbf5-2853-472c-a1f9-9013fe0bdcc5",
@@ -56703,13 +56879,22 @@
       "SYNAPTIC",
       "THRIVEPOINT FINANCIAL HOLDINGS",
       "Uptake",
-      "Zellerfeld"
+      "Zellerfeld",
+      "xAI",
+      "CHAOS Industries"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/54f4f476d73424a72f8e4097c557d03c90e4c140-468x339.webp",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/valor-equity-partners",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
+    "created_at": "2026-05-22T19:29:49.859043+00:00",
+    "latest_deals": [
+      "xAI",
+      "CHAOS Industries",
+      "Base Power",
+      "Crusoe"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "cfb6dca0-6ab9-4073-a86f-d74ca59604f4",
@@ -57647,14 +57832,23 @@
       "ironSource",
       "Payoneer",
       "Redis",
-      "Pagaya"
+      "Pagaya",
+      "Vimi",
+      "Lin Health",
+      "Impala AI",
+      "Lightricks"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/aeb3aaa7b8d7ba26040e2171945e0e2016ec28a8-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/viola-ventures",
     "created_at": "2026-05-22T19:29:50.25933+00:00",
-    "latest_deals": []
+    "latest_deals": [
+      "Vimi",
+      "Lin Health",
+      "Impala AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "5ccaaef4-3b4e-4aaa-91ce-e5e1eea19db8",
@@ -63095,14 +63289,26 @@
       "Meituan",
       "ByteDance",
       "Mobike",
-      "Kuaishou"
+      "Kuaishou",
+      "Dify",
+      "Hypershell",
+      "YouWare",
+      "Syneron Bio",
+      "Xpeng",
+      "SenseTime"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/eab4afaa030f86ad5b877e978619fd1cc48eb908-57x57.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/5y-capital",
     "created_at": "2026-05-22T19:29:46.720779+00:00",
-    "latest_deals": []
+    "latest_deals": [
+      "Dify",
+      "Hypershell",
+      "YouWare",
+      "Syneron Bio"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "55bded87-cbce-436d-90ea-3baa7a79bdae",
@@ -64330,14 +64536,18 @@
       "Novineer",
       "Helix Earth Technologies",
       "Aikido Technologies",
-      "Kind Designs"
+      "Kind Designs",
+      "Loliware"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/3a18215e7138ecef042b208152e00fdefc5286ba-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/anthropocene-ventures",
     "created_at": "2026-05-22T19:29:47.204175+00:00",
-    "latest_deals": []
+    "latest_deals": [
+      "Loliware"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "02e36cc7-f12d-47af-9123-e9eb93716b96",
@@ -76186,13 +76396,22 @@
       "Zendesk",
       "Squarespace",
       "Discord",
-      "Automation Anywhere"
+      "Automation Anywhere",
+      "K-Way",
+      "Sysdig",
+      "mParticle",
+      "AllTrails",
+      "Carta"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/55fbdb32b38a06c124ecf2bdbe59da91319ce832-128x128.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/permira-growth",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
+    "created_at": "2026-05-22T19:29:49.859043+00:00",
+    "latest_deals": [
+      "K-Way"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "d2c32602-8024-414e-9aca-4df5ad3018ec",
@@ -76946,14 +77165,28 @@
       "Solana",
       "Avalanche",
       "Arweave",
-      "Flow"
+      "Flow",
+      "Poseidon",
+      "Catena Labs",
+      "PrismaX",
+      "Digital Asset",
+      "Eigen Labs",
+      "Anchorage Digital",
+      "Kalshi"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/420eb921b5ca684d0c5c374eb74c0326a96223f3-2560x1440.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/a16z-crypto",
     "created_at": "2026-05-22T19:29:50.25933+00:00",
-    "latest_deals": []
+    "latest_deals": [
+      "Poseidon",
+      "Catena Labs",
+      "PrismaX",
+      "Digital Asset",
+      "Eigen Labs"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "02abe566-e554-46ae-a119-567771aa56f6",
@@ -77100,13 +77333,25 @@
       "DoorDash",
       "Airbnb",
       "Snapchat",
-      "Spotify"
+      "Spotify",
+      "Profound",
+      "Mirendil",
+      "Mind Robotics",
+      "Harvey",
+      "Applied Intuition"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1d74bff8b723ac7a6d88a03e7410928be2d911c1-57x57.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/kleiner-perkins",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "Profound",
+      "Mirendil",
+      "Mind Robotics",
+      "Harvey"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0ea57570-f72d-4d69-ae8d-f00e411ea3e5",
@@ -80809,13 +81054,28 @@
       "MapQuest",
       "Zimbra",
       "Twilio",
-      "Shopify"
+      "Shopify",
+      "Adaptyv",
+      "LemFi",
+      "Wordsmith",
+      "Unframe",
+      "Wolt",
+      "Nexthink",
+      "Bending Spoons",
+      "EGYM"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/c3f97c9c5fbe124507fce8f193e603cb18aeb2cf-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/highland-europe",
-    "created_at": "2026-05-22T19:29:48.973772+00:00"
+    "created_at": "2026-05-22T19:29:48.973772+00:00",
+    "latest_deals": [
+      "Adaptyv",
+      "LemFi",
+      "Wordsmith",
+      "Unframe"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0df29025-0032-4dc7-96a6-9b9fe58fb81e",
@@ -83853,13 +84113,27 @@
       "UCloud",
       "Qudian",
       "Tuya Smart",
-      "WeLab"
+      "WeLab",
+      "Zynk",
+      "Nexl",
+      "OptiCore",
+      "Nowwa",
+      "Ele.me",
+      "Qunar",
+      "RedNote"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/fae3cd1dbe80e9f74d30eafbb705e86fdd6f3d3d-128x128.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/gsr-ventures",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [
+      "Zynk",
+      "Nexl",
+      "OptiCore",
+      "Nowwa"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b77cef35-5e6a-4140-924c-add180339d68",
