@@ -12011,7 +12011,7 @@
     "check_size_min": "$50K",
     "check_size_max": "$250K",
     "founded_year": null,
-    "headquarters": "London, UK",
+    "headquarters": "San Francisco, CA",
     "country": "United Kingdom",
     "sector_focus": [
       "Aerospace & Defense",
@@ -12027,12 +12027,25 @@
       "Series B+"
     ],
     "website": "https://www.awesomepeople.ventures/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "XMTP — $20M Series B",
+      "Glow Finance —",
+      "Mem",
+      "Levels",
+      "On Deck",
+      "Syndicate Protocol",
+      "Wingspan"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/838b69fa25354324478d8bdbe88e94b1f72d88a7-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/awesome-people-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "XMTP — $20M Series B",
+      "Glow Finance —"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ead7fe4a-2d4a-4dba-8fba-c89d7f37ed93",
@@ -12124,42 +12137,24 @@
       "Series B+"
     ],
     "website": "https://axialvc.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "BigHat Biosciences — Series B",
+      "Stately Bio — Seed",
+      "Tilda Research — Series A",
+      "CHARM Therapeutics — AI drug discovery, raised $50M Series A (co-led by F-Prime/OrbiMed) and $80M Series B (NEA, SR One, OrbiMed, F-Prime, Khosla, NVIDIA); total funding ~$130M",
+      "Replay (Replay Therapeutics) — gene-writing/synthetic biology platform, emerged with $55M seed; acquired April 2026"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/4e1f68791eaee03610b2c1ec990da9acebbec877-534x474.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/axial-vc",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
-  },
-  {
-    "id": "9be695ad-2c5c-4162-94f8-353ee345cef8",
-    "name": "AGORANOV",
-    "slug": "agoranov",
-    "description": null,
-    "thesis": "Agoranov is a public Science & Tech incubator based in Paris.",
-    "investment_thesis": "Agoranov is a public Science & Tech incubator based in Paris.",
-    "overview": "Agoranov is a public Science & Tech incubator based in Paris.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Paris, Ile-de-France",
-    "country": "France",
-    "sector_focus": [
-      "Enterprise",
-      "Fintech"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "BigHat Biosciences — Series B",
+      "Stately Bio — Seed",
+      "Tilda Research — Series A"
     ],
-    "stage_focus": [],
-    "website": "https://www.crunchbase.com/organization/agoranov",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f22f75cb-9cf8-4fad-9933-fdc7892a2a04",
@@ -12232,7 +12227,7 @@
     "check_size_min": "$100K",
     "check_size_max": "$3M",
     "founded_year": 2015,
-    "headquarters": "Mexico City, Mexico",
+    "headquarters": "San Francisco, CA",
     "country": "Mexico",
     "sector_focus": [
       "Fintech",
@@ -12249,13 +12244,27 @@
       "Konfio",
       "Clip",
       "Kavak",
-      "Credijusto"
+      "Credijusto",
+      "Tessell — $60M Series B (announced ~March/April 2025), co-investors Lightspeed, Rocketship.vc, Westbridge Capital",
+      "Oobli — $18M Series B (Jan/Feb 2025), co-investors including Ingredion",
+      "Windfall Bio —",
+      "Metaplane —",
+      "Konfio — Mexican fintech",
+      "Outrider",
+      "Biosphere"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1e304d142695a3c7ee3aa4b7aa83deb29a0597ba-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/b37-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Tessell — $60M Series B (announced ~March/April 2025), co-investors Lightspeed, Rocketship.vc, Westbridge Capital",
+      "Oobli — $18M Series B (Jan/Feb 2025), co-investors including Ingredion",
+      "Windfall Bio —",
+      "Metaplane —"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "105f9198-a567-4ca3-8b62-cfd6a7f1f6cf",
@@ -12356,12 +12365,32 @@
       "Series B+"
     ],
     "website": "https://www.bai-cap.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "VelaFi — Series B, $20M",
+      "Looki — Series A, Canada",
+      "Mobike",
+      "Hello Chuxing",
+      "Nio",
+      "Keep",
+      "PingPong",
+      "NetEase Cloud Music",
+      "Secoo.com",
+      "Danke Apartment",
+      "Mogujie",
+      "PingCAP",
+      "BabelFinance",
+      "Stori"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/e93e6cb58d480448adc782f27c75c4dcb8eab090-64x64.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bai-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "VelaFi — Series B, $20M",
+      "Looki — Series A, Canada"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "28e3ff5e-17d5-4e03-a88d-1598011073e9",
@@ -12561,13 +12590,40 @@
       "Tin",
       "Titan",
       "Trace",
-      "TRIALS"
+      "TRIALS",
+      "Warp — $10M Series A",
+      "Pryzm — $12.2M Seed",
+      "Mavvrik — $6.2M Seed",
+      "Cascade Bio — $6M Seed",
+      "Abstract — $4.8M Seed",
+      "Sourcetable — $4.3M Seed",
+      "Genia — $3M Pre-Seed",
+      "Buildkite (CI/CD platform) — acquired by Atlassian, 2024",
+      "LogStream (log management) — acquired by Datadog, 2023",
+      "Humi (HR/payroll) — acquired by Employment Hero, 2025",
+      "MapSense (mapping visualization) — acquired by Apple for ~$30M",
+      "Bitium — acquired by Google",
+      "FloQast",
+      "Clutter",
+      "HelloTech",
+      "The Bouqs Company",
+      "Winc"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/dbccbd5207f20650803aaacef24e9bb907be3bbf-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/amplify-la",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Warp — $10M Series A",
+      "Pryzm — $12.2M Seed",
+      "Mavvrik — $6.2M Seed",
+      "Cascade Bio — $6M Seed",
+      "Abstract — $4.8M Seed",
+      "Sourcetable — $4.3M Seed",
+      "Genia — $3M Pre-Seed"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "a0f3dc1f-75ce-4487-8101-d13af855b891",
@@ -12584,7 +12640,7 @@
     "check_size_min": "$500K",
     "check_size_max": "$3M",
     "founded_year": 2017,
-    "headquarters": null,
+    "headquarters": "Boulder, CO",
     "country": null,
     "sector_focus": [
       "Aerospace & Defense",
@@ -12600,12 +12656,24 @@
       "Series B+"
     ],
     "website": "https://bigrventures.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Bobo's Oat Bars",
+      "High Brew Coffee",
+      "RE Botanicals",
+      "Soozy's Grain-Free",
+      "Fat Snax",
+      "Hope Foods",
+      "Bonafide Provisions",
+      "REBBL",
+      "Suja Juice"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a19f5491802c15fa847e81f2f6b037610fbeeb44-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bigr-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b6695415-1593-4997-b30b-28b70f7054bd",
@@ -12696,13 +12764,41 @@
       "Axie Infinity",
       "The Sandbox",
       "Immutable",
-      "Wintermute"
+      "Wintermute",
+      "Nexton — $4.00M Strategic round",
+      "Unitas Labs",
+      "Flying Tulip",
+      "Kodiak Finance",
+      "KOLect — Pre-Seed round",
+      "Mitosis — Seed round",
+      "dappOS — Series A",
+      "Taiko Labs — Series A",
+      "Echelon — Seed round",
+      "NEAR Protocol",
+      "1inch",
+      "WOO Network",
+      "io.net",
+      "zkPass",
+      "Usual",
+      "Raise — Series U, $63.0M"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/96809cb7ed0aa3faabea4f55185fac60374a52d9-400x400.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/amber-group",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Nexton — $4.00M Strategic round",
+      "Unitas Labs",
+      "Flying Tulip",
+      "Kodiak Finance",
+      "KOLect — Pre-Seed round",
+      "Mitosis — Seed round",
+      "dappOS — Series A",
+      "Taiko Labs — Series A",
+      "Echelon — Seed round"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b83882dc-f0b8-4797-b7c3-e69e0d88e0c8",
@@ -12719,7 +12815,7 @@
     "check_size_min": "$100K",
     "check_size_max": "$5M",
     "founded_year": null,
-    "headquarters": "Cardiff, UK",
+    "headquarters": "San Francisco, CA",
     "country": "United Kingdom",
     "sector_focus": [
       "Aerospace & Defense",
@@ -12735,12 +12831,26 @@
       "Series B+"
     ],
     "website": "https://www.babel.ventures/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "GALY — early/seed backer; company raised $33M Series B",
+      "Wild Earth",
+      "Crossing Minds",
+      "Finless Foods",
+      "Mission Barns",
+      "Nabis",
+      "Blueland",
+      "GALY",
+      "ZBiotics"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1978a24a762a2a72476942bcd7b19d7cfa59d946-1192x1220.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/babel-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "GALY — early/seed backer; company raised $33M Series B"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "5ec8e46c-5f02-4818-9cdc-48d2aad10dd7",
@@ -12757,7 +12867,7 @@
     "check_size_min": null,
     "check_size_max": null,
     "founded_year": null,
-    "headquarters": null,
+    "headquarters": "London, UK",
     "country": null,
     "sector_focus": [
       "Aerospace & Defense",
@@ -12776,13 +12886,23 @@
     "notable_portfolio": [
       "Legal",
       "Media Pack",
-      "LP Portal"
+      "LP Portal",
+      "Swap Commerce",
+      "Cloover",
+      "Dawnguard"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a2002cd30de07133b9da6c6eccd95a59f94332c8-1500x1500.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bnvt-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Swap Commerce",
+      "Cloover",
+      "Dawnguard",
+      ""
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "6e87a3f5-e1e8-4529-8cd6-80ddc76e50ee",
@@ -12865,12 +12985,24 @@
       "Growth"
     ],
     "website": "https://background.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "GitLaw — Pre-Seed, $3M round (Nov 2025), led by Jackson Square Ventures",
+      "Parallel (Get Parallel) — Seed VC round, $2.4M",
+      "AudioShake — Series A, $14M (Sep 2025), led by Shine Capital",
+      "Select Star — exit via Merger/Acquisition"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/aed621365316cbefea75bcbbba9a32ff88f4fdaf-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/background-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "GitLaw — Pre-Seed, $3M round (Nov 2025), led by Jackson Square Ventures",
+      "Parallel (Get Parallel) — Seed VC round, $2.4M",
+      "AudioShake — Series A, $14M (Sep 2025), led by Shine Capital",
+      "Select Star — exit via Merger/Acquisition"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "172ab15b-7f65-4ddd-b9c5-8570500e9b02",
@@ -13290,13 +13422,28 @@
     "notable_portfolio": [
       "GeoCities",
       "Neopets",
-      "PlanetOut"
+      "PlanetOut",
+      "MNTN — IPO on NYSE, Baroda held ~19.4% voting power via Class B stock",
+      "Crexi",
+      "PolicyGenius — acquired by Zinnia",
+      "Bridg — acquired by Cardlytics",
+      "DogVacay — merged with Rover.com",
+      "Gem — acquired by Blockdaemon",
+      "Chromatik — acquired by TakeLessons",
+      "Pathmatics — acquired by Sensor Tower",
+      "Lettuce Apps — acquired by Intuit",
+      "SteelHouse",
+      "Retention Science",
+      "Surf Air",
+      "Healthvana"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/53f821f4ab208950aa6aba60cbc1f299c7e70ec3-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/baroda-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1a85b253-d509-4564-baa0-19be6954dbe9",
@@ -13449,12 +13596,40 @@
       "Series B+"
     ],
     "website": "http://www.bantamgroup.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Nurture Genomics",
+      "Anata",
+      "Bettle Fantasy Sports",
+      "Openrounds",
+      "Runic",
+      "TETmedical",
+      "WurQ",
+      "Neurometric",
+      "Pacagen",
+      "FanStake",
+      "HubSpot",
+      "Constant Contact",
+      "Acquia",
+      "Crashlytics"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/18c82668dc2c11b8e67443fa8fbde3ff903b9489-323x342.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bantam-group",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Nurture Genomics",
+      "Anata",
+      "Bettle Fantasy Sports",
+      "Openrounds",
+      "Runic",
+      "TETmedical",
+      "WurQ",
+      "Neurometric",
+      "Pacagen",
+      "FanStake"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "c70711a8-1187-409e-9186-acafff1352a2",
@@ -13572,7 +13747,7 @@
     "check_size_min": null,
     "check_size_max": null,
     "founded_year": null,
-    "headquarters": "San Francisco, CA",
+    "headquarters": "Miami, FL",
     "country": "United States",
     "sector_focus": [
       "Aerospace & Defense",
@@ -13588,12 +13763,28 @@
       "Series B+"
     ],
     "website": "https://baselayer.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "PathPulse AI",
+      "Edu3Labs",
+      "Bluwhale",
+      "Crosshatch",
+      "Hunting Hill Digital",
+      "DashLX"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1119cc09d5d101471bcdc08fca9a3cf7ae7d9fb3-305x276.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/baselayer-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "PathPulse AI",
+      "Edu3Labs",
+      "Bluwhale",
+      "Crosshatch",
+      "Hunting Hill Digital",
+      "DashLX"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "a63a2826-886b-43d6-89f5-989f4ed4bf63",
@@ -13743,13 +13934,31 @@
       "Recorded Future",
       "Brunt",
       "Point One Navigation",
-      "Wildgrain"
+      "Wildgrain",
+      "Obello",
+      "Eyebot",
+      "Motif",
+      "Estes / Estes Energy",
+      "Offe Market",
+      "Onshape",
+      "SolidWorks"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/741a915f65b178a09a029dbbb2e223fb4eb772a8-400x400.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/baukunst",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Dig Energy",
+      "Obello",
+      "Eyebot",
+      "Motif",
+      "Estes / Estes Energy",
+      "Dobby",
+      "Offe Market",
+      "Orange Charger"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "95c8ad8f-bc9f-46f9-b157-479f46427a99",
@@ -13782,12 +13991,28 @@
       "Series B+"
     ],
     "website": "https://bdsvc.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Laxaynova",
+      "CandexAI",
+      "Agrokaari",
+      "Algzen",
+      "StreamuxAI",
+      "Atirya"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/3d5bece1cc50d1706b3b812d42264fe89f8180ce-216x201.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bdsvc",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Laxaynova",
+      "CandexAI",
+      "Agrokaari",
+      "Algzen",
+      "StreamuxAI",
+      "Atirya"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f506b48b-ca42-4a25-b8d4-ee5529398944",
@@ -13820,12 +14045,25 @@
       "Series B+"
     ],
     "website": "https://www.begincl.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Zencoder",
+      "Tomorrow Things",
+      "Runware",
+      "Mercaux",
+      "QBik",
+      "Nixter"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a8ef2b0950041193a763c1a623e0562a9b62e49b-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/begin-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Zencoder",
+      "Tomorrow Things",
+      "Runware"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "fc84e4a0-ef44-4088-ad1c-09729c81cfdd",
@@ -13858,13 +14096,35 @@
     "notable_portfolio": [
       "Blueland",
       "Italic",
-      "Everlywell"
+      "Everlywell",
+      "Intermezzo",
+      "Superpanel",
+      "Nox Metals",
+      "Hostie AI",
+      "Capsule",
+      "Maneva",
+      "MoldCo",
+      "Statusphere",
+      "Beacons AI",
+      "Pallet",
+      "Aviron",
+      "FYPM"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/062611c0df7f840c1e7a5dc63de720b69d5bac60-500x500.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/behind-genius-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Intermezzo",
+      "Superpanel",
+      "Nox Metals",
+      "Hostie AI",
+      "Capsule",
+      "Maneva",
+      "MoldCo"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "a6b290a9-2cd8-457f-86ef-392759b4639b",
@@ -13894,12 +14154,35 @@
       "Growth"
     ],
     "website": "https://www.bekventures.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Capsa AI",
+      "Viktor",
+      "Grand Games",
+      "Lace AI",
+      "Interloom Technologies",
+      "Zeta Labs",
+      "Midas",
+      "Draftwise",
+      "UiPath",
+      "Payhawk",
+      "Picus Security"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/39d0b217f6ec6bb3899a81601a0920c12e4888a3-192x192.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bek-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Capsa AI",
+      "Viktor",
+      "Grand Games",
+      "Lace AI",
+      "Interloom Technologies",
+      "Zeta Labs",
+      "Midas",
+      "Draftwise"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "4cb74ea4-933c-4f2a-9afb-24fde4fbe882",
@@ -13978,12 +14261,41 @@
       "Series B"
     ],
     "website": "https://www.beltoneholding.com/venture-capital",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Byit",
+      "Bluworks",
+      "Sehatech",
+      "Yakeey",
+      "Sylndr",
+      "Rabbit Mart",
+      "Grinta",
+      "Cathedis",
+      "LNKO",
+      "Khazna",
+      "VelyVelo",
+      "Bosta (Egyptian logistics startup) -- exited in 2026 at 75% IRR (joint fund with Citadel International Holdings), described as Beltone's most profitable/notable deal",
+      "BirdNest (Egyptian proptech) -- partial exit at 80% IRR / 3.5x return",
+      "Trella"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/0b6005df39aa906483425aa086c5c2ae8382e06c-124x64.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/beltone-venture-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Byit",
+      "Bluworks",
+      "Sehatech",
+      "Yakeey",
+      "Sylndr",
+      "Rabbit Mart",
+      "Grinta",
+      "Cathedis",
+      "LNKO",
+      "Khazna",
+      "VelyVelo"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0c99ff83-5142-40be-b756-643e7b4acbcb",
@@ -14034,13 +14346,28 @@
       "Alipay",
       "ApplePay",
       "Cash App",
-      "Wire Transfer"
+      "Wire Transfer",
+      "Osmoses",
+      "Transaera",
+      "Electrified Thermal Solutions",
+      "Infinite Cooling",
+      "ClearCut Surgical",
+      "14 follow-on investments into existing portfolio companies in FY2025"
     ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "Osmoses",
+      "Transaera",
+      "Electrified Thermal Solutions",
+      "Infinite Cooling",
+      "ClearCut Surgical",
+      "14 follow-on investments into existing portfolio companies in FY2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "bbdb87f8-c3a3-42dc-95c1-47d31716e85e",
@@ -14057,7 +14384,7 @@
     "check_size_min": "$150K",
     "check_size_max": "$350K",
     "founded_year": 2018,
-    "headquarters": "Austin, TX",
+    "headquarters": "Salt Lake City, UT",
     "country": "United States",
     "sector_focus": [
       "Aerospace & Defense",
@@ -14073,12 +14400,25 @@
       "Series B+"
     ],
     "website": "https://betaboom.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Alpha Level",
+      "Elm AI",
+      "GuidePad",
+      "Canopie (maternal mental health digital platform) -- most notable portfolio company",
+      "Attane Health (food-as-medicine for chronic disease) -- notable portfolio company",
+      "Valhalla Healthcare, Bolder Money"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1a27fd88e9464740806b3e0f22ba8f570fa1fff3-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/beta-boom",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Alpha Level",
+      "Elm AI",
+      "GuidePad"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "2ad387e2-c8bc-4b4a-8af4-04c1be3b640e",
@@ -14111,12 +14451,17 @@
       "Series B+"
     ],
     "website": "http://b2cap.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Gatsby (financial software/trading app) -- Series A-II $10M round (2021); Gatsby was later acquired by eToro",
+      "Visor, Fama Technologies, Andrena, Mobalytics, Wellth, Chicory, Clora, Artemis"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/208ddf1d92a3994d62476c1fd0c5bf1fdaff6bc8-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/beta-bridge-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "34f7d162-5327-4e74-b27a-9c2852b736c7",
@@ -14208,13 +14553,18 @@
       "Workday",
       "Business Insider",
       "Basecamp",
-      "Nextdoor"
+      "Nextdoor",
+      "Google",
+      "Amazon.com is NOT a Bezos Expeditions deal -- it is Jeff Bezos's own founded company, separate from the investment vehicle",
+      "Twitter"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/2fb002ecf6ea8745e6cd5800d9b5c11c4ddbd982-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bezos-expeditions",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "14ce8bb6-ce8f-4b77-a60a-f74c2c8dd8a6",
@@ -14262,48 +14612,23 @@
       "Beyond Play",
       "Compliable",
       "StakeLogic",
-      "open navigation menu"
+      "open navigation menu",
+      "Xpoint Tech",
+      "Kindbridge Behavioral Health",
+      "BR-DGE / BRDGE Technology"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/7f64ee0593187f41ac9e877b58f2252d96833b23-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bettor-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
-  },
-  {
-    "id": "57489408-09e4-4bcf-bc16-a0e678099da1",
-    "name": "Bigfoot Capital",
-    "slug": "bigfoot-capital",
-    "description": "Learn which startups Bigfoot Capital invests in, what size check sizes they write, and who their partners are (e.g. Brian Parks).",
-    "thesis": null,
-    "investment_thesis": null,
-    "overview": "Bigfoot Capital is a venture capital firm.\nBigfoot Capital offers $1-$5M loan facilities for established B2B software businesses. 60+ companies funded, 0% cap table taken. Non-dilutive growth capital.\nThe firm focuses on Pre-Seed, Seed, Series A, Series B+ investments across sectors including Aerospace & Defense, Other, Consumer, Fintech, Climate.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": "$150K",
-    "check_size_max": "$1M",
-    "founded_year": null,
-    "headquarters": null,
-    "country": null,
-    "sector_focus": [
-      "Aerospace & Defense",
-      "Other",
-      "Consumer",
-      "Fintech",
-      "Climate"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Xpoint Tech",
+      "Kindbridge Behavioral Health",
+      "Interchecks",
+      "BR-DGE / BRDGE Technology"
     ],
-    "stage_focus": [
-      "Growth"
-    ],
-    "website": "https://www.bigfootcap.com/",
-    "notable_portfolio": [],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/39e7a031011e0e2f858dcddd19302635c9f63f95-200x200.jpg",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/bigfoot-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e8495ad4-9766-4351-a883-061f9ab880d8",
@@ -14386,7 +14711,9 @@
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/black-flag",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "5afea49e-5f4f-4490-ba91-3a21c4ac0ed5",
@@ -14413,12 +14740,23 @@
       "Seed"
     ],
     "website": "https://www.blackopsvc.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "ChurchSpace",
+      "StoreCash",
+      "Mansa",
+      "Five To Nine",
+      "Athlytic",
+      "WhoseYourLandlord"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/0c05be775c4247af64fcab4aa0bda21ee3a05ec9-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/black-operator-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "ChurchSpace"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0e3dd443-c863-4e66-bc89-515fa3e55040",
@@ -14435,7 +14773,7 @@
     "check_size_min": null,
     "check_size_max": null,
     "founded_year": 2021,
-    "headquarters": "London, UK",
+    "headquarters": "Naarden, Netherlands",
     "country": "United Kingdom",
     "sector_focus": [
       "Aerospace & Defense",
@@ -14451,12 +14789,25 @@
       "Series B+"
     ],
     "website": "http://www.biogenerationventures.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Rhygaze",
+      "Azafaros",
+      "GlycoEra",
+      "Acerta Pharma",
+      "Dezima Pharma",
+      "Staten Biotechnology"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/13822087c5f9d8685c41167d9f7a02705bb827d1-70x70.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/biogeneration-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Rhygaze",
+      "Azafaros",
+      "GlycoEra"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "135bfc93-eef0-4bb1-9aba-64211d01412d",
@@ -14530,12 +14881,30 @@
       "Series B+"
     ],
     "website": "http://btn.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Every Health",
+      "Dalinea",
+      "Kloopify",
+      "Olira",
+      "EMTECH",
+      "Goodfynd",
+      "The Folklore",
+      "BlendED",
+      "BrightUp",
+      "Hive Wealth"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/4e66a438fc99ad7fa7404651e683230c78293d00-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/black-tech-nation-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Every Health",
+      "Dalinea",
+      "Kloopify",
+      "Olira"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "eb7c2bef-e60e-4226-8a6b-474188c49811",
@@ -14568,12 +14937,26 @@
       "Series B+"
     ],
     "website": "https://blackhornvc.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "King Energy — $10M round",
+      "Ridepanda — $12.6M growth round",
+      "Ecoworks — backed to scale modular carbon-neutral buildings",
+      "Aumni — early investor; Aumni was later acquired by J.P. Morgan (announced March 2023, closed May 2023); Blackhorn was one of ~27 investors, not a notably large/lead position",
+      "Briq — led/participated in a $10M Series A",
+      "Dexterity — robotics portfolio company, cited among Blackhorn's acquisition-track exits",
+      "ALICE Technologies, Vecna Robotics, Formic, Isometric Technologies — notable industrial-tech portfolio companies"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/e4eb13eecaf7a0331fcd39ded2774dc751d63024-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/blackhorn-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "King Energy — $10M round",
+      "Ridepanda — $12.6M growth round",
+      "Ecoworks — backed to scale modular carbon-neutral buildings"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "75949f27-73bc-4251-aed0-69b7651db59a",
@@ -14606,12 +14989,17 @@
       "Series B+"
     ],
     "website": "https://blank.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Neo Financial — fintech portfolio company",
+      "Playbook — business/productivity software portfolio company"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d93d830718a4b0593f776accf89e85a13e4ac045-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/blank-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "06f41442-5fbd-4681-bf89-ec0acb1c8ca9",
@@ -14805,12 +15193,32 @@
       "Series B+"
     ],
     "website": "http://www.bloccelerate.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Cloudburst Technologies — Series A",
+      "Validation Cloud — Series A, blockchain infrastructure tooling",
+      "Rover (Staked Bitcoin / decentralized liquid staking) — undisclosed round",
+      "Tally — Series A + token",
+      "Interstate — SAFE + token",
+      "RDC — investment reported mid-2026",
+      "Avalanche — early token investment (2021), now a major L1 blockchain",
+      "MakerDAO — early token investment",
+      "Quantstamp — SAFT investment (2021); Quantstamp CEO Richard Ma later joined Bloccelerate as a Venture Partner",
+      "Gelato, Elixir Protocol, ZenLedger, BlockApps — cited as notable portfolio companies"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/155cc1d56c045a50c302c0a7999a461e2ca61e91-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/bloccelerate-vc",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Cloudburst Technologies — Series A",
+      "Validation Cloud — Series A, blockchain infrastructure tooling",
+      "Rover (Staked Bitcoin / decentralized liquid staking) — undisclosed round",
+      "Tally — Series A + token",
+      "Interstate — SAFE + token",
+      "RDC — investment reported mid-2026"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "8a070f6c-e0b3-4da2-85e1-35cae4f83923",
@@ -14836,12 +15244,24 @@
       "Growth"
     ],
     "website": "http://www.bluecloudventures.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Forethought — led $25M growth round (April 2025); Forethought was acquired by Zendesk in March 2026, Blue Cloud Ventures Fund V's first liquidity event",
+      "Osmo, RapidFort, Exein, Crisp, Impact Analytics, Sanity — cited as recent (2025-era) growth investments",
+      "Paradox Technologies — first invested Dec 2021 ($200M Series C); Paradox was acquired by Workday",
+      "NGINX — portfolio company, acquired by F5 Networks",
+      "Wrike — portfolio company, acquired by Citrix",
+      "Go1, Weave, Shift Technologies — cited among notable unicorn/exit portfolio companies"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/0be694ee212c7a17e3fe5c908dc22affb4c73831-32x32.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/blue-cloud-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Forethought — led $25M growth round (April 2025); Forethought was acquired by Zendesk in March 2026, Blue Cloud Ventures Fund V's first liquidity event",
+      "Osmo, RapidFort, Exein, Crisp, Impact Analytics, Sanity — cited as recent (2025-era) growth investments"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "532250bd-4d16-4619-9e91-0bc10492e789",
@@ -14874,45 +15294,32 @@
       "Series B+"
     ],
     "website": "https://www.boulderventures.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "OpenSolar — October 2025",
+      "Ng-Voice — September 2025",
+      "Travel Curious — July 2025",
+      "Opanga Networks — June 2025",
+      "Synaptic Era — February 2025",
+      "Spectrum Effect — February 2025",
+      "Array BioPharma — co-founded/early investor; acquired by Pfizer for $11.8 billion",
+      "LeftHand Networks — acquired by Hewlett-Packard",
+      "Wall Street on Demand — acquired by Goldman Sachs",
+      "Sovrn, Market Force, Cogent — cited among 39 acquisitions and 3 IPOs in the firm's history"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/97bd87bc55f8df5d3cf2f05e6e0e08231e1c692a-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/boulder-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
-  },
-  {
-    "id": "c8ba2521-bc26-4048-bb0a-d4b6f5f945b6",
-    "name": "BlackRock",
-    "slug": "blackrock",
-    "description": null,
-    "thesis": "BlackRock is an investment company that offers its services to institutions, intermediaries, foundations, and individual investors.",
-    "investment_thesis": "BlackRock is an investment company that offers its services to institutions, intermediaries, foundations, and individual investors.",
-    "overview": "BlackRock is an investment company that offers its services to institutions, intermediaries, foundations, and individual investors.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "New York, NY",
-    "country": "United States",
-    "sector_focus": [],
-    "stage_focus": [
-      "Seed",
-      "Series A",
-      "Series B",
-      "Series C",
-      "Growth"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "OpenSolar — October 2025",
+      "Ng-Voice — September 2025",
+      "Travel Curious — July 2025",
+      "Opanga Networks — June 2025",
+      "Synaptic Era — February 2025",
+      "Spectrum Effect — February 2025"
     ],
-    "website": "https://www.crunchbase.com/organization/blackrock",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "72dacbe2-d112-4ac9-a77d-5d4b3edecbdd",
