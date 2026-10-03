@@ -46773,51 +46773,6 @@
     "created_at": "2026-07-08T22:33:50.530534+00:00"
   },
   {
-    "id": "defe6246-105c-4047-90ac-1a155886c884",
-    "name": "NVIDIA NVentures",
-    "slug": "nvidia-nventures",
-    "description": "NVIDIA NVentures is the venture capital arm of NVIDIA, focusing on AI, robotics, autonomous vehicles, and accelerated computing startups. They provide portfolio companies with access to NVIDIA's GPU technology and AI expertise.",
-    "thesis": "Investing in startups that are transforming industries through AI, accelerated computing, and intelligent edge technologies.",
-    "investment_thesis": null,
-    "overview": "NVIDIA NVentures is the venture capital arm of NVIDIA Corporation, one of the world's leading semiconductor and AI computing companies. The firm leverages NVIDIA's deep expertise in GPU computing, artificial intelligence, and accelerated computing to identify and support promising startups across multiple sectors. NVentures provides portfolio companies with more than just capital - they offer access to NVIDIA's cutting-edge technology stack, including GPUs, software frameworks like CUDA, and AI development tools. The firm focuses on companies building solutions in autonomous vehicles, robotics, healthcare AI, edge computing, and other areas where GPU acceleration can provide significant competitive advantages. Their investment approach is strategic, often aligning with NVIDIA's broader technology roadmap while supporting innovation in emerging computing paradigms. The team works closely with NVIDIA's engineering and product teams to provide technical guidance and partnership opportunities to their portfolio companies.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "10-25",
-    "aum": "$400M",
-    "check_size_min": "$1M",
-    "check_size_max": "$15M",
-    "founded_year": 2016,
-    "headquarters": "Santa Clara, CA",
-    "country": "United States",
-    "sector_focus": [
-      "AI",
-      "Robotics",
-      "Deeptech",
-      "Aerospace & Defense"
-    ],
-    "stage_focus": [
-      "Seed",
-      "Series A",
-      "Series B+"
-    ],
-    "website": "https://nventures.nvidia.com",
-    "notable_portfolio": [
-      "DataRobot",
-      "UiPath",
-      "Bright Machines",
-      "Recursion",
-      "Owkin",
-      "Zenuity",
-      "MapD",
-      "Deep Instinct"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/e1cd155f032ff8e41a93324bc780f555faadf32b-200x200.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/nvidia-nventures",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
-  },
-  {
     "id": "ede7fe8f-915e-431d-92b9-e0b5cdcf79e7",
     "name": "Luminous Ventures (former Lightspeed China Partners)",
     "slug": "luminous-ventures-former-lightspeed-china-partners",
@@ -53653,10 +53608,7 @@
       "Aave",
       "Near Protocol",
       "Arweave",
-      "Livepeer",
-      "Wealthsimple",
-      "Nuvei",
-      "Vena Solutions"
+      "Livepeer"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/28ca8b3555ac70b3d82b976850edfae6a40ca024-200x200.jpg",
     "featured": false,
@@ -76777,7 +76729,13 @@
       "Basecamp Research",
       "Alice & Bob",
       "PsiQuantum",
-      "Quantinuum"
+      "Quantinuum",
+      "UiPath",
+      "Recursion",
+      "Owkin",
+      "Zenuity",
+      "MapD",
+      "Deep Instinct"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/9521555d2910bdb748142919889855573f13cd6a-48x48.png",
     "featured": false,
