@@ -3041,13 +3041,22 @@
       "Marco Barth",
       "Wisnu Nugrahadi",
       "Sheldon Li",
-      "country filter"
+      "country filter",
+      "reach52",
+      "Allra",
+      "Buyandship",
+      "PolicyStreet"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/243e5a9c0665120c6453226501754eaf705d8ef0-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/altara-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "reach52",
+      "Allra"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ef6dd904-e2da-46d8-98f6-4e6114f50017",
@@ -3132,12 +3141,25 @@
       "Series B+"
     ],
     "website": "https://www.a100x.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Crystalfall",
+      "Blerify",
+      "1Money Network",
+      "CoreWeave",
+      "Nansen",
+      "Blockdaemon"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/6a98695fffe966c81677c552912f24d481754434-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/a100x-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Crystalfall",
+      "Blerify",
+      "1Money Network"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "4e9fc687-b125-44e0-8d33-5fc63a0ddf97",
@@ -3221,7 +3243,9 @@
     "featured": false,
     "scout_network": true,
     "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.030902+00:00"
+    "created_at": "2026-05-22T19:39:57.030902+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "22064d37-eb36-42ab-bf36-bc4c0dc9acec",
@@ -3246,12 +3270,18 @@
       "Seed"
     ],
     "website": "https://www.crunchbase.com/organization/tips-program",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Korea Credit Data",
+      "Standigm",
+      "DoubleMe"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "31ddb9db-e871-452d-969c-bac58a3b6bb7",
@@ -3325,12 +3355,18 @@
       "Series B+"
     ],
     "website": "http://aceandcompany.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Roofr",
+      "VertoFX",
+      "Union54"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/fdcab66aa8009b477720016cc9071fe955054183-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ace-company",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "3f24f1f5-9bbf-43ec-9f8f-81a9ab4dcfaf",
@@ -3461,12 +3497,27 @@
       "Series A"
     ],
     "website": "https://www.ainventures.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Mantle Therapeutics",
+      "NOVI Space",
+      "North Vector Dynamics",
+      "Adaptyx",
+      "Orbit Fab",
+      "Inversion Space",
+      "Proteus Space"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d3c6615964debc2583caaa733f066b8983cb89dc-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ain-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Mantle Therapeutics",
+      "NOVI Space",
+      "North Vector Dynamics",
+      "Adaptyx"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "831f87de-adb6-440f-bebb-92f4c080f57b",
@@ -3501,13 +3552,25 @@
       "Weights & Biases",
       "TollBit",
       "Ambience",
-      "Wispr Flow"
+      "Wispr Flow",
+      "ALIGNMT AI",
+      "Ryght AI",
+      "Parallel Bio",
+      "Perplexity",
+      "You.com"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/538ab9e079913246bd1e08c51b1ed1537c64bdd1-600x600.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/aix-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "ALIGNMT AI",
+      "Wispr Flow",
+      "Ryght AI",
+      "Parallel Bio"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ac54fa2e-553b-41e9-8031-101d557df798",
@@ -3589,12 +3652,18 @@
       "Seed"
     ],
     "website": "https://www.animfund.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Faclon Labs",
+      "CUR8",
+      "Snazzy"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/8c447e4f8f9d7e116812249083ef24884138f43f-128x128.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/anim-fund",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7657413d-ae48-47f6-8690-97c938ccc605",
@@ -3763,13 +3832,27 @@
       "Mercari",
       "SmartNews",
       "Astroscale",
-      "TileDB"
+      "TileDB",
+      "Gorlem",
+      "Sukidayo",
+      "Tailor",
+      "LayerX",
+      "SmartHR",
+      "NOT A HOTEL",
+      "Mirrativ"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d107575b15f30347c8349181c4426061c4edefa4-128x128.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/anri",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Gorlem",
+      "Sukidayo",
+      "Tailor",
+      "LayerX"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "661ea5b5-d8cc-477a-a1c2-8514261d153f",
@@ -3802,12 +3885,25 @@
       "Series B+"
     ],
     "website": "https://www.atwpartners.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Robo.ai",
+      "ECARX",
+      "ZOOZ Power",
+      "SpinLaunch",
+      "Frax"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/37384f9e7b86dc8b5b20243c95f0f0b725f52c83-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/atw-partners",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Robo.ai",
+      "ECARX",
+      "ZOOZ Power",
+      "SpinLaunch"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "8d41311f-d3b0-4ce7-9b8c-9d40b77dd579",
@@ -3840,13 +3936,26 @@
       "Solana",
       "NEAR Protocol",
       "Avalanche",
-      "Terra"
+      "Terra",
+      "NeuronX",
+      "A-WORLD",
+      "Vue Protocol",
+      "Axie Infinity",
+      "Fantom",
+      "Harmony",
+      "Polkadot"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/e1a23cd23dbeab54b0c371a39571728a870cd0fa-100x100.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/au21-capital",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "NeuronX",
+      "A-WORLD",
+      "Vue Protocol"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e92d11cd-d45d-439f-bf1d-990c83b3e687",
@@ -3875,12 +3984,22 @@
       "Series A"
     ],
     "website": "http://av8.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Hydrolix",
+      "AllIn Bio",
+      "Think Bioscience",
+      "Delfi Diagnostics"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/465b23c628480ff46c1ec05353fc3d7c362ded05-33x32.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/av8-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Hydrolix",
+      "AllIn Bio"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7ec6e5d8-3e78-4ea8-a4c4-9b5d8219fe4a",
@@ -3936,41 +4055,6 @@
     "deals_last_checked": "2026-10-03"
   },
   {
-    "id": "6b95c57a-8ca6-4348-a75f-9bc0a0cf89eb",
-    "name": "AVV",
-    "slug": "avv",
-    "description": "Learn which startups AVV invests in, what size check sizes they write, and who their partners are (e.g. ).",
-    "thesis": null,
-    "investment_thesis": null,
-    "overview": "AVV is a venture capital firm founded in 2012.\nAVV is Vietnam's leading venture capital firm backing bold founders from seed to scale. Since 2015: 100+ startups funded, $1.8B raised, 3 unicorns created.\nThe firm focuses on Pre-Seed, Seed, Series A, Series B+ investments across sectors including Aerospace & Defense, Other, Consumer, Fintech, Climate.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": 2012,
-    "headquarters": null,
-    "country": null,
-    "sector_focus": [
-      "Aerospace & Defense",
-      "Other",
-      "Consumer",
-      "Fintech",
-      "Climate"
-    ],
-    "stage_focus": [
-      "Seed"
-    ],
-    "website": "https://avv.co/",
-    "notable_portfolio": [],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/cbfcf5ae7e95c837c7b920578478c894410d0558-256x256.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/avv",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
-  },
-  {
     "id": "778c4305-b133-41a4-9e43-3e9ade58528f",
     "name": "Alante Capital",
     "slug": "alante-capital",
@@ -4008,13 +4092,25 @@
       "OOladapoHeadshot+(3)",
       "origin-bio-jens-klein+(1)",
       "Matereal+co-founders",
-      "GreenAbundance_photo_4_26 (1) copy"
+      "GreenAbundance_photo_4_26 (1) copy",
+      "Musthad",
+      "Relist",
+      "Green Abundance",
+      "Insempra",
+      "Retraced",
+      "Circ"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/69608126c3c7a8f3f96f30b606eb11014ff0c261-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alante-capital",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Musthad",
+      "Relist",
+      "Green Abundance"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "221aa766-6e68-4df8-a804-1438762712b1",
@@ -4042,12 +4138,31 @@
       "Series A"
     ],
     "website": "https://ablepartners.nyc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Bevimi",
+      "Pointer Health",
+      "Pocket Cafe",
+      "KilgourMD",
+      "Liftoff Platform",
+      "Lucille Health",
+      "Spring Health",
+      "Oura",
+      "Function Health"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/8ec28f6db56feb6bb4a6bcb4eedbcb53c5c0ee16-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/able-partners",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Bevimi",
+      "Pointer Health",
+      "Pocket Cafe",
+      "KilgourMD",
+      "Liftoff Platform",
+      "Lucille Health"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1604c26c-bf13-495c-a2f5-623f124793ab",
@@ -4096,33 +4211,6 @@
     "deals_last_checked": "2026-10-03"
   },
   {
-    "id": "71ab8590-4bb3-4ecb-9108-0c3afa434a81",
-    "name": "Innovate UK",
-    "slug": "innovate-uk",
-    "description": null,
-    "thesis": "Innovate UK holds funding competitions for businesses and research organizations in sectors, including emerging technologies.",
-    "investment_thesis": "Innovate UK holds funding competitions for businesses and research organizations in sectors, including emerging technologies.",
-    "overview": "Innovate UK holds funding competitions for businesses and research organizations in sectors, including emerging technologies.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Swindon, Wiltshire",
-    "country": "United Kingdom",
-    "sector_focus": [],
-    "stage_focus": [],
-    "website": "https://www.ukri.org/councils/innovate-uk",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
-  },
-  {
     "id": "bc1bbcc7-ff19-4e74-9c21-39cd79e40f9c",
     "name": "Abies Ventures",
     "slug": "abies-ventures",
@@ -4150,12 +4238,27 @@
       "Series B"
     ],
     "website": "https://abies.vc/en/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Nichietsu",
+      "VOLTMIND",
+      "Patentix",
+      "HOBE Energy",
+      "Horizon Quantum Computing",
+      "Kyoto Fusioneering",
+      "Telexistence"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d2738df42efec8ec49178bca689a42b030475fc9-128x128.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/abies-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Nichietsu",
+      "VOLTMIND",
+      "Patentix",
+      "HOBE Energy"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "3e2a59a7-da96-40fd-a910-88924239375e",
@@ -4187,7 +4290,9 @@
     "featured": false,
     "scout_network": true,
     "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.030902+00:00"
+    "created_at": "2026-05-22T19:39:57.030902+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "3c0dd655-3584-491e-88d5-3bd21910d6d0",
@@ -4216,12 +4321,27 @@
       "Growth"
     ],
     "website": "https://abstraction.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Neurometric",
+      "CopilotKit",
+      "OpsCompanion",
+      "Soren AI",
+      "Octane",
+      "Buf",
+      "Freshpaint"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a7b45b90e1caeef0e5f438030187e6e37d4351f3-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/abstraction-capital",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Neurometric",
+      "CopilotKit",
+      "OpsCompanion",
+      "Soren AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "d9e63a7f-4501-46c7-b509-7f3869af1775",
@@ -4250,13 +4370,20 @@
       "Seed",
       "Series A"
     ],
-    "website": "https://acaciapartners.com",
-    "notable_portfolio": [],
+    "website": "https://acaciapartnersllc.com",
+    "notable_portfolio": [
+      "A&A Global Industries",
+      "Vision Radiology",
+      "Nations Roof",
+      "Red River Technology"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/2c199d51078f975d3b7b753a241bf3701524607a-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/acacia-partners",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0d43aeb2-82f2-4cdb-92d8-ff0e35924652",
@@ -4289,12 +4416,23 @@
       "Series B+"
     ],
     "website": "https://www.dayonecap.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Anbo Technology",
+      "Juewu Technology",
+      "HeyTea",
+      "Li Auto",
+      "Neta Auto"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/eee30ad21ed14536530aeab5fdae9fa37bc041e3-32x32.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/dayone-capital",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Anbo Technology",
+      "Juewu Technology"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b33c497c-f86b-4ce2-ade1-d5ff2cd43ab2",
@@ -4356,8 +4494,8 @@
   },
   {
     "id": "3d121a1c-c68b-4717-94b6-b11ee4a20cdd",
-    "name": "Minnow Ventures",
-    "slug": "minnow-ventures",
+    "name": "Minnow Venture Partners",
+    "slug": "minnow-venture-partners",
     "description": "Minnow Ventures is a healthcare-focused VC spanning drug discovery, life sciences, and AI health tech from pre-seed to Series A",
     "thesis": "Healthcare-focused investment group covering biotech, drug discovery, and health tech. Focus on drug discovery platforms with lab infrastructure, AI, or technological advantages. Also invests in broader AI-enabled healthcare",
     "investment_thesis": "Healthcare-focused investor backing drug discovery platforms, AI-enabled healthcare, and early-stage biotech at pre-seed through Series A.",
@@ -4384,13 +4522,22 @@
     "notable_portfolio": [
       "Seneca Therapeutics",
       "Vivtex",
-      "Frontier Bio"
+      "Frontier Bio",
+      "Rhazes AI",
+      "Seal Rock Therapeutics"
     ],
     "logo_url": "https://www.google.com/s2/favicons?domain=minnowventures.com&sz=64",
     "featured": false,
     "scout_network": true,
     "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.302273+00:00"
+    "created_at": "2026-05-22T19:39:57.302273+00:00",
+    "latest_deals": [
+      "Seneca Therapeutics",
+      "Vivtex",
+      "Frontier Bio",
+      "Rhazes AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "58e03c8e-4797-46da-986b-85eec5e2029c",
@@ -4416,17 +4563,28 @@
     "stage_focus": [
       "Pre-Seed"
     ],
-    "website": "https://wildwoodventures.com",
+    "website": "https://wildwood.vc",
     "notable_portfolio": [
       "Out & Back",
       "Kinsa Active",
-      "Roots"
+      "Roots",
+      "Swishvo",
+      "Perx Health",
+      "Ginko",
+      "Chimani",
+      "Flowcart"
     ],
     "logo_url": "https://www.google.com/s2/favicons?domain=wildwoodventures.com&sz=64",
     "featured": false,
     "scout_network": true,
     "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.030902+00:00"
+    "created_at": "2026-05-22T19:39:57.030902+00:00",
+    "latest_deals": [
+      "Swishvo",
+      "Perx Health",
+      "Ginko"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "50034dd3-85ec-4387-a7f2-7328441a9618",
@@ -4459,13 +4617,27 @@
       "Branch",
       "JUMO",
       "Oradian",
-      "PayJoy"
+      "PayJoy",
+      "PaidHR",
+      "Foyer",
+      "FinFra",
+      "Flowcart",
+      "Konfio",
+      "Apollo Agriculture",
+      "Pula"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/5ed1979044a7e5014aeac910449e43f82a64bdb8-2200x1467.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/accion-venture-lab",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "PaidHR",
+      "Foyer",
+      "FinFra",
+      "Flowcart"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7aa144df-141e-4ee7-9a8f-c5d2ffff1c4a",
@@ -4549,12 +4721,26 @@
       "Growth"
     ],
     "website": "https://www.hsgcap.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "ByteDance",
+      "Golden Goose",
+      "Avelox",
+      "Marshall Group",
+      "Meituan",
+      "Alibaba"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "ByteDance",
+      "Golden Goose",
+      "Avelox",
+      "Marshall Group"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "d3bbc284-3b66-446e-b11e-fae77560b58a",
@@ -4586,12 +4772,26 @@
       "Growth"
     ],
     "website": "https://www.hyphencap.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Nitra",
+      "Riley",
+      "Sandbox VR",
+      "Persona",
+      "Super",
+      "Prime Roots",
+      "tbd health"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1c70c4e5ffed06d0fa2d26b1636bb65323d2b06a-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/hyphen-capital",
-    "created_at": "2026-05-22T19:29:48.973772+00:00"
+    "created_at": "2026-05-22T19:29:48.973772+00:00",
+    "latest_deals": [
+      "Nitra",
+      "Riley",
+      "Sandbox VR"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e5968790-4917-4ae5-aa21-dcecd4d192d1",
@@ -4825,12 +5025,27 @@
       "Seed"
     ],
     "website": "https://www.activeimpactinvestments.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "CarbonForge",
+      "Jetson",
+      "Skyward",
+      "Zeno",
+      "ChopValue",
+      "King Energy",
+      "SWTCH"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/b2ed32ed3e298a92b8dcf04187b978677da8a287-253x229.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/active-impact-investments",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "CarbonForge",
+      "Jetson",
+      "Skyward",
+      "Zeno"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7d09470a-2ba6-4566-b6b4-68259451eb9f",
@@ -4919,12 +5134,24 @@
       "Series B+"
     ],
     "website": "https://activatecap.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Antora Energy",
+      "Tomorrow.io",
+      "Starfish Space",
+      "Crusoe"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/2461e6366d7dec1b9f1546dbfdf8de094a8b8d44-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/activate-capital-partners",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Antora Energy",
+      "Tomorrow.io",
+      "Starfish Space",
+      "Crusoe"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "05a9c0c8-9e24-44fc-9411-7cd83a5af61a",
@@ -4985,13 +5212,24 @@
       "4McUqwHSaCXbhhP2hoBn3HJ3",
       "images-1",
       "ISOCHRONIC",
-      "isospec-analytics"
+      "isospec-analytics",
+      "Seprify",
+      "ASTRA Therapeutics",
+      "DPhi Space",
+      "Tethys Robotics"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/61d006ed01b14e33014560369bf134be2b3bf4e0-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/kickfund",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "Seprify",
+      "ASTRA Therapeutics",
+      "DPhi Space",
+      "Tethys Robotics"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f2ad4318-3861-45f1-af19-3995399fc34a",
@@ -5075,12 +5313,25 @@
       "Series A"
     ],
     "website": "https://www.adaptvc.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Snif",
+      "Wander",
+      "Clara",
+      "Sanas",
+      "Dutch Pet"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/938dc67c1921e35848823bb30e20e245332c6dcf-500x500.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/adapt-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Snif",
+      "Wander",
+      "Clara",
+      "Sanas"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "4136cdaf-bad4-43ae-a136-e48f41d41976",
@@ -5227,13 +5478,27 @@
       "Others",
       "Nakama Game Studio",
       "Oblivious",
-      "OnTruck"
+      "OnTruck",
+      "Refurbed",
+      "Phagos",
+      "Lexroom.ai",
+      "Toothfairy",
+      "Preply",
+      "Roofstock",
+      "Zum"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/845013e47b17cdfd343d1035b5f26cee3611c342-256x256.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/acurio-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Refurbed",
+      "Phagos",
+      "Lexroom.ai",
+      "Toothfairy"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "2c52171f-fe8b-40ee-b638-807c1e4125dc",
@@ -5262,12 +5527,23 @@
       "Series A"
     ],
     "website": "https://adjacent.vc",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "RevenueCat",
+      "Applause",
+      "Revolut",
+      "Chainalysis",
+      "Oura"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/c4c2ad3f5ad8eae72aa30615ccdd88beda60225e-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/adjacent-vc",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "RevenueCat",
+      "Applause"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1730f347-b15a-48bf-9bf8-3a92fb2d8482",
@@ -5405,12 +5681,27 @@
       "Series A"
     ],
     "website": "https://aera.vc",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Array Labs",
+      "Reditus Space",
+      "Maritime Fusion",
+      "Gridsight",
+      "Solugen",
+      "Twelve",
+      "Dawn Aerospace"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/98a3b749358ed0d29de0c4f25d8bfe9555d0e5bf-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/aera-vc",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Array Labs",
+      "Reditus Space",
+      "Maritime Fusion",
+      "Gridsight"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1f353879-07da-42d0-afae-37c2bbaf82a3",
@@ -5440,12 +5731,23 @@
       "Series B+"
     ],
     "website": "https://aeroxventures.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Vermeer",
+      "Seasats",
+      "Whisper Aero",
+      "Privateer",
+      "Cyvl.ai"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/259236e62452d05288e854f6fab1dce3ed59a0a0-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/aerox-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Vermeer",
+      "Seasats"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "025acc8b-49aa-4030-96d5-1ac904e0490b",
@@ -5753,12 +6055,22 @@
       "Growth"
     ],
     "website": "https://advantagecapital.org",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Noovo",
+      "Juristat",
+      "beatBread"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "Noovo",
+      "Juristat",
+      "beatBread"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "4693db7c-de0a-45c3-a7d8-685054af955d",
@@ -5791,12 +6103,28 @@
       "Series B+"
     ],
     "website": "http://www.ahreninnovationcapital.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "KluraLabs",
+      "Nu Quantum",
+      "Cassidy Bio",
+      "Phaidra",
+      "Graphcore",
+      "AI21 Labs",
+      "Sunfire",
+      "Bicycle Therapeutics"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/b349bc20d5a9947c5ca2c1e0006a9714e552ac03-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ahren-innovation-capital",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "KluraLabs",
+      "Nu Quantum",
+      "Cassidy Bio",
+      "Phaidra"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1d18bc0e-6960-4b7a-83eb-1887fb46c5cd",
