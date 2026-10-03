@@ -2437,13 +2437,20 @@
       "Mercadona",
       "Tribal Credit",
       "Mila",
-      "Get Approved"
+      "Get Approved",
+      "Kona",
+      "Orbit Fab",
+      "Vector Launch"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/f5ff1a4ff15682aded782ad079ae767278a6a636-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/mila-capital",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "Kona"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ed31ad11-920f-492d-bb99-031a77ba4708",
@@ -3749,13 +3756,25 @@
     ],
     "website": "https://covefund.com",
     "notable_portfolio": [
-      "Carlsmed"
+      "Carlsmed",
+      "Time Machine",
+      "Eira Bio",
+      "CARI Health",
+      "BLNG",
+      "Whistle"
     ],
     "logo_url": "https://www.google.com/s2/favicons?domain=covefund.com&sz=64",
     "featured": false,
     "scout_network": true,
     "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.030902+00:00"
+    "created_at": "2026-05-22T19:39:57.030902+00:00",
+    "latest_deals": [
+      "Time Machine",
+      "Eira Bio",
+      "CARI Health",
+      "BLNG"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "71ab8590-4bb3-4ecb-9108-0c3afa434a81",
@@ -4689,13 +4708,26 @@
     "notable_portfolio": [
       "Koala",
       "Incredible Health",
-      "Flock"
+      "Flock",
+      "Gizmo",
+      "Qoro Quantum",
+      "ToothFairy",
+      "Interhuman AI",
+      "Huboo",
+      "Moonhub"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/b6c52d8c674cb423a5c43f697e7f6c4078d82b9f-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ada-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Gizmo",
+      "Qoro Quantum",
+      "ToothFairy",
+      "Interhuman AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "97ebe7c9-f955-4989-8623-be9beffcd93b",
@@ -8487,13 +8519,24 @@
     "website": "http://www.212.vc",
     "notable_portfolio": [
       "ff_cn_id_1",
-      "ff_cn_id_2"
+      "ff_cn_id_2",
+      "Haelixa",
+      "Qrambo",
+      "Aepnus",
+      "Insider",
+      "Iyzico"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/44f9af09670c60070da08072dece16951934fcf9-167x167.svg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/212",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Haelixa",
+      "Qrambo",
+      "Aepnus"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "4a4e5b5a-1c6f-4ee4-bd67-6241d1f35019",
@@ -9184,13 +9227,24 @@
       "Netlify",
       "Labelbox",
       "Checkr",
-      "Samsara"
+      "Samsara",
+      "Flamingo",
+      "CandorIQ",
+      "Tellen",
+      "Simility",
+      "CasaOne"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/30ffbb64b8f1c4ca8ebe847e5be02e9157cff994-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/array-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Flamingo",
+      "CandorIQ",
+      "Tellen"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7deb406a-0fd3-4f49-b221-822aa09954c9",
@@ -10031,13 +10085,24 @@
     "notable_portfolio": [
       "Calendly",
       "Kabbage",
-      "Roadie"
+      "Roadie",
+      "Undaunted",
+      "InpharmD",
+      "The Perlant",
+      "SalesLoft",
+      "Terminus"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/56dbb9b90e93bb191db2c06ef18e15e3661f0594-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/atlanta-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Undaunted",
+      "InpharmD",
+      "The Perlant"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "2e4f1d36-05d1-4245-865a-4ef2f9993de0",
@@ -16605,16 +16670,14 @@
       "Seed"
     ],
     "website": "https://www.calm.com/ventures",
-    "notable_portfolio": [
-      "Headspace",
-      "Talkspace",
-      "BetterUp"
-    ],
+    "notable_portfolio": [],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/dfa4c0c85e33028932adcebaa5d99a22cb7129bd-128x128.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/calm-ventures",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7c77fdfa-e515-44df-8063-8fffcc2c1789",
@@ -17436,7 +17499,9 @@
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/catalyst-fund",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f629fceb-4eaf-4163-8fba-93cc198846c4",
@@ -18562,13 +18627,22 @@
       "Maven",
       "Parker",
       "Backstage Capital",
-      "Jetpack"
+      "Jetpack",
+      "Plug",
+      "Groq",
+      "KoBold Metals",
+      "Ellevest",
+      "FalconX"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/8c755caccf8656d36017e092c37a909da9685a9e-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/cleo-capital",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [
+      "Plug"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "479ddb7c-17bf-4283-9509-f9eb18e5a2e6",
@@ -20484,13 +20558,17 @@
     "notable_portfolio": [
       "Rappi",
       "Flyr",
-      "Jungle"
+      "Jungle",
+      "SkyBitz",
+      "Argos Therapeutics"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/c4ce1849e91673e33dfd735c0b8eb2e1b02d9de0-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/cordova-ventures",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
+    "created_at": "2026-05-22T19:29:47.667574+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "3335902f-2f74-49f8-93d7-509be98ade66",
@@ -22302,13 +22380,26 @@
       "Faire",
       "Rappi",
       "Clipchamp",
-      "Verkada"
+      "Verkada",
+      "Clerq",
+      "Palla Financial",
+      "Jericho Security",
+      "Outmarket AI",
+      "Pave",
+      "Teal"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/af78ece2b9b235af6653c8c432c77e8f9a82d46b-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/dash-fund",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Clerq",
+      "Palla Financial",
+      "Jericho Security",
+      "Outmarket AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "c56db354-9b9a-4c4b-bb5f-9eabe1af3b43",
@@ -22933,8 +23024,8 @@
   },
   {
     "id": "d8654d90-81e9-49e9-86ae-1798a221bb34",
-    "name": "Data Community Fund",
-    "slug": "data-community-fund",
+    "name": "Zero Prime Ventures",
+    "slug": "zero-prime-ventures",
     "description": "Learn which startups Data Community Fund invests in, what size check sizes they write, and who their partners are (e.g. ).",
     "thesis": "Invests in early-stage companies building data infrastructure, analytics, and machine learning tools for enterprises.",
     "investment_thesis": null,
@@ -22959,12 +23050,26 @@
       "Growth"
     ],
     "website": "http://dcf1.vc",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "HoneyHive",
+      "Qontext",
+      "Structured AI",
+      "Hex",
+      "MotherDuck",
+      "Dagster",
+      "Hightouch"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/c2382a407b23450b270f302c7ee616d9593cb065-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/data-community-fund",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "HoneyHive",
+      "Qontext",
+      "Structured AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e0822cc2-453a-4d7e-a954-8f370c653db9",
@@ -29021,13 +29126,25 @@
       "Bitsy's Brainfood",
       "Mahmee",
       "Partpic",
-      "Walker & Company"
+      "Walker & Company",
+      "Blue Scorpion Reputation Management",
+      "Starday",
+      "Zimi",
+      "Slutty Vegan",
+      "Resilia",
+      "Bitsy's"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/55f68b05bb921552dc4d9b6c3708d2683ccb9cc8-300x300.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/fearless-fund",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Blue Scorpion Reputation Management",
+      "Starday",
+      "Zimi"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "a9d2c569-45c2-4c9d-9117-7f622f460b4c",
@@ -33910,8 +34027,8 @@
   },
   {
     "id": "6d62a268-21a0-4553-85d9-65d161434fb7",
-    "name": "Galvanize Ventures",
-    "slug": "galvanize-ventures",
+    "name": "Upslope Ventures",
+    "slug": "upslope-ventures",
     "description": "Denver-based venture capital firm and startup community focused on early-stage investments. Part of the broader Galvanize ecosystem that includes education and coworking spaces. Known for their community-driven approach and support for local entrepreneurs.",
     "thesis": "Invests in early-stage technology companies with strong founding teams and innovative solutions across multiple verticals.",
     "investment_thesis": null,
@@ -33939,13 +34056,18 @@
     "notable_portfolio": [
       "ClassPass",
       "SendGrid",
-      "Pivotal"
+      "Pivotal",
+      "Eight Sleep",
+      "Hipcamp",
+      "Rachio"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/968a200a4fe49ac3a4afe0cfcdd72a1034872729-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/galvanize-ventures",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "3d66122c-357a-46ee-b07f-0461f99985ac",
@@ -37027,13 +37149,26 @@
       "Flux",
       "3D Robotics",
       "Dash Robotics",
-      "Voltera"
+      "Voltera",
+      "Material10",
+      "BeInFit",
+      "Freeaim",
+      "Zipline",
+      "Starship Technologies",
+      "Spire",
+      "eero"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/922916e1d07b32e1db3f237fa2796746303740b7-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/grishin-robotics",
-    "created_at": "2026-05-22T19:29:48.973772+00:00"
+    "created_at": "2026-05-22T19:29:48.973772+00:00",
+    "latest_deals": [
+      "Material10",
+      "BeInFit",
+      "Freeaim"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e8af963e-3a4f-4f0a-9d41-ebe47cfcdd24",
@@ -42072,13 +42207,21 @@
       "Gather Intelligence",
       "Foster an Innovation Culture",
       "Find Startup Partners",
-      "Back to home"
+      "Back to home",
+      "Deep Vector",
+      "SureBright",
+      "Stere.io",
+      "Tedy"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/0760709a5de85804e22aa4f92295145fb306e44e-180x180.webp",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/insurtech-ny",
-    "created_at": "2026-05-22T19:29:48.973772+00:00"
+    "created_at": "2026-05-22T19:29:48.973772+00:00",
+    "latest_deals": [
+      "Deep Vector"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "25fdf02d-50f1-475e-b094-8630dfbdcd3b",
@@ -42439,7 +42582,9 @@
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/italic-capital",
-    "created_at": "2026-05-22T19:29:48.973772+00:00"
+    "created_at": "2026-05-22T19:29:48.973772+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ce50e89d-3dae-4375-aefa-d1e92f412d0b",
@@ -43625,13 +43770,22 @@
       "Bracket Computing",
       "AssemblyAI",
       "Sift Science",
-      "Hipmunk"
+      "Hipmunk",
+      "Agenda Hero",
+      "Compound Eye",
+      "Carta",
+      "Auth0"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1a7151b8c767ecd7401bdebeffc684a744b4f569-400x400.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/k9-ventures",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "Agenda Hero",
+      "Compound Eye"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "6f583ceb-0c9c-4932-aac2-0a649a2f235b",
@@ -46910,17 +47064,31 @@
       "Seed",
       "Series A"
     ],
-    "website": "https://mathventures.com",
+    "website": "https://www.mathventurepartners.com",
     "notable_portfolio": [
       "Lyft",
       "Headspace",
-      "theSkimm"
+      "theSkimm",
+      "86 Repairs",
+      "ClearCOGS",
+      "Metopio",
+      "Beam Health",
+      "Acorns",
+      "SpotHero",
+      "Grubhub"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d12d88aa5b4380fc9dec0cdb2f12c2988049e114-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/math-venture-partners",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "86 Repairs",
+      "ClearCOGS",
+      "Metopio",
+      "Beam Health"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e02594eb-aaa4-4a0f-bf3b-4842808e046d",
@@ -48581,13 +48749,21 @@
     "notable_portfolio": [
       "AvidXchange",
       "MetaCX",
-      "Red Ventures"
+      "Red Ventures",
+      "iUNU",
+      "DOmedia",
+      "SafeChain"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/b66ace766d654ecdf1252bc598dfc806c404d251-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/nct-ventures",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "iUNU",
+      "DOmedia"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ffe16681-bc4b-492d-ac50-d88a9dfc789b",
@@ -49567,13 +49743,18 @@
     "notable_portfolio": [
       "Kira Systems",
       "Luminance",
-      "LawGeex"
+      "LawGeex",
+      "ROSS Intelligence",
+      "Apperio",
+      "Clause"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/46f144dfee6cb86e0363ee4928df860d0aa5b7f7-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/nextlaw-labs",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0094bef3-e683-4b21-aaf5-a967ce40e11f",
@@ -51149,13 +51330,26 @@
     "notable_portfolio": [
       "Outreach",
       "PitchBook",
-      "Chef"
+      "Chef",
+      "Nourish",
+      "Ilant Health",
+      "Evervault",
+      "Estuary",
+      "Deel",
+      "Spring Health"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/19ce073b22e247e3ad24a9bcf7bc4e8c22c20a7b-32x32.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/operator-partners",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [
+      "Nourish",
+      "Ilant Health",
+      "Evervault",
+      "Estuary"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "fd90c134-f335-4c26-a88d-ad0924834bab",
@@ -55547,13 +55741,21 @@
       "Signavio",
       "Callidus",
       "SuccessFactors",
-      "Concur"
+      "Concur",
+      "Nova Intelligence",
+      "Deepgram",
+      "BigID",
+      "Airwallex"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/861548e3eb12cb1413f4dc70b2d6ea9fa526dae1-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/sap-io-fund",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
+    "created_at": "2026-05-22T19:29:49.859043+00:00",
+    "latest_deals": [
+      "Nova Intelligence"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "8b749507-471d-4b43-8743-754c427c0b56",
@@ -58215,13 +58417,26 @@
     "notable_portfolio": [
       "Notion",
       "Retool",
-      "Linear"
+      "Linear",
+      "Sora Fuel",
+      "Canopy",
+      "Pickaxe",
+      "Persist AI",
+      "Skillshare",
+      "Crew"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/848cd83e79b76eb518f3729aa6ba45c415db8e06-32x32.webp",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/spero-ventures",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
+    "created_at": "2026-05-22T19:29:49.859043+00:00",
+    "latest_deals": [
+      "Sora Fuel",
+      "Canopy",
+      "Pickaxe",
+      "Persist AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "943d907a-fcfb-4f99-b1ca-111e00b9cb82",
@@ -59366,13 +59581,20 @@
     "notable_portfolio": [
       "Discord",
       "Reddit",
-      "Clubhouse"
+      "Clubhouse",
+      "Ceremonia",
+      "TBD Health",
+      "Entree"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a23526072f9a7c7c65822e16870b786990a46dc5-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/the-community-fund",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
+    "created_at": "2026-05-22T19:29:49.859043+00:00",
+    "latest_deals": [
+      "Ceremonia"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "69787116-990b-40a1-adbd-d587be1d7a91",
@@ -59786,12 +60008,27 @@
       "Seed"
     ],
     "website": "https://www.tiny.vc",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "BirdyChat",
+      "GRAI",
+      "Newly",
+      "Augur",
+      "Sorare",
+      "Wayve",
+      "Payhawk"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/4cfc83bd6b8a200a9a93cbd4057b2e13fd84a364-128x128.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/tiny-ventures",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
+    "created_at": "2026-05-22T19:29:49.859043+00:00",
+    "latest_deals": [
+      "BirdyChat",
+      "GRAI",
+      "Newly",
+      "Augur"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "25f5b2a3-6376-4138-978e-59d1ea1d8a6f",
@@ -61241,12 +61478,27 @@
       "Series B+"
     ],
     "website": "http://january.ventures",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Ultralight",
+      "Flock AI",
+      "Seal Robotics",
+      "Goodword",
+      "Ethena",
+      "Sonantic",
+      "Kinside"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:47:09.328344+00:00"
+    "created_at": "2026-07-08T22:47:09.328344+00:00",
+    "latest_deals": [
+      "Ultralight",
+      "Flock AI",
+      "Seal Robotics",
+      "Goodword"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ac329b89-c141-4f87-9b9a-076e734eb226",
@@ -61335,13 +61587,27 @@
     "notable_portfolio": [
       "Blackbaud",
       "BoomTown",
-      "PhishLabs"
+      "PhishLabs",
+      "Botsi",
+      "StratusGrid",
+      "Sprockets",
+      "Adovate",
+      "ecomdash",
+      "FarmShots",
+      "Sensory Analytics"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/e1092506708de25b09bb44d8536cab312f492417-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/venture-south",
-    "created_at": "2026-05-22T19:29:50.25933+00:00"
+    "created_at": "2026-05-22T19:29:50.25933+00:00",
+    "latest_deals": [
+      "Botsi",
+      "StratusGrid",
+      "Sprockets",
+      "Adovate"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "bf760fa2-144b-4523-af8c-8b139f294a70",
@@ -70143,78 +70409,6 @@
     "created_at": "2026-05-22T19:29:48.526685+00:00"
   },
   {
-    "id": "0e8496b2-cd54-42cf-b3ce-5a96489b986b",
-    "name": "Built Worlds",
-    "slug": "built-worlds",
-    "description": "Chicago-based venture capital firm and innovation platform focused on construction technology and built environment startups. They connect startups with industry leaders and provide both funding and market access.",
-    "thesis": "Investing in technology companies that are digitizing and modernizing the construction and built environment industries.",
-    "investment_thesis": null,
-    "overview": "Built Worlds is a Chicago-based venture capital firm and innovation platform that specializes in construction technology and built environment startups. The firm operates as both an investor and industry connector, providing portfolio companies with access to established players in the construction and real estate sectors. Built Worlds focuses primarily on seed and Series A stage investments in SaaS, AI, and enterprise technology companies that are transforming how buildings and infrastructure are designed, constructed, and maintained. What distinguishes Built Worlds is their dual approach of combining capital investment with market access, leveraging their network of industry relationships to help startups gain traction with potential customers and partners. The firm regularly hosts events and creates content to foster connections within the construction technology ecosystem, positioning themselves as thought leaders in the proptech and contech space.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "10-25",
-    "aum": "$30M",
-    "check_size_min": "$250K",
-    "check_size_max": "$2M",
-    "founded_year": 2017,
-    "headquarters": "Chicago, IL",
-    "country": "United States",
-    "sector_focus": [
-      "SaaS",
-      "AI",
-      "Enterprise"
-    ],
-    "stage_focus": [
-      "Seed",
-      "Series A"
-    ],
-    "website": "https://www.builtworlds.com",
-    "notable_portfolio": [
-      "Procore",
-      "PlanGrid",
-      "Fieldwire",
-      "Acciona",
-      "AEC Angels",
-      "ALEC Engineering & Contracting",
-      "AlliedBIM",
-      "AMC Bridge",
-      "Andersen Corporation",
-      "Anyset AI",
-      "Aphex",
-      "Arbel",
-      "ARCO/Murray",
-      "Armature",
-      "Armeta AI",
-      "Armstrong World Industries",
-      "Articulate",
-      "Arup",
-      "Attentive.ai",
-      "Autodesk",
-      "Axiom Builders",
-      "Azure Printed Homes",
-      "BEXEL USA",
-      "Blackhorn Ventures",
-      "Bobyard",
-      "Bouygues Construction",
-      "Brick & Mortar Ventures",
-      "Briq",
-      "Building Diagnostic Robotics",
-      "Bulley & Andrews",
-      "Burger Consulting Group",
-      "Burns & McDonnell",
-      "Caterpillar",
-      "Cemex Ventures",
-      "Century Construction",
-      "CIBC",
-      "CIM"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/14c2ae0afaa6e8874a4ffdeb6af261acb618609d-144x144.webp",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/built-worlds",
-    "created_at": "2026-05-22T19:29:47.667574+00:00"
-  },
-  {
     "id": "5348826a-13d0-4505-ad7b-ab6b35da882a",
     "name": "Amboy Street Ventures",
     "slug": "amboy-street-ventures",
@@ -75514,12 +75708,27 @@
     "sector_focus": [],
     "stage_focus": [],
     "website": "http://www.remagineventures.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Kopa AI",
+      "Festi",
+      "Pandorian",
+      "Bridge",
+      "SomaLogic",
+      "Minute Media",
+      "Syte"
+    ],
     "logo_url": "https://d878vporrm2hj.cloudfront.net/company/37575203_company_logo",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.030902+00:00"
+    "created_at": "2026-05-22T19:39:57.030902+00:00",
+    "latest_deals": [
+      "Kopa AI",
+      "Festi",
+      "Pandorian",
+      "Bridge"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b137cb44-7680-4dd9-b4e0-deb57102623e",
@@ -75934,8 +76143,8 @@
   },
   {
     "id": "904aca1f-dbd6-428c-9266-96245fe1f2b6",
-    "name": "Rooks Nest Ventures",
-    "slug": "rooks-nest-ventures",
+    "name": "Supernode Global",
+    "slug": "supernode-global",
     "description": "Supernode Global is a venture capital firm investing in early-stage startups that are empowering humans to reach their full potential in the most important aspects of everyday lives - how we live, learn, create and connect. With a focus on the application layer and next generation platforms, Supernode Global backs ambitious founders building transformative businesses serving consumers and the commercial ecosystems that support them.",
     "thesis": "Supernode Global is a venture capital firm investing in early-stage startups that are empowering humans to reach their full potential in the most important aspects of everyday lives - how we live, learn, create and connect. With a focus on the application layer and next generation platforms, Supernode Global backs ambitious founders building transformative businesses serving consumers and the commercial ecosystems that support them.",
     "investment_thesis": null,
@@ -75952,12 +76161,27 @@
     "sector_focus": [],
     "stage_focus": [],
     "website": "https://supernodeglobal.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Imera",
+      "Flowstep",
+      "Hormona",
+      "Contend",
+      "Fiit",
+      "Perlego",
+      "Podsights"
+    ],
     "logo_url": "https://d878vporrm2hj.cloudfront.net/company/24437288_company_logo",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.030902+00:00"
+    "created_at": "2026-05-22T19:39:57.030902+00:00",
+    "latest_deals": [
+      "Imera",
+      "Flowstep",
+      "Hormona",
+      "Contend"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "fd9e350b-49c2-4bbd-856a-93bcd6af43f2",
@@ -80106,13 +80330,25 @@
       "Squire",
       "Pigeonly",
       "Jopwell",
-      "MyFitnessPal"
+      "MyFitnessPal",
+      "BlueCore Energy",
+      "AccessGrid",
+      "Lava",
+      "TestParty",
+      "Pangaea Holdings"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/2ee36c209c875ac17cc56b4363d1d7f3150fd82b-4786x3191.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/harlem-capital",
-    "created_at": "2026-05-22T19:29:48.973772+00:00"
+    "created_at": "2026-05-22T19:29:48.973772+00:00",
+    "latest_deals": [
+      "BlueCore Energy",
+      "AccessGrid",
+      "Lava",
+      "TestParty"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "79d1f039-bc6c-4afa-92ad-c85a9f2b7055",
@@ -86146,13 +86382,23 @@
       "Sadapay",
       "Airlift",
       "Retailo",
-      "Oraan"
+      "Oraan",
+      "Shadiyana",
+      "Farmdar",
+      "Uplift AI",
+      "Bazaar"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/3b337316430c32dea16001fa510a445a029e0ea4-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/indus-valley-capital",
-    "created_at": "2026-05-22T19:29:48.973772+00:00"
+    "created_at": "2026-05-22T19:29:48.973772+00:00",
+    "latest_deals": [
+      "Shadiyana",
+      "Farmdar",
+      "Uplift AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "444cf9e6-e16f-45ac-8f82-66278327c76c",
@@ -87343,13 +87589,28 @@
       "Blue Tokai",
       "MyGlamm",
       "Shiprocket",
-      "Rage Coffee"
+      "Rage Coffee",
+      "Pinch AI",
+      "Code Four",
+      "RevisionDojo",
+      "Final Round AI",
+      "NexHealth",
+      "Mented Cosmetics",
+      "Welkin Health",
+      "Moesif"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/8f1df1f713dd51456c4238ae8c45782a7abfdbbe-516x512.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/iseed",
-    "created_at": "2026-05-22T19:29:50.25933+00:00"
+    "created_at": "2026-05-22T19:29:50.25933+00:00",
+    "latest_deals": [
+      "Pinch AI",
+      "Code Four",
+      "RevisionDojo",
+      "Final Round AI"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "01eddeba-0a90-4161-b72e-1236b5febf9d",
@@ -89441,38 +89702,6 @@
     "created_at": "2026-05-22T19:39:57.030902+00:00"
   },
   {
-    "id": "7e0f86ce-4c85-4067-a0df-b2a6efcc9177",
-    "name": "Valkyrie",
-    "slug": "valkyrie",
-    "description": "At Valkyrie, our mission is rooted in a commitment to safeguarding our clients with the highest standards of security and discretion. Our team of investigators and security experts all have experience working in and alongside professional services firms, the military, law enforcement, insurance and the government. Their combined experience in high-stakes environments sets industry standards in both cyber and physical security. We understand that every client has unique needs, and we tailor our s",
-    "thesis": "At Valkyrie, our mission is rooted in a commitment to safeguarding our clients with the highest standards of security and discretion. Our team of investigators and security experts all have experience working in and alongside professional services firms, the military, law enforcement, insurance and the government. Their combined experience in high-stakes environments sets industry standards in both cyber and physical security. We understand that every client has unique needs, and we tailor our s",
-    "investment_thesis": null,
-    "overview": null,
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "8.0",
-    "aum": "$45M",
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": 2025,
-    "headquarters": "Bay Area",
-    "country": "United States",
-    "sector_focus": [],
-    "stage_focus": [],
-    "website": "https://valkyrie.co.uk/",
-    "notable_portfolio": [
-      "LATEST NEWS:",
-      "your-name",
-      "your-email",
-      "your-consent"
-    ],
-    "logo_url": "https://www.google.com/s2/favicons?domain=valkyrie.co.uk&sz=64",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-05-22T19:39:57.030902+00:00"
-  },
-  {
     "id": "8214859c-04b4-490b-abec-f8742305946b",
     "name": "Coral Capital",
     "slug": "coral-capital",
@@ -90067,13 +90296,27 @@
       "Cleo",
       "Built.io",
       "Cutover",
-      "Elliptic"
+      "Elliptic",
+      "Jack & Jill",
+      "StackOne",
+      "Mantic",
+      "Zelt",
+      "Zoopla",
+      "Carwow",
+      "CloudNC"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/4bc6f00b34b691473a4baa9528c7c42b78d01e62-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/episode-1",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Jack & Jill",
+      "StackOne",
+      "Mantic",
+      "Zelt"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "9fe1a1db-909c-4667-a0f9-4ecb6cbe0a98",
