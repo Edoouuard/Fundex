@@ -58570,46 +58570,6 @@
     "deals_last_checked": "2026-09-07"
   },
   {
-    "id": "ff8fe359-d44d-4370-90e9-9b775fa250d6",
-    "name": "Stride VC",
-    "slug": "stride-vc",
-    "description": "A London-based seed-stage venture capital firm investing in European technology startups. Spun out of LocalGlobe to focus exclusively on pre-seed and seed rounds.",
-    "thesis": "Focuses exclusively on pre-seed and seed investments in European technology startups across SaaS, consumer, and fintech sectors.",
-    "investment_thesis": "SaaS, fintech, consumer, marketplaces.",
-    "overview": "Stride VC was spun out of LocalGlobe in 2020 to create a dedicated early-stage investment vehicle focused on European technology startups. The firm was established to provide specialized attention to pre-seed and seed opportunities that required different expertise and resources than later-stage investments. Led by experienced European venture investors, Stride operates with a thesis centered on identifying promising founders and technologies at their earliest stages across SaaS, consumer technology, and fintech verticals. The spin-out structure allows Stride to move quickly on early-stage deals while maintaining the institutional backing and network effects of the broader LocalGlobe ecosystem. What distinguishes Stride is its European-first approach and deep local market knowledge, combined with a focus on helping founders navigate the critical early stages of company building through hands-on operational support and strategic guidance.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "5-15",
-    "aum": "$50M",
-    "check_size_min": "$625K",
-    "check_size_max": "$4M",
-    "founded_year": 2020,
-    "headquarters": "London, UK",
-    "country": "United Kingdom",
-    "sector_focus": [
-      "SaaS",
-      "Consumer",
-      "Fintech",
-      "Marketplace"
-    ],
-    "stage_focus": [
-      "Pre-Seed",
-      "Seed"
-    ],
-    "website": "https://stride.vc",
-    "notable_portfolio": [
-      "Plural",
-      "Zelt",
-      "Fleet",
-      "Aura"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a685a1251b3575ae8ac7abe417427d1170847fe1-751x751.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/stride-vc",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
-  },
-  {
     "id": "9984b1f0-c151-4943-b8df-7165bced48bd",
     "name": "Exceptional Ventures",
     "slug": "exceptional-ventures",
@@ -58850,44 +58810,6 @@
     "deals_last_checked": "2026-10-03"
   },
   {
-    "id": "aa75f6b6-2c8f-483a-a509-e8ea57c622f8",
-    "name": "Tech Crossover Ventures",
-    "slug": "tech-crossover-ventures",
-    "description": "Columbus-based venture capital firm focused on early-stage technology companies in the Midwest. Specializes in B2B software and marketplace businesses.",
-    "thesis": "Investing in technology companies that leverage the Midwest's cost advantages while building scalable, global businesses.",
-    "investment_thesis": "Tech Crossover Ventures targets B2B software and marketplace companies that can achieve product-market fit in underserved Midwest markets before expanding nationally. The firm prioritizes businesses with strong unit economics, recurring revenue models, and the ability to leverage regional advantages including lower customer acquisition costs and reduced operational expenses. Investment decisions focus heavily on management teams with deep domain expertise in their target markets, particularly those addressing pain points in traditional industries like manufacturing, agriculture, and logistics. The firm seeks companies that can reach $1-5 million in annual recurring revenue with minimal capital requirements, positioning them for attractive Series A rounds from larger institutional investors.",
-    "overview": "Tech Crossover Ventures operates as a regional venture capital firm targeting the often-overlooked Midwest technology ecosystem from its Columbus base. With $50 million in assets under management, the firm positions itself as a bridge between coastal capital and heartland innovation, focusing specifically on B2B software and marketplace businesses that can leverage the region's operational advantages and talent base. The firm's investment strategy centers on seed and Series A opportunities, typically writing initial checks ranging from $500,000 to $2 million. Since its 2016 founding, Tech Crossover Ventures has built its reputation on identifying enterprise software companies that can achieve capital-efficient growth while benefiting from lower operational costs and less competitive hiring markets in the Midwest. The firm's portfolio approach emphasizes SaaS businesses with strong unit economics and marketplace platforms that can scale across multiple geographic markets. Unlike larger coastal funds, Tech Crossover Ventures leverages its regional expertise to provide portfolio companies with deep networks of potential customers, partners, and follow-on investors specifically within the Midwest corridor. The firm's relatively modest fund size allows for concentrated bets on companies that might be too small for larger institutional investors but have significant growth potential. Tech Crossover Ventures typically leads or co-leads rounds, taking board seats and working closely with management teams on go-to-market strategy, product development, and subsequent fundraising efforts. The firm's investment committee focuses heavily on recurring revenue models, customer retention metrics, and the potential for geographic expansion beyond initial Midwest markets. Portfolio companies benefit from the firm's connections to enterprise customers across manufacturing, logistics, and financial services sectors that represent core strengths of the regional economy.",
-    "fund_history_text": "Since launching in 2016, Tech Crossover Ventures has operated from a single $50 million fund focused on seed and Series A investments across the Midwest. The firm's strategy has remained consistent throughout its investment period, maintaining its focus on B2B software and marketplace opportunities while building a concentrated portfolio of regional technology companies.",
-    "team_highlights": "Tech Crossover Ventures maintains a lean investment team focused on the firm's core sectors and geographic mandate. The partnership brings together operators with experience building technology companies in the Midwest, combined with investment professionals who understand the unique dynamics of regional venture capital markets. The team's background spans enterprise software development, marketplace operations, and business development roles at both startups and established technology companies. This operational experience proves particularly valuable when working with portfolio companies on product-market fit, customer development, and scaling challenges specific to serving enterprise customers in traditional industries.",
-    "team_size": null,
-    "aum": "$50M",
-    "check_size_min": "$500K",
-    "check_size_max": "$3M",
-    "founded_year": 2016,
-    "headquarters": "Columbus, OH",
-    "country": "United States",
-    "sector_focus": [
-      "SaaS",
-      "Enterprise",
-      "Marketplace"
-    ],
-    "stage_focus": [
-      "Seed",
-      "Series A"
-    ],
-    "website": "https://www.techcrossover.com",
-    "notable_portfolio": [
-      "Vet-AI",
-      "Updox",
-      "CoverMyMeds"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/56692178cd4f6a08d14642123fd52651f0e8a53e-48x48.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/tech-crossover-ventures",
-    "created_at": "2026-05-22T19:29:49.859043+00:00"
-  },
-  {
     "id": "5e4d2baa-5c60-422b-9ebf-f1945e63302d",
     "name": "Playground Global",
     "slug": "playground-ventures",
@@ -59122,7 +59044,10 @@
       "Zillow",
       "ICEYE",
       "Corgi",
-      "Facebook"
+      "Facebook",
+      "Vet-AI",
+      "Updox",
+      "CoverMyMeds"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/7c7f8e8a9fa363475a347e5985d7045fb8a53fa8-1920x960.jpg",
     "featured": false,
@@ -63422,7 +63347,11 @@
       "Deliveroo",
       "Freetrade",
       "Cleo",
-      "Paddle"
+      "Paddle",
+      "Plural",
+      "Zelt",
+      "Fleet",
+      "Aura"
     ],
     "logo_url": null,
     "featured": false,
