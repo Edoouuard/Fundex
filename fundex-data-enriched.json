@@ -17285,57 +17285,6 @@
     "created_at": "2026-07-08T22:33:40.812039+00:00"
   },
   {
-    "id": "d5457d74-a7d4-4199-9954-2bbb7a41f6de",
-    "name": "The Engine",
-    "slug": "the-engine",
-    "description": "MIT-linked venture firm investing in tough tech companies solving the world's biggest problems across energy, health, and computing.",
-    "thesis": "Patient capital for breakthrough scientific and engineering innovations.",
-    "investment_thesis": null,
-    "overview": "The Engine was launched by MIT to address the funding gap for science and engineering-based startups that require longer development timelines than traditional venture capital typically supports. Founded by Katie Rae and backed by MIT's endowment, The Engine focuses on 'Tough Tech' companies working on breakthrough innovations in areas like advanced manufacturing, biotechnology, robotics, and clean energy. The firm provides not just capital but also access to specialized lab space, equipment, and technical expertise through their Cambridge headquarters facility. Their model recognizes that transformative technologies often require 7-10 years of development and significant capital investment before reaching commercial viability. The Engine's portfolio companies typically emerge from leading research institutions and are working on solutions to problems in climate change, healthcare, and computing infrastructure. The firm's patient capital approach and deep technical support system make them uniquely positioned to support founders commercializing complex scientific breakthroughs.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": "25-50",
-    "aum": "$500M+",
-    "check_size_min": "$500K",
-    "check_size_max": "$10M",
-    "founded_year": 2016,
-    "headquarters": "Cambridge, MA",
-    "country": "United States",
-    "sector_focus": [
-      "Deeptech",
-      "Climate",
-      "Biotech",
-      "Robotics"
-    ],
-    "stage_focus": [
-      "Seed",
-      "Series A"
-    ],
-    "website": "https://www.engine.xyz",
-    "notable_portfolio": [
-      "Commonwealth Fusion Systems",
-      "Isomorphic Labs",
-      "Baseload Renewables",
-      "DG Matrix",
-      "Terragia Biofuel",
-      "Sublime Systems",
-      "Form Energy",
-      "Celestial AI",
-      "VEIR"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/018a691b5f271bed82a3cb5f79a10c8a37b13c71-180x180.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/the-engine",
-    "created_at": "2026-05-22T19:29:49.859043+00:00",
-    "latest_deals": [
-      "DG Matrix",
-      "Terragia Biofuel",
-      "Sublime Systems"
-    ],
-    "deals_last_checked": "2026-10-03"
-  },
-  {
     "id": "e24fb92b-ccb2-4e19-9317-504e100c6c6e",
     "name": "Chingona Ventures",
     "slug": "chingona-ventures",
@@ -83319,13 +83268,22 @@
       "The Routing Company",
       "Terrestrial Bio",
       "VEIR",
-      "WoHo"
+      "WoHo",
+      "Isomorphic Labs",
+      "Baseload Renewables",
+      "Terragia Biofuel"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/018a691b5f271bed82a3cb5f79a10c8a37b13c71-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/engine-ventures",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "DG Matrix",
+      "Terragia Biofuel",
+      "Sublime Systems"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "653fd9fa-375e-4d86-9669-092277181589",
