@@ -6163,13 +6163,40 @@
       "PartsSource",
       "Meet some of our featured",
       "Go to Home Page",
-      "youtube"
+      "youtube",
+      "Iris (bridge to Series A, led by Cultivation Capital) - FLF Fund 3, 2025",
+      "Rebel - FLF Fund 3, 2025",
+      "Curated For You - FLF Fund 3, deal dated Sep 2025",
+      "Rapidfort ($45M Series A led by Forge Point and Blue Cloud; Florida Funders participated) - FLF Fund 3, 2025",
+      "Liminal - FLF Fund 3, 2025",
+      "Archive (AI/creator discovery) - FLF Fund 3, 2025",
+      "Follow-on into Flex ($60M Series B led by Portage Ventures) - 2025, existing portfolio company",
+      "Flex (fintech) - now considered the firm's likely first unicorn after a $60M Series B",
+      "Betr (sports micro-betting) - $35M Series A, 2023",
+      "Cast.ai",
+      "Togal AI",
+      "WiTricity",
+      "Stoke Space",
+      "HealthSnap",
+      "Chattr - acquired by a large HCM platform, ~2x return for Fund 2",
+      "Rewst - secondary sale of 50% of position",
+      "RepScrubs (Fund 1) - acquired, 11.84x gross MOIC"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/84ccf7ec94318b88560cf39d39113077856a89bb-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/florida-funders",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [
+      "Iris (bridge to Series A, led by Cultivation Capital) - FLF Fund 3, 2025",
+      "Rebel - FLF Fund 3, 2025",
+      "Curated For You - FLF Fund 3, deal dated Sep 2025",
+      "Rapidfort ($45M Series A led by Forge Point and Blue Cloud; Florida Funders participated) - FLF Fund 3, 2025",
+      "Liminal - FLF Fund 3, 2025",
+      "Archive (AI/creator discovery) - FLF Fund 3, 2025",
+      "Follow-on into Flex ($60M Series B led by Portage Ventures) - 2025, existing portfolio company"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "fd09b40a-8c7b-4b5d-bcd4-3d69f7250e87",
@@ -6241,7 +6268,7 @@
     "check_size_min": null,
     "check_size_max": null,
     "founded_year": null,
-    "headquarters": "San Francisco, CA",
+    "headquarters": "Chicago, IL",
     "country": "United States",
     "sector_focus": [
       "Aerospace & Defense",
@@ -6262,44 +6289,23 @@
       "Cobalt Robotics",
       "Skyryse",
       "Luis Vera - CEO",
-      "Skyryse - Autonomous Aerial Transportation, LA"
+      "Skyryse - Autonomous Aerial Transportation, LA",
+      "Accordance (AI platform for tax/accounting, San Francisco) - Dec 23, 2025",
+      "Artisight (healthcare technology) - Dec 1, 2025",
+      "Skyryse (autonomous aerial systems) - participated in Feb 3, 2026 later-stage round",
+      "Skyryse - portfolio company that crossed a $1B valuation after a $300M Series C (led by others, not Gen 1) in early 2026"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/3141798d29e2202bf797c5c5af4a9b8276762f5f-390x390.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/gen-1-capital",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
-  },
-  {
-    "id": "0b527fd0-2f56-4ee3-8771-f863d5b7e54a",
-    "name": "Start-Up Chile",
-    "slug": "start-up-chile",
-    "description": null,
-    "thesis": "Start-Up is a public startup accelerator created by the Chilean Government for global entrepreneurs to bootstrap their startups.",
-    "investment_thesis": "Start-Up is a public startup accelerator created by the Chilean Government for global entrepreneurs to bootstrap their startups.",
-    "overview": "Start-Up is a public startup accelerator created by the Chilean Government for global entrepreneurs to bootstrap their startups.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Santiago, Region Metropolitana",
-    "country": "Chile",
-    "sector_focus": [],
-    "stage_focus": [
-      "Pre-Seed",
-      "Seed",
-      "Series A"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [
+      "Accordance (AI platform for tax/accounting, San Francisco) - Dec 23, 2025",
+      "Artisight (healthcare technology) - Dec 1, 2025",
+      "Skyryse (autonomous aerial systems) - participated in Feb 3, 2026 later-stage round"
     ],
-    "website": "https://startup.chile",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "c7d86caf-c276-432e-8278-3d36d5961bbf",
@@ -6439,12 +6445,26 @@
       "Series B+"
     ],
     "website": "https://alix.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "iOrganBio (organoid technology) - October 2025",
+      "Strand Therapeutics - August 7, 2025",
+      "Zafrens - February 4, 2025",
+      "Xilis",
+      "Plexium",
+      "Endpoint Health",
+      "Elegen"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/95028aebe022583fe920d261c9d045e69bffd65b-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alix-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "iOrganBio (organoid technology) - October 2025",
+      "Strand Therapeutics - August 7, 2025",
+      "Zafrens - February 4, 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "bfe443d8-edd0-404a-9921-addf92cd9a6c",
@@ -6583,17 +6603,37 @@
       "Series B+"
     ],
     "website": "https://allincapital.vc",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "13 new investments made in 2025 across Indian pre-seed/seed startups",
+      "NewMe",
+      "SuperNova",
+      "Pier Sight",
+      "MeetRecord",
+      "Hectar Global",
+      "Magma",
+      "Salty",
+      "Reint",
+      "Karban",
+      "Volt Money",
+      "Taakat",
+      "MedMitra",
+      "Spill Games",
+      "Mixar"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/6c3b7ec9cc368909c30a91daf23f760537dd5acb-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/all-in-capital",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "13 new investments made in 2025 across Indian pre-seed/seed startups"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "425ca6d5-4bc3-4d4f-9f45-361a5b25255a",
-    "name": "Allen Institute for AI (AI2) Incubator",
-    "slug": "allen-institute-for-ai-ai2-incubator",
+    "name": "AI House",
+    "slug": "ai-house",
     "description": "Learn which startups Allen Institute for AI (AI2) Incubator invests in, what size check sizes they write, and who their partners are (e.g. Jacob Colker).",
     "thesis": "Incubates startups that leverage artificial intelligence research to solve real-world problems across various industries.",
     "investment_thesis": null,
@@ -6620,18 +6660,35 @@
       "Series A",
       "Series B+"
     ],
-    "website": "https://www.ai2incubator.com/",
+    "website": "https://aihouse.vc",
     "notable_portfolio": [
       "Xnor.ai",
       "Prior",
       "OctoML",
-      "Lexion"
+      "Lexion",
+      "Hearvana - 2025",
+      "Casium - 2025",
+      "Synthesize Bio - 2025",
+      "Ethosphere - 2025",
+      "Xnor.ai - acquired by Apple for ~$200M",
+      "Kitt.ai - acquired by Baidu",
+      "Lexion - acquired by Docusign for $165M",
+      "Yoodli",
+      "Ozette",
+      "Roboto"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/0ef3d0dd8a078c87b1a92ef3497b27d979b65d3e-400x400.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/allen-institute-for-ai-ai2-incubator",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Hearvana - 2025",
+      "Casium - 2025",
+      "Synthesize Bio - 2025",
+      "Ethosphere - 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "2b1062ce-474d-40da-b18b-485e088f0a4d",
@@ -6677,13 +6734,28 @@
       "Irrigreen",
       "ShowerStream",
       "Waterplan",
-      "INVESTORS / ACCELERATORS Innova Memphis BREW"
+      "INVESTORS / ACCELERATORS Innova Memphis BREW",
+      "Verdi",
+      "PAGE Technologies",
+      "Shower Stream",
+      "Follow-on investments in Active Membranes, CREW Carbon, and Uravu Labs",
+      "Uravu Labs (atmospheric water harvesting) - repeat/notable investment",
+      "Active Membranes - repeat investment, ~$2.3M round",
+      "Epic Cleantec - Series B, $12M investment"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/cafad7e7ac14e04a01d5d8453a5ff05bae5c9a97-100x100.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/echo-river-capital",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Solidec",
+      "Verdi",
+      "PAGE Technologies",
+      "Shower Stream",
+      "Follow-on investments in Active Membranes, CREW Carbon, and Uravu Labs"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "5aa7678b-3436-4b03-889e-f64801a0f9c7",
@@ -6700,7 +6772,7 @@
     "check_size_min": "$10K",
     "check_size_max": "$200K",
     "founded_year": null,
-    "headquarters": "New York, NY",
+    "headquarters": "San Francisco, CA",
     "country": "United States",
     "sector_focus": [
       "Fintech"
@@ -6712,12 +6784,18 @@
       "Series B+"
     ],
     "website": "https://www.alloyfund.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Serene Sleep",
+      "Omneky",
+      "Polimorphic"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/0fca9e407d5a268a13f6fb9e584489c639e5b8e5-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alloy-fund",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f6d4d364-0dd9-45e0-90b2-c81728f54308",
@@ -6756,13 +6834,30 @@
       "Business Insider",
       "Zola",
       "Paperless Post",
-      "10gen"
+      "10gen",
+      "ShopMy",
+      "Thyme Care",
+      "Radical AI",
+      "Rogo",
+      "20 new first-time investments in 2025, totaling $125M+ deployed",
+      "DoubleClick",
+      "Gilt Groupe",
+      "Spring Health",
+      "Transcend Therapeutics"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/13ac275fbde1ec1ae3b5be262ce991452fa8eec9-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alleycorp",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "ShopMy",
+      "Thyme Care",
+      "Radical AI",
+      "Rogo",
+      "20 new first-time investments in 2025, totaling $125M+ deployed"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "80908339-fb14-4ec4-b62b-aab1db171711",
@@ -6800,55 +6895,32 @@
       "Impinj",
       "Auth0",
       "Remitly",
-      "Avalara"
+      "Avalara",
+      "3DBioFibR",
+      "CorRen Medical",
+      "Evitado Technologies",
+      "COUNT/New Castle",
+      "Hest",
+      "DocuSign",
+      "Leanplum",
+      "Impel Pharmaceuticals",
+      "Elemental Technologies",
+      "OfferUp",
+      "Brex"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/c91976812b2020a26d47b8b23580852a977260cf-180x180.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alliance-of-angels",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
-  },
-  {
-    "id": "45f50baa-472b-4a73-8ee8-d3ab59ef019c",
-    "name": "Cleantech Open",
-    "slug": "cleantech-open",
-    "description": null,
-    "thesis": "The Cleantech Open is a non-profit organization that runs an accelerator for cleantech startups.",
-    "investment_thesis": "The Cleantech Open is a non-profit organization that runs an accelerator for cleantech startups.",
-    "overview": "The Cleantech Open is a non-profit organization that runs an accelerator for cleantech startups.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Palo Alto, CA",
-    "country": "United States",
-    "sector_focus": [],
-    "stage_focus": [
-      "Seed",
-      "Series A"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "3DBioFibR",
+      "CorRen Medical",
+      "Evitado Technologies",
+      "COUNT/New Castle",
+      "Hest"
     ],
-    "website": "https://cleantechopen.org",
-    "notable_portfolio": [
-      "Chevron",
-      "Browser is not supporting - image",
-      "Applications closed",
-      "Technology Startups",
-      "Entrepreneurs Trained",
-      "$3B+",
-      "Total Dollars Raised",
-      "business accelerator",
-      "innovation ecosystem",
-      "National Sponsors",
-      "Internet Explorer is no longer supported"
-    ],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "4be2aa27-f8b2-463d-8434-3c17813e4d29",
@@ -6886,13 +6958,27 @@
       "Leave us a note",
       "FIAT GROWTH",
       "All News",
-      "Go to Fiat Growth"
+      "Go to Fiat Growth",
+      "Brellium",
+      "Frontlands",
+      "Odynn",
+      "Splitero",
+      "Copper",
+      "StellarFi",
+      "Breeze",
+      "Sigo Seguros"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d8dc773943fa28cdf91594cb09747d5143c38fa6-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/fiat-ventures",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [
+      "Brellium",
+      "Frontlands",
+      "Odynn"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "888c001a-674e-4ed5-bd91-5f5babefdc72",
@@ -6966,13 +7052,23 @@
       "Seed",
       "Series A"
     ],
-    "website": "https://pioneer.capital",
-    "notable_portfolio": [],
+    "website": "https://pioneerfund.vc",
+    "notable_portfolio": [
+      "MochaTrade — pre-seed round (YC Spring 2026 batch), alongside Y Combinator, announced ~late 2025",
+      "Pioneer Fund syndicate continued participating in ~20 Y Combinator companies per batch through 2025",
+      "Brex (unicorn fintech/corporate card company) — confirmed early backer",
+      "Broad YC-alumni syndicate has backed 500+ YC companies since 2017 (113-115+ reported exits), though individual marquee names beyond Brex could not be independently verified in press coverage"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "MochaTrade — pre-seed round (YC Spring 2026 batch), alongside Y Combinator, announced ~late 2025",
+      "Pioneer Fund syndicate continued participating in ~20 Y Combinator companies per batch through 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "9df52aed-b82a-4a67-b86b-df6c92292844",
@@ -7044,7 +7140,7 @@
     "check_size_min": "$1M",
     "check_size_max": "$10M",
     "founded_year": null,
-    "headquarters": "San Francisco, CA",
+    "headquarters": "Los Angeles, CA",
     "country": "United States",
     "sector_focus": [
       "Aerospace & Defense",
@@ -7061,13 +7157,31 @@
     ],
     "website": "http://www.alphaedison.com/",
     "notable_portfolio": [
-      "Full Company Portfolio"
+      "Full Company Portfolio",
+      "Honor Education — $38M Series A",
+      "AutoIVF — investment (May 8, 2025), biotech",
+      "Supergut — investment (Feb 14, 2025), food products",
+      "Turbine — investment (April 4, 2025), specialized finance",
+      "Ownwell — participated in $50M Series B",
+      "Bird",
+      "BuildOps",
+      "Alto",
+      "Aspiration",
+      "Comparably"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/70d1e686718098cef7b9856b75865914d111bfab-262x262.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alpha-edison",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Honor Education — $38M Series A",
+      "AutoIVF — investment (May 8, 2025), biotech",
+      "Supergut — investment (Feb 14, 2025), food products",
+      "Turbine — investment (April 4, 2025), specialized finance",
+      "Ownwell — participated in $50M Series B"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "22b9e89a-0146-45c4-9464-269ac18107b3",
@@ -7083,8 +7197,8 @@
     "aum": null,
     "check_size_min": "$500K",
     "check_size_max": "$5M",
-    "founded_year": 2017,
-    "headquarters": "San Francisco, CA",
+    "founded_year": 2014,
+    "headquarters": "New York, NY",
     "country": "United States",
     "sector_focus": [
       "Fintech",
@@ -7130,13 +7244,31 @@
       "Imperfect Foods",
       "Applied Atomics",
       "Intramotev",
-      "Lex"
+      "Lex",
+      "Transfix",
+      "Hayden AI",
+      "FourKites",
+      "R2 Wireless",
+      "Amplio Technologies — $11.1M Series A (Sept 24, 2025), co-investors Construct Capital, High Alpha, Hitachi Ventures, Slow Ventures, Yamaha Motor Ventures",
+      "Trially — $4.77M Seed",
+      "A $65.5M Seed round on Aug 20, 2025 — flagged as uncertain: one aggregator (Tracxn) names the company 'Bonus Homes', another lists 'Lorikeet' for the same amount/date, so the company name could not be confidently verified; excluded from confident claims",
+      "Brilliant Harvest — $4.0M Seed",
+      "Compass (real estate tech) — IPO on NYSE, reached ~$6.96B market cap",
+      "Latch (smart locks) — listed on NASDAQ via SPAC (2021), ~$166M market cap at listing",
+      "Transfix, Imperfect Foods, Bowery Valuation"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/c79c313a87a98dc44b4311cf93bdd1d6cc15609d-400x400.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alpaca-vc",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Amplio Technologies — $11.1M Series A (Sept 24, 2025), co-investors Construct Capital, High Alpha, Hitachi Ventures, Slow Ventures, Yamaha Motor Ventures",
+      "Trially — $4.77M Seed",
+      "A $65.5M Seed round on Aug 20, 2025 — flagged as uncertain: one aggregator (Tracxn) names the company 'Bonus Homes', another lists 'Lorikeet' for the same amount/date, so the company name could not be confidently verified; excluded from confident claims",
+      "Brilliant Harvest — $4.0M Seed"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0e80de3d-c333-4392-8ef1-70cec4d97669",
@@ -7153,7 +7285,7 @@
     "check_size_min": null,
     "check_size_max": null,
     "founded_year": 2018,
-    "headquarters": "Hong Kong, China",
+    "headquarters": "Luxembourg",
     "country": "Hong Kong",
     "sector_focus": [
       "Aerospace & Defense",
@@ -7169,12 +7301,32 @@
       "Series B+"
     ],
     "website": "http://aicapital.ai/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Exostellar — investment",
+      "Proscia — investment",
+      "SixSense — investment",
+      "Hiverge — Fund II investment",
+      "Cynch AI — investment",
+      "InstaDeep — notable AI portfolio company, acquired by BioNTech",
+      "Aidoc",
+      "Proscia",
+      "Lark Health",
+      "Vamstar",
+      "Our Next Energy (ONE) — battery technology"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/f5a9664650e4d708b7f899396a2cc3fc7bc14995-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alpha-intelligence-capital",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Exostellar — investment",
+      "Proscia — investment",
+      "SixSense — investment",
+      "Hiverge — Fund II investment",
+      "Cynch AI — investment"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "742bf96e-b802-41a8-b0f2-47196f35b021",
@@ -7289,17 +7441,27 @@
       "Series B"
     ],
     "website": "https://alpine.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Cashea — Seed round, ~$750K (April 2025), Venezuela-based consumer fintech/BNPL app; confirmed directly via GP Edward Suh's own LinkedIn post",
+      "Stash (consumer fintech/investing app) — company has raised a cumulative $610M across rounds; Alpine/Edward Suh listed as an investor",
+      "OpusClip — $30M Series A",
+      "CodeRabbit — $4M Seed",
+      "VXT — $780K Seed"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/4db2c9944c37c15048515f373995e24f1725ff96-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alpine-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Cashea — Seed round, ~$750K (April 2025), Venezuela-based consumer fintech/BNPL app; confirmed directly via GP Edward Suh's own LinkedIn post"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7ba7b9ae-5b3e-45f9-a084-9c079044333a",
-    "name": "Kraken",
-    "slug": "kraken",
+    "name": "Kraken Ventures",
+    "slug": "kraken-ventures",
     "description": "Learn which startups Kraken invests in, what size check sizes they write, and who their partners are (e.g. ).",
     "thesis": "Cryptocurrency exchange platform, not a traditional VC firm",
     "investment_thesis": null,
@@ -7323,7 +7485,7 @@
       "Pre-Seed",
       "Seed"
     ],
-    "website": "https://www.kraken.com",
+    "website": "https://krakenventures.com",
     "notable_portfolio": [
       "Kraken 360 for protocols",
       "Payward Services",
@@ -7358,18 +7520,25 @@
       "Panel",
       "Sign off",
       "Telegram",
-      "Discord"
+      "Discord",
+      "CoinTracker",
+      "Anchorage Digital",
+      "Blockdaemon",
+      "Alpaca",
+      "Deblock, Kiln, Morpho, Hashflow, LimeWire"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/68f709eb7d8fc41f067a90619d50fae7624a60b9-180x180.webp",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/kraken",
-    "created_at": "2026-05-22T19:29:49.413037+00:00"
+    "created_at": "2026-05-22T19:29:49.413037+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "d4d2e9c2-5adb-415e-beda-18f880889f2b",
-    "name": "Matrix Partners China",
-    "slug": "matrix-partners-china",
+    "name": "MPC",
+    "slug": "mpc",
     "description": null,
     "thesis": "Matrix Partners China builds long-term relationships with entrepreneurs and helps them build significant companies.",
     "investment_thesis": "Matrix Partners China builds long-term relationships with entrepreneurs and helps them build significant companies.",
@@ -7389,12 +7558,31 @@
       "Series A"
     ],
     "website": "https://matrixpartners.com.cn",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "RoboParty",
+      "NewsBanker Digital Union",
+      "Asensing Electronics",
+      "InnoGrit Corporation",
+      "Tiger Robotics",
+      "Lingjing Intelligence Source",
+      "Xpeng",
+      "Li Auto",
+      "Ele.me"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "RoboParty",
+      "NewsBanker Digital Union",
+      "Asensing Electronics",
+      "InnoGrit Corporation",
+      "Tiger Robotics",
+      "Lingjing Intelligence Source"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "a0926a65-6a28-4c2c-9517-2ffac6b9c2cd",
@@ -7428,13 +7616,27 @@
       "Vera",
       "Kenna Security",
       "DataVisor",
-      "Chronicle Security"
+      "Chronicle Security",
+      "Ursa Major — $100M Series E (Sept 30, 2025), led by Eclipse, with Alsop Louie as a participant",
+      "Fresco — Series C (Dec 2025), co-investor",
+      "Nabaco Inc. — Seed round (Feb 2025), co-investor",
+      "Twitch Interactive",
+      "Niantic / Niantic Spatial",
+      "Wickr",
+      "Cleversafe",
+      "Meow Wolf, Aerospike, Crunchy Data, LookingGlass, Phase Four, Device Authority, Motive"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1f8e4cdc36cbf2cec2c19ae07ee9df28208bc48d-512x512.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alsop-louie-partners",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Ursa Major — $100M Series E (Sept 30, 2025), led by Eclipse, with Alsop Louie as a participant",
+      "Fresco — Series C (Dec 2025), co-investor",
+      "Nabaco Inc. — Seed round (Feb 2025), co-investor"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "00865795-4229-47a0-868b-13c81ffaabd6",
@@ -7463,12 +7665,19 @@
       "Series A"
     ],
     "website": "https://altcap.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Portfolio built across Fund I ($150M, closed early 2024) and Fund II ($274–275M, closed Sept 2025): 52+ companies as of 2025/2026 including Rippling, Antares Nuclear, CompLabs, David (AI voice data infra), Retell (AI voice agents), Owner (restaurant growth platform), Fillout (forms platform) — exact round dates/sizes for Alt Capital's own checks not independently confirmed per-deal",
+      "Co-investments/stakes alongside top-tier firms (Sequoia, Y Combinator) in companies including Figma, Rippling, Flexport, Opendoor, Finch, and Durable"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/56fdf1f9a3860b5182e274ab3c19b40026899295-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alt-capital",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Portfolio built across Fund I ($150M, closed early 2024) and Fund II ($274–275M, closed Sept 2025): 52+ companies as of 2025/2026 including Rippling, Antares Nuclear, CompLabs, David (AI voice data infra), Retell (AI voice agents), Owner (restaurant growth platform), Fillout (forms platform) — exact round dates/sizes for Alt Capital's own checks not independently confirmed per-deal"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "848306f6-66d1-4714-b4b3-998344117f63",
@@ -7485,7 +7694,7 @@
     "check_size_min": null,
     "check_size_max": null,
     "founded_year": null,
-    "headquarters": "Singapore, Singapore",
+    "headquarters": "Nairobi, Kenya",
     "country": "Singapore",
     "sector_focus": [
       "Aerospace & Defense",
@@ -7549,13 +7758,22 @@
       "Tugende",
       "Flare",
       "Money254",
-      "Dot Bank"
+      "Dot Bank",
+      "AethexAI",
+      "Jumba and Craydel"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/7d1c7b81670ce7753c648ba7132e48a503e7012d-140x140.svg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/enza-capital",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Gigmile",
+      "AethexAI",
+      "Bluworks",
+      "TurnStay"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1f595f6e-96f1-4e31-bdc5-aa7b82843f56",
@@ -7582,49 +7800,32 @@
       "Growth"
     ],
     "website": "https://hiventures.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Kuube Hungary Kft. (street furniture/smart urban tech) — HUF 600M equity investment",
+      "Chameleon Smart Home — HUF 700M investment",
+      "MEROVA Health (diabetes prevention) — HUF 100M round, HUF 50M from Hiventures",
+      "Péterváry Kft. (smart piano bench) — HUF 125M incubation investment",
+      "New HUF ~17 billion EU-funded early-stage (pre-seed/seed) capital program launched 2025, targeting ~120 Hungarian startups over 4 years, max ~EUR 300K per startup, first disbursements planned May 2025",
+      "Gremon Systems",
+      "HandInScan",
+      "Neticle",
+      "Greenstic",
+      "Devobo",
+      "JayStack Technologies"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
-  },
-  {
-    "id": "d931afe8-81d7-4f89-bd19-89d1f28ac00e",
-    "name": "FasterCapital",
-    "slug": "fastercapital",
-    "description": null,
-    "thesis": "FasterCapital is an online startup incubator and accelerator that helps entrepreneurs build and grow their businesses.",
-    "investment_thesis": "FasterCapital is an online startup incubator and accelerator that helps entrepreneurs build and grow their businesses.",
-    "overview": "FasterCapital is an online startup incubator and accelerator that helps entrepreneurs build and grow their businesses.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Dubai, Dubai",
-    "country": "United Arab Emirates",
-    "sector_focus": [
-      "Enterprise",
-      "SaaS"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "Kuube Hungary Kft. (street furniture/smart urban tech) — HUF 600M equity investment",
+      "Chameleon Smart Home — HUF 700M investment",
+      "MEROVA Health (diabetes prevention) — HUF 100M round, HUF 50M from Hiventures",
+      "Péterváry Kft. (smart piano bench) — HUF 125M incubation investment",
+      "New HUF ~17 billion EU-funded early-stage (pre-seed/seed) capital program launched 2025, targeting ~120 Hungarian startups over 4 years, max ~EUR 300K per startup, first disbursements planned May 2025"
     ],
-    "stage_focus": [
-      "Pre-Seed",
-      "Seed",
-      "Series A",
-      "Series B",
-      "Series C",
-      "Growth"
-    ],
-    "website": "https://fastercapital.com",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "49ceadd8-0844-4d02-bae8-fa9dc4683d88",
@@ -7654,13 +7855,42 @@
     "website": "https://sandhillangels.com",
     "notable_portfolio": [
       "Looking for more information?",
-      "Network"
+      "Network",
+      "TrueMeter — $4M Seed, Sept 2025",
+      "RevelAi Health — Seed, April 2025",
+      "Lōvu Health — Series A participation, Sept 2025",
+      "Membrion — Q1 2025",
+      "Vantage Robotics — Q1 2025",
+      "Frontline Wildfire Defense — Q1 2025",
+      "ImmuneBridge — $8.0M Seed, March 2026",
+      "Ampaire — Series B participation, Aug 18 2026",
+      "Carbon Health",
+      "DailyPay",
+      "Collective Health",
+      "Zūm",
+      "Apollo.io",
+      "Greenlight",
+      "Tala",
+      "Petal",
+      "GetLabs",
+      "CirrusMID"
     ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "TrueMeter — $4M Seed, Sept 2025",
+      "RevelAi Health — Seed, April 2025",
+      "Lōvu Health — Series A participation, Sept 2025",
+      "Membrion — Q1 2025",
+      "Vantage Robotics — Q1 2025",
+      "Frontline Wildfire Defense — Q1 2025",
+      "ImmuneBridge — $8.0M Seed, March 2026",
+      "Ampaire — Series B participation, Aug 18 2026"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "856079ba-cb9c-4164-b54a-82a7b71f4eca",
@@ -7686,12 +7916,26 @@
       "Series A"
     ],
     "website": "https://skydeck.berkeley.edu",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Zell — Seed, April 13 2026",
+      "14 investments recorded in 2025 via the SkyDeck Fund",
+      "4 investments recorded as of April 2026",
+      "Xendit",
+      "Webflow",
+      "Lime",
+      "Kiwibot/Kiwi"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "Zell — Seed, April 13 2026",
+      "14 investments recorded in 2025 via the SkyDeck Fund",
+      "4 investments recorded as of April 2026"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "4910f398-75f2-4d37-bf5e-e1842c675bbe",
@@ -7738,73 +7982,6 @@
       "Anthropic"
     ],
     "deals_last_checked": "2026-09-05"
-  },
-  {
-    "id": "b11a572d-b078-42cf-a7b8-8f75299bf83b",
-    "name": "Maine Technology Institute",
-    "slug": "maine-technology-institute",
-    "description": null,
-    "thesis": "Maine Technology Institute invests in promising technologies by funding research and development projects in the state's seven.",
-    "investment_thesis": "Maine Technology Institute invests in promising technologies by funding research and development projects in the state's seven.",
-    "overview": "Maine Technology Institute invests in promising technologies by funding research and development projects in the state's seven.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Brunswick, ME",
-    "country": "United States",
-    "sector_focus": [
-      "EdTech",
-      "Enterprise"
-    ],
-    "stage_focus": [
-      "Pre-Seed",
-      "Seed",
-      "Series A"
-    ],
-    "website": "https://mtecinc.org",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
-  },
-  {
-    "id": "61f9001f-6e29-4587-9e28-6ad78e7038d9",
-    "name": "Keiretsu Forum",
-    "slug": "keiretsu-forum",
-    "description": null,
-    "thesis": "Keiretsu Forum is a California-based angel group that offers early, seed, and later stage venture, and debt financing investments.",
-    "investment_thesis": "Keiretsu Forum is a California-based angel group that offers early, seed, and later stage venture, and debt financing investments.",
-    "overview": "Keiretsu Forum is a California-based angel group that offers early, seed, and later stage venture, and debt financing investments.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Orinda, CA",
-    "country": "United States",
-    "sector_focus": [],
-    "stage_focus": [
-      "Pre-Seed",
-      "Seed",
-      "Series A",
-      "Series B",
-      "Series C"
-    ],
-    "website": "https://keiretsuforum.com",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
   },
   {
     "id": "4feeaf42-33d9-45c3-928b-28f1f61533ed",
@@ -8086,13 +8263,25 @@
       "stigg",
       "whalo",
       "Xpander.ai",
-      "zyg"
+      "zyg",
+      "Guardio — Nov 2025",
+      "Carefam — Oct 2025",
+      "Xpand/Logistics — Aug 2025",
+      "Sequence — May 2025",
+      "Deci AI"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d11378a35bd380946cc5b36623b0540ecb6c5d08-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/emerge-ventures",
-    "created_at": "2026-05-22T19:29:48.091206+00:00"
+    "created_at": "2026-05-22T19:29:48.091206+00:00",
+    "latest_deals": [
+      "Guardio — Nov 2025",
+      "Carefam — Oct 2025",
+      "Xpand/Logistics — Aug 2025",
+      "Sequence — May 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f359ed79-e8c0-498d-b74a-a309c5615752",
@@ -8119,13 +8308,25 @@
       "Series B",
       "Series C"
     ],
-    "website": "https://www.crunchbase.com/organization/lvlup-ventures-db25",
-    "notable_portfolio": [],
+    "website": "https://lvlup.vc",
+    "notable_portfolio": [
+      "MOGL — ongoing growth-stage support noted in 2025",
+      "Versus Game — Series A",
+      "Note: additional 2025-2026 'investments' (e.g., HummingbirdEV, Gameball, Cabreza, SOORT, Wise Bar, Goldenroot, ARI, Agentica, Essar, Genetix) appear only in automated aggregator (Tracxn) listings and could not be independently corroborated via press releases or the fund's own site (lvlup.vc was blocked from direct fetch in this research); treat these as low-confidence/unverified and they are omitted from the confirmed list above pending primary-source confirmation.",
+      "MOGL",
+      "Versus Game"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "MOGL — ongoing growth-stage support noted in 2025",
+      "Versus Game — Series A",
+      "Note: additional 2025-2026 'investments' (e.g., HummingbirdEV, Gameball, Cabreza, SOORT, Wise Bar, Goldenroot, ARI, Agentica, Essar, Genetix) appear only in automated aggregator (Tracxn) listings and could not be independently corroborated via press releases or the fund's own site (lvlup.vc was blocked from direct fetch in this research); treat these as low-confidence/unverified and they are omitted from the confirmed list above pending primary-source confirmation."
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "87ee3a74-3aba-43bc-a463-12be41247889",
@@ -8354,13 +8555,27 @@
       "Space Industrial Base",
       "Industry-insiders",
       "Unbenannter Verlauf 2",
-      "Ebene_2"
+      "Ebene_2",
+      "K2 Space",
+      "Northwood Space",
+      "Reflex Aerospace",
+      "Morpheus Space",
+      "NATO Innovation Fund co-investment announced alongside Alpine Space Ventures",
+      "Blackwave"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/1776af79cb53630cb49873c49ec0cab89d2db7e5-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/alpine-space-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "K2 Space",
+      "Northwood Space",
+      "Reflex Aerospace",
+      "Morpheus Space",
+      "NATO Innovation Fund co-investment announced alongside Alpine Space Ventures"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f31386f8-2ba4-463d-851a-9a5b9da079cd",
@@ -8388,12 +8603,25 @@
       "Series C"
     ],
     "website": "https://smbc-vc.co.jp",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Euphoria",
+      "Participation in ~37-68 new portfolio investments in Japan during 2025 (IT, life sciences, services, manufacturing/tech sectors) per company portfolio stats; individual company names largely not disclosed in press",
+      "Miik, Accelspace Holdings, Futpar — SMBC VC portfolio companies that completed IPOs on Tokyo Stock Exchange Growth market in 2025",
+      "Long-running CVC with 1,100+ cumulative investments and over JPY 80 billion (~$550M) deployed since 2010",
+      "Synctera (US embedded-finance platform) — backed via an SMBC venture fund",
+      "Multiple African fintech investments (e.g., Hakki Africa, $12.7M venture round, Feb 2025) attributed to SMBC/Sumitomo Mitsui group venture investing"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "Euphoria",
+      "Participation in ~37-68 new portfolio investments in Japan during 2025 (IT, life sciences, services, manufacturing/tech sectors) per company portfolio stats; individual company names largely not disclosed in press",
+      "Miik, Accelspace Holdings, Futpar — SMBC VC portfolio companies that completed IPOs on Tokyo Stock Exchange Growth market in 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "18315c2a-510f-4de5-9828-88e81d8f3193",
@@ -8410,7 +8638,7 @@
     "check_size_min": "$100K",
     "check_size_max": "$300K",
     "founded_year": null,
-    "headquarters": null,
+    "headquarters": "New York, NY",
     "country": null,
     "sector_focus": [
       "Aerospace & Defense",
@@ -8475,13 +8703,23 @@
       "Feng Dang",
       "Jake Schonberger",
       "Carissa Clark",
-      "Divya Raghavan"
+      "Divya Raghavan",
+      "Teal Health",
+      "Summersalt",
+      "The Skimm",
+      "Pano AI",
+      "Thousand Fell",
+      "Solstice and Toucan"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a265157075bbcd397cc875735cf789f4e5fc636c-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/amplifyher-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Teal Health"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "640706ff-467e-4409-9f40-48647ca68e1d",
@@ -8514,12 +8752,30 @@
       "Series B+"
     ],
     "website": "https://ananda.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "NatureMetrics",
+      "feld.energy",
+      "Buena",
+      "Jua",
+      "OroraTech",
+      "IESO Digital Health",
+      "Third Space Learning",
+      "Company Bike",
+      "Klim",
+      "Open Bionics"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/bfb8b8a5d477f0af5172a2465eeef01f3e627456-180x180.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ananda-impact-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "NatureMetrics",
+      "feld.energy",
+      "Buena",
+      "Jua"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "8573337a-2d77-4586-9844-46dbb68243d0",
@@ -8625,7 +8881,7 @@
     "check_size_min": "$100K",
     "check_size_max": "$1M",
     "founded_year": null,
-    "headquarters": "Berlin, Germany",
+    "headquarters": "San Francisco, CA",
     "country": "Germany",
     "sector_focus": [
       "Aerospace & Defense",
@@ -8696,13 +8952,16 @@
       "Incus5",
       "KodeKloud",
       "Kodobe",
-      "LeadSigma"
+      "LeadSigma",
+      "ShareTrip"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/3fe549fd9f116a52b443bd8f07e0ef6254b38676-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/aurelia-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0e6d22dc-ec2f-4284-9093-5f3696768b10",
@@ -8837,12 +9096,27 @@
       "Series B+"
     ],
     "website": "https://www.animalcapital.co",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "BuyWander",
+      "Grounded",
+      "Array Labs",
+      "Colossal Biosciences",
+      "WHOOP",
+      "Super Coffee",
+      "Step"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/ff3436b6e6b549856d4ac6f5884840abf72ba467-313x313.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/animal-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "BuyWander",
+      "Grounded",
+      "Array Labs",
+      "Colossal Biosciences"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7eef6e5c-5aef-407d-a079-e94b13a4a8b1",
@@ -70673,52 +70947,6 @@
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/cosmic-venture-partners",
     "created_at": "2026-05-22T19:29:47.667574+00:00"
-  },
-  {
-    "id": "06b15cfd-10f2-4a70-a7ed-a1d0c5df2a10",
-    "name": "Corigin Ventures",
-    "slug": "corigin-ventures",
-    "description": "Early-stage venture capital firm focused on supply chain, logistics, and industrial technology companies. They invest in B2B software and hardware solutions that transform traditional industries.",
-    "thesis": "Investing in technology companies that digitize and optimize industrial operations and supply chains.",
-    "investment_thesis": "Corigin Ventures invests in early-stage companies that apply software and hardware solutions to transform traditional industrial operations, with particular focus on supply chain, logistics, and manufacturing technology. The firm seeks entrepreneurs who combine deep technical capabilities with extensive industry experience, believing that successful disruption of industrial sectors requires intimate understanding of operational complexities and customer needs. Corigin targets companies addressing large, established markets where technology adoption has historically lagged, creating opportunities for significant value creation through digitization and automation. The firm evaluates opportunities based on the size of the addressable market inefficiency, the founding team's domain expertise, and the potential for solutions to become mission-critical within target industries. They emphasize companies with clear paths to recurring revenue models and defensible market positions through proprietary technology or network effects.",
-    "overview": "Corigin Ventures has carved out a specialized niche within Boston's competitive venture capital ecosystem by focusing exclusively on the intersection of technology and industrial operations. The firm distinguishes itself through deep sector expertise in supply chain, logistics, and industrial technology—areas that have historically been underserved by traditional enterprise software investors despite representing massive market opportunities. Since launching in 2014, Corigin has built its reputation by identifying B2B software and hardware solutions that digitize and optimize complex industrial processes, from warehouse management systems to predictive maintenance platforms. The firm's $400 million in assets under management reflects a disciplined approach to early-stage investing, typically writing initial checks at the seed and Series A stages when companies are transitioning from product development to market validation. Corigin's investment strategy centers on backing founders who combine technical expertise with deep domain knowledge of traditional industries, recognizing that successful transformation of these sectors requires more than just technological innovation—it demands understanding of complex operational challenges, regulatory environments, and established buyer behaviors. The firm has demonstrated patience with longer sales cycles typical in B2B industrial markets, while providing portfolio companies with access to its network of industry executives and potential customers. This sector focus has proven prescient as digital transformation accelerated across manufacturing, logistics, and supply chain operations, particularly following supply chain disruptions that highlighted the need for better visibility and automation. Corigin's geographic position in Boston provides strategic advantages, given the city's concentration of industrial technology companies, research institutions, and engineering talent. The firm's approach emphasizes identifying companies that can achieve significant market penetration within specific industrial verticals before expanding horizontally, recognizing that domain expertise often trumps broader market appeal in these specialized sectors.",
-    "fund_history_text": null,
-    "team_highlights": "Corigin Ventures is led by partners with complementary backgrounds spanning venture capital, industrial operations, and technology development. The firm's leadership team brings direct experience from both investing in and operating technology companies focused on industrial markets. Their collective expertise includes backgrounds in supply chain management, manufacturing operations, and B2B software development, providing portfolio companies with practical guidance on navigating complex industrial sales processes and scaling operations. The team's operational experience in traditional industries enables them to identify authentic market opportunities and evaluate the viability of proposed solutions within established industrial workflows.",
-    "team_size": null,
-    "aum": "$400M",
-    "check_size_min": "$1M",
-    "check_size_max": "$10M",
-    "founded_year": 2014,
-    "headquarters": "Boston, MA",
-    "country": "United States",
-    "sector_focus": [
-      "Enterprise",
-      "SaaS",
-      "AI"
-    ],
-    "stage_focus": [
-      "Seed",
-      "Series A"
-    ],
-    "website": "https://corigin.com",
-    "notable_portfolio": [
-      "Transfix",
-      "Hayden AI",
-      "FourKites",
-      "R2 Wireless",
-      "Latch",
-      "LendingClub",
-      "Wheels Up"
-    ],
-    "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/360ad1795560de87a432a5d212e839a656c1def5-200x200.png",
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": "https://vcbeast.com/vc-firms/corigin-ventures",
-    "created_at": "2026-05-22T19:29:47.667574+00:00",
-    "latest_deals": [
-      "R2 Wireless"
-    ],
-    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0840cdd9-d0bb-437e-aa34-e7ad07cec5f9",
