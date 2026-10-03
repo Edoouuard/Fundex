@@ -9155,13 +9155,33 @@
       "2026 Themes",
       "2025 AGM",
       "Standard (investing in...)",
-      "WATCH VIDEO"
+      "WATCH VIDEO",
+      "Arinna - led $4M seed round (space power / solar energy), March 2026",
+      "Soctera - $4M seed funding, co-led with Multiball Capital",
+      "Koobz - seed round, June 18, 2025",
+      "StirlingX - seed round, June 18, 2025",
+      "Heaviside Industries - seed investment (aerospace & defense), reported May 11, 2026",
+      "Oculus VR - early seed investor; acquired by Facebook for $3B",
+      "Anduril Industries - seed investor; now a decacorn",
+      "Flexport - seed investor; unicorn logistics company",
+      "Flock Safety - seed investor; unicorn valued at ~$7.5B",
+      "Mux - seed investor; unicorn video infrastructure company",
+      "Rec Room - seed investor; unicorn gaming platform",
+      "Onebrief - unicorn valued at ~$2.2B"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/58badd43267e491fe0aa53759cb995f946059bee-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/anorak-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Arinna - led $4M seed round (space power / solar energy), March 2026",
+      "Soctera - $4M seed funding, co-led with Multiball Capital",
+      "Koobz - seed round, June 18, 2025",
+      "StirlingX - seed round, June 18, 2025",
+      "Heaviside Industries - seed investment (aerospace & defense), reported May 11, 2026"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b228024c-9bcf-479e-be1c-113e52005056",
@@ -9191,12 +9211,29 @@
       "Series A"
     ],
     "website": "https://www.ansa.co",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Gravity - led $13M Series A (carbon management / energy optimization), January 2025",
+      "Conduktor - participated in $30M Series B alongside RTP, Accel, M12",
+      "Selector - participated in $32.0M 'Other Equity' round, February 2026",
+      "Synthpop - led $15.0M Series A, February 3, 2026",
+      "Defense Unicorns - follow-on/new investment announced May 2026",
+      "Defense Unicorns - co-led $35M Series A financing and joined the board",
+      "Lottie - backed $21M funding round",
+      "SpecterOps - portfolio company"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/d25eb388ce23f9e7b276677f76cfe843e5ab63d1-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ansa-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Gravity - led $13M Series A (carbon management / energy optimization), January 2025",
+      "Conduktor - participated in $30M Series B alongside RTP, Accel, M12",
+      "Selector - participated in $32.0M 'Other Equity' round, February 2026",
+      "Synthpop - led $15.0M Series A, February 3, 2026",
+      "Defense Unicorns - follow-on/new investment announced May 2026"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "44c3e0b6-5656-4eea-9200-dee690cdcb35",
@@ -9227,13 +9264,28 @@
       "For",
       "Startup Stages",
       "For Investors",
-      "Locations"
+      "Locations",
+      "Buntar - investment reported March 19, 2026",
+      "Vivox AI - participated in £1.3M first round, March 2026",
+      "Yaga - investment, October 2025",
+      "Fractory and Ringy - recent portfolio additions",
+      "Bolt (Estonian ride-hailing/mobility unicorn) - early accelerator portfolio company",
+      "Funderbeam - notable exit/portfolio company",
+      "Nymiz - notable exit/portfolio company",
+      "Portfolio companies later acquired by UiPath, Pinterest, and Climate Corporation"
     ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "Buntar - investment reported March 19, 2026",
+      "Vivox AI - participated in £1.3M first round, March 2026",
+      "Yaga - investment, October 2025",
+      "Fractory and Ringy - recent portfolio additions"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "0d42cd80-e505-484d-9f4a-29d00178d56a",
@@ -9342,7 +9394,7 @@
     "check_size_min": null,
     "check_size_max": "$1M",
     "founded_year": null,
-    "headquarters": "New York, NY",
+    "headquarters": "Boston, MA",
     "country": "United States",
     "sector_focus": [
       "Aerospace & Defense",
@@ -9363,7 +9415,9 @@
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/athenian-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "806256ae-0a39-4759-bbdd-5897b366bced",
@@ -9500,12 +9554,31 @@
       "Series B+"
     ],
     "website": "https://www.antifund.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Helion Energy - participated in $465M Series G (fusion energy), June 2026, alongside Thrive Capital, Lux Capital, BoxGroup, Peak XV, etc.",
+      "Orbital - participated in oversubscribed $5M pre-seed (AI data centers in space, LA-based), June 2026, round led by a16z Speedrun",
+      "Enigma - participated in $71M seed round (Israeli AI/robotics, human-robot interaction), July 2026",
+      "Anti Fund closed an oversubscribed $100M growth fund in June 2026, bringing firm AUM to $180M",
+      "OpenAI - portfolio company",
+      "Anduril - portfolio company",
+      "Ramp - portfolio company",
+      "Cognition - portfolio company",
+      "Physical Intelligence - portfolio company",
+      "Flock Safety (via Aerodome) - portfolio company",
+      "Chronosphere - portfolio company"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/fcca1bbf5d25bf06c17b4b6a70817c99d01e3fa4-400x400.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/anti-fund",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Helion Energy - participated in $465M Series G (fusion energy), June 2026, alongside Thrive Capital, Lux Capital, BoxGroup, Peak XV, etc.",
+      "Orbital - participated in oversubscribed $5M pre-seed (AI data centers in space, LA-based), June 2026, round led by a16z Speedrun",
+      "Enigma - participated in $71M seed round (Israeli AI/robotics, human-robot interaction), July 2026",
+      "Anti Fund closed an oversubscribed $100M growth fund in June 2026, bringing firm AUM to $180M"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "7bdcae7d-3457-495c-983c-97480892fdd5",
@@ -9536,7 +9609,9 @@
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "233e7bbc-bbc3-4ac6-89bd-32bfaf2cf86d",
@@ -9569,12 +9644,23 @@
       "Series B+"
     ],
     "website": "http://atlantaseedcompany.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Aetos (Aetos Imaging) - $4M Seed round, Feb 11 2025, co-investors Engage Venture, Flyover Capital, Jefferies, Tandem Ventures, Tech Square Ventures, Valor Ventures",
+      "Opine - $5.0M Seed round, Dec 2025",
+      "Patientco Holdings - acquired by Waystar Holding (Aug 2021); $34.6M total funding raised before acquisition",
+      "Circle Media - acquired by Aura (Dec 2021); $33.5M total funding raised before acquisition",
+      "Snack Prompt - acquired"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/b916657b3bbdb6fb22f8720e1e2e9265e9a002e5-200x200.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/atlanta-seed-company",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Aetos (Aetos Imaging) - $4M Seed round, Feb 11 2025, co-investors Engage Venture, Flyover Capital, Jefferies, Tandem Ventures, Tech Square Ventures, Valor Ventures",
+      "Opine - $5.0M Seed round, Dec 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "c6459f27-5f4a-4ece-b80a-e9dd6a4abbdc",
@@ -9604,12 +9690,35 @@
       "Growth"
     ],
     "website": "http://www.aperturevc.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Ex Nunc Intelligence - Seed round, Dec 7 2025",
+      "Payment Labs - investment, Aug 2025",
+      "GreenLyne - investment, Sept 2025",
+      "Deep Vector - investment, Jan 2025",
+      "Grain",
+      "Cuyana",
+      "Squire",
+      "AptDeco",
+      "Wizest",
+      "Anonybit",
+      "Alaffia Health",
+      "Surround Insurance",
+      "Pryon",
+      "Trustap",
+      "Silex"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/363b031e2bc76f26e691747a51ecaebcccbf5536-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/aperture-venture-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Ex Nunc Intelligence - Seed round, Dec 7 2025",
+      "Payment Labs - investment, Aug 2025",
+      "GreenLyne - investment, Sept 2025",
+      "Deep Vector - investment, Jan 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "205366ec-f127-4345-ad0e-2c060f679108",
@@ -9664,13 +9773,19 @@
       "Wildtype_Foods",
       "zero-acre",
       "FPC-White",
-      "FPC-and-V"
+      "FPC-and-V",
+      "Commonwealth Fusion Systems",
+      "RWDC Industries",
+      "Sound Agriculture - participated in $75M Series D",
+      "Chunk Foods - participated in $15M Seed round"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/aa5aaa96ffff1e1d1eb7641e466f27af9e9ec029-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/footprint-coalition",
-    "created_at": "2026-05-22T19:29:48.526685+00:00"
+    "created_at": "2026-05-22T19:29:48.526685+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f400857a-be39-44b0-b671-62d6de4a2c92",
@@ -9687,7 +9802,7 @@
     "check_size_min": "$250K",
     "check_size_max": "$3M",
     "founded_year": null,
-    "headquarters": "Boston, MA",
+    "headquarters": "Washington, D.C.",
     "country": "United States",
     "sector_focus": [
       "Fintech",
@@ -9700,12 +9815,28 @@
       "Series B+"
     ],
     "website": "https://ardent.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Chronicle Studios - $12.0M Seed round, June 2025",
+      "e:cue - investment backing AI agents for marketing, March 2025",
+      "Givebutter",
+      "Crux",
+      "Verituity",
+      "Method Financial",
+      "Pickleheads",
+      "Moodio",
+      "Fintentional.ai",
+      "Sooth Labs"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/5d23bcb2a8d7f70cccc8b4f953cc5321ce26823b-400x400.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ardent-venture-partners",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Chronicle Studios - $12.0M Seed round, June 2025",
+      "e:cue - investment backing AI agents for marketing, March 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "af8bdc75-3ed2-44d8-9002-933beb3a7447",
@@ -9798,13 +9929,28 @@
       "Terminal",
       "Deel",
       "Zip",
-      "Levels"
+      "Levels",
+      "Archetype III - $100M+ third fund closed Sept 2025, capital already deployed into undisclosed early-stage crypto startups (onchain social, stablecoins, payments, crypto AI, modular protocol stack, DePIN, mobile crypto apps); Tracxn reports 9 investments made by Archetype in 2025 overall",
+      "Farcaster",
+      "Monad",
+      "Privy - acquired by Stripe",
+      "US Bitcoin Corp - merged with Hut 8",
+      "POAP",
+      "Syndicate",
+      "Sound",
+      "Movement Labs",
+      "Ritual",
+      "Relay"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/7d8e3184cf5e0a74493442e8e3fcabe3af0ea4e1-400x400.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/archetype",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Archetype III - $100M+ third fund closed Sept 2025, capital already deployed into undisclosed early-stage crypto startups (onchain social, stablecoins, payments, crypto AI, modular protocol stack, DePIN, mobile crypto apps); Tracxn reports 9 investments made by Archetype in 2025 overall"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "2bdb2924-b911-4ac6-82dd-a799f6217e1d",
@@ -9832,12 +9978,31 @@
       "Series C"
     ],
     "website": "https://shunweicapital.com",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Pratilipi - participated in $20M Series E, April 3 2025",
+      "Energy Z - Series A (~RMB 100M), 2025, led by Qianhai FOF with Shunwei Capital participating",
+      "Zhice Technology (Shanghai) - seed round, 2025",
+      "Xiaomi - IPO 2018 (~$54B); co-founded by Shunwei's own founder Lei Jun",
+      "ByteDance",
+      "Kuaishou",
+      "Shein",
+      "Nio",
+      "iQIYI",
+      "Xpeng Motors",
+      "Zomato - IPO 2021",
+      "Koo"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:37.174154+00:00"
+    "created_at": "2026-07-08T22:33:37.174154+00:00",
+    "latest_deals": [
+      "Pratilipi - participated in $20M Series E, April 3 2025",
+      "Energy Z - Series A (~RMB 100M), 2025, led by Qianhai FOF with Shunwei Capital participating",
+      "Zhice Technology (Shanghai) - seed round, 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "501b5e6c-5e7c-492a-b603-6c292fa98e83",
@@ -9933,13 +10098,26 @@
       "Letsenhance",
       "Check-sizes",
       "Expertise & Support",
-      "SFDR Disclosure"
+      "SFDR Disclosure",
+      "MattoBoard — Seed, $2M (Feb 11, 2025), co-investors BlueField Capital, Home Depot Ventures, Masco, Soundboard Venture Fund",
+      "Ovlo — Seed, ~$500K",
+      "MiLaboratories/MiLaboratory — 2025 round",
+      "Algorized — 2025 round",
+      "EasyDMARC, Binarly, LetsEnhance, Respeaker, StreamSage, StudyFree, Maroo",
+      "Note: multiple aggregator sites (CBInsights/PitchBook-derived summaries, unicorn-nest) also list Miro, Harver, ReadyPlayerMe, Glovo, Taxify and Pipedrive as 'portfolio' — these appear to be pre-fund/personal angel investments by co-founders Bas Godska and Joachim Laqueur made before Acrobator Ventures existed (2019), not verified fund-level deals. Treat with caution."
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/afeecd12a6e6155e1b7893f2430517fb16f3888b-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/acrobator-ventures",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "MattoBoard — Seed, $2M (Feb 11, 2025), co-investors BlueField Capital, Home Depot Ventures, Masco, Soundboard Venture Fund",
+      "Ovlo — Seed, ~$500K",
+      "MiLaboratories/MiLaboratory — 2025 round",
+      "Algorized — 2025 round"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "5ab2de93-8ffa-4400-bdc9-4b2efdd5876d",
@@ -9972,12 +10150,24 @@
       "Series B+"
     ],
     "website": "https://www.arkitektventures.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Olli Health — Series A, $10M (Nov 3, 2025), home health AI platform",
+      "Standard Model Biomedicine — Seed",
+      "Handspring (Handspring Health) — Series A, $12M (Jun 26, 2025), with Cobalt Ventures and 25Madison",
+      "Paradromics — led $7M Series Seed (2018) for this brain-machine interface company, which has since become one of the more prominent BCI startups",
+      "Sollis, Certify, Cofertility, Kallyope"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/50895fe48e366c61efe13e2d19ffe3c25c899b6e-170x170.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/arkitekt-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Olli Health — Series A, $10M (Nov 3, 2025), home health AI platform",
+      "Standard Model Biomedicine — Seed",
+      "Handspring (Handspring Health) — Series A, $12M (Jun 26, 2025), with Cobalt Ventures and 25Madison"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "1f213e4a-be31-421d-97ce-3b49924bc032",
@@ -10007,12 +10197,22 @@
       "Growth"
     ],
     "website": "https://www.aisprouts.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Gridware — appears in AiSprouts portfolio; Gridware raised a $26.4M Series A (Jan 8, 2025) led by Sequoia Capital",
+      "HaydenAI — total funding ~$193M including a $90M Series C led by TPG's The Rise Fund",
+      "BoostUp (BoostUp.ai) — Series B $28.5M, total funding ~$34.7M",
+      "Gridware — total funding ~$42-44M",
+      "UptimeAI"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a3ae141261bbbd04e749da4ad29659e8557c3a1e-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/aisprouts-vc",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Gridware — appears in AiSprouts portfolio; Gridware raised a $26.4M Series A (Jan 8, 2025) led by Sequoia Capital"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "9f86aa79-4ab1-4ace-bbee-79d603e3fe98",
@@ -10299,13 +10499,30 @@
       "Series B",
       "Series C"
     ],
-    "website": "https://tcavg.com",
-    "notable_portfolio": [],
+    "website": "https://tcaventuregroup.com",
+    "notable_portfolio": [
+      "Major Medical Devices — Angel round",
+      "Everyset — 2025 investment",
+      "Paulex Bio — 2025 investment",
+      "Approximately $9M invested across 2025 deals overall",
+      "Procore Technologies — early investment, later IPO (2021), one of TCA's largest-ever return multiples",
+      "Mindbody — early investment, IPO then acquired by Vista Equity Partners",
+      "Green Dot Corporation — early investment, later IPO",
+      "Sandpiper Networks — early investment/exit",
+      "CaseStack — acquired by Hub Group for $255M (2019), ~15x return, cited as TCA's sixth-highest exit ever"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "Major Medical Devices — Angel round",
+      "Everyset — 2025 investment",
+      "Paulex Bio — 2025 investment",
+      "Approximately $9M invested across 2025 deals overall"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "17bb323d-8ae5-4cd2-8d54-09c833b70cfa",
@@ -10331,12 +10548,28 @@
       "Series A"
     ],
     "website": "https://www.crunchbase.com/organization/pareto-holdings",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Pyannote AI — Seed round",
+      "Alium — Seed round",
+      "GeoSpatios — Seed round",
+      "Solstice Health — investment (Feb 5, 2025), medical records systems",
+      "Jar — Indian digital-gold savings app, valued at $500M+",
+      "Nucleus Genomics — genetic testing company",
+      "Base Two — AI platform for manufacturing process optimization",
+      "Co-founder Edward Lando is credited (across his broader angel/Pareto activity) with early investments in 25+ companies that later became unicorns, though Pareto's own documented portfolio is credited with ~1 unicorn and several acquisitions"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "Pyannote AI — Seed round",
+      "Alium — Seed round",
+      "GeoSpatios — Seed round",
+      "Solstice Health — investment (Feb 5, 2025), medical records systems"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "e44875b8-37ed-4a97-9652-14778116bf0a",
@@ -10516,13 +10749,24 @@
       "Pre-Seed",
       "Seed"
     ],
-    "website": "https://www.crunchbase.com/organization/northstar-ventures",
-    "notable_portfolio": [],
+    "website": "https://northstarventures.co.uk",
+    "notable_portfolio": [
+      "NunaBio — Newcastle University spin-out, raised £6.5M with Northstar Ventures participation",
+      "Nanovery — investment dated Apr 10, 2025",
+      "MySalesCoach — investment dated Mar 19, 2025",
+      "Oak Engage — enterprise intranet/employee-engagement software; Northstar exited via acquisition by NorthEdge-backed buyer (announced ~Jun-Jul 2025), described as one of Northstar's notable realized exits"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "NunaBio — Newcastle University spin-out, raised £6.5M with Northstar Ventures participation",
+      "Nanovery — investment dated Apr 10, 2025",
+      "MySalesCoach — investment dated Mar 19, 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "df74d805-33d4-4ce7-a856-02ad2d9a8d5a",
@@ -10554,12 +10798,31 @@
       "Growth"
     ],
     "website": "https://www.crunchbase.com/organization/legend-capital",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Deepwise (Chinese medical AI startup) - Legend Capital doubled down with a follow-on investment as part of a ~RMB 500M (~$69M) round, early 2025; Legend Capital first invested in Deepwise's $20.7M Series B in 2018",
+      "Allink Biotherapeutics - $47M Series A extension for clinical programs, December 2025, with Legend Capital participating",
+      "Shangtang Medical - strategic financing round of several hundred million RMB (post-money valuation >RMB 3B), November 2025, with Legend Capital among investors",
+      "Meituan",
+      "NIO",
+      "Luckin Coffee",
+      "Wish",
+      "ZTO Express",
+      "Momo",
+      "Zuoyebang",
+      "Phylion Battery",
+      "Zongmu Technology"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "Deepwise (Chinese medical AI startup) - Legend Capital doubled down with a follow-on investment as part of a ~RMB 500M (~$69M) round, early 2025; Legend Capital first invested in Deepwise's $20.7M Series B in 2018",
+      "Allink Biotherapeutics - $47M Series A extension for clinical programs, December 2025, with Legend Capital participating",
+      "Shangtang Medical - strategic financing round of several hundred million RMB (post-money valuation >RMB 3B), November 2025, with Legend Capital among investors"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "eeffd6c9-cefc-4170-bcd0-5987f3166751",
@@ -10645,45 +10908,38 @@
       "Series C"
     ],
     "website": "https://www.crunchbase.com/organization/mizuho-capital",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
-  },
-  {
-    "id": "e25b6d8b-6e88-44cf-a160-32cb3db2d9c8",
-    "name": "European Investment Bank",
-    "slug": "european-investment-bank",
-    "description": null,
-    "thesis": "European Investment Bank provides financing, advisory services, and investment solutions to support public and private sector projects.",
-    "investment_thesis": "European Investment Bank provides financing, advisory services, and investment solutions to support public and private sector projects.",
-    "overview": "European Investment Bank provides financing, advisory services, and investment solutions to support public and private sector projects.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Luxembourg, Luxembourg",
-    "country": "Luxembourg",
-    "sector_focus": [],
-    "stage_focus": [
-      "Seed",
-      "Series A",
-      "Series B",
-      "Series C",
-      "Growth"
+    "notable_portfolio": [
+      "Canary (real estate services) - 2025 funding round participation",
+      "Helical Fusion (fusion energy) - 2025 funding round participation",
+      "CaTe (healthcare technology) - 2025 funding round participation",
+      "LUC (business/productivity software) - 2025 funding round participation",
+      "Enerbank (energy infrastructure) - 2025 funding round participation",
+      "Meeq - exited via IPO, February 2025",
+      "Flier - exited via IPO, March 2025",
+      "Uridoki - portfolio exit, October 2025",
+      "BizReach",
+      "Wealthnavi",
+      "WHILL",
+      "WAmazing",
+      "enechain",
+      "Contrea"
     ],
-    "website": "https://eib.org",
-    "notable_portfolio": [],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "Canary (real estate services) - 2025 funding round participation",
+      "Helical Fusion (fusion energy) - 2025 funding round participation",
+      "CaTe (healthcare technology) - 2025 funding round participation",
+      "LUC (business/productivity software) - 2025 funding round participation",
+      "Enerbank (energy infrastructure) - 2025 funding round participation",
+      "Meeq - exited via IPO, February 2025",
+      "Flier - exited via IPO, March 2025",
+      "Uridoki - portfolio exit, October 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "f06e5fd7-01d8-4e00-ba57-94c9c368176b",
@@ -10718,13 +10974,32 @@
       "Zoom",
       "PagerDuty",
       "Opsgenie",
-      "Mindmeister"
+      "Mindmeister",
+      "Rocketlane (professional services/agentic implementation platform) - strategic investment, 2026",
+      "Lovable (AI app-building platform) - strategic investment, December 2025",
+      "Milestone - strategic investment, November 2025",
+      "Vanta (compliance/security automation) - strategic investment, July 2025",
+      "Veza (identity security) - strategic investment, March 2025",
+      "Synthesia (AI video generation) - strategic investment, January 2025",
+      "Synthesia",
+      "Vanta",
+      "Robin",
+      "Legora"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/52252a42a7d636a2c62276f3c335f3b68bebd850-16x16.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/atlassian-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Rocketlane (professional services/agentic implementation platform) - strategic investment, 2026",
+      "Lovable (AI app-building platform) - strategic investment, December 2025",
+      "Milestone - strategic investment, November 2025",
+      "Vanta (compliance/security automation) - strategic investment, July 2025",
+      "Veza (identity security) - strategic investment, March 2025",
+      "Synthesia (AI video generation) - strategic investment, January 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "72908a80-0faa-41c5-98c9-8c4afab69d34",
@@ -10741,7 +11016,7 @@
     "check_size_min": null,
     "check_size_max": null,
     "founded_year": null,
-    "headquarters": "London, UK",
+    "headquarters": "Detroit, MI",
     "country": "United Kingdom",
     "sector_focus": [
       "Fintech",
@@ -10768,13 +11043,18 @@
       "Our Next Energy",
       "NAVIT",
       "Sortera Combo Stacked",
-      "LP LOGIN"
+      "LP LOGIN",
+      "Two Boxes - Seed round, part of Assembly Ventures Fund I/Seed activity, reported around April 2026"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/8e88f8fab191441e434d33aeaa29204e4191190c-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/assembly-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Two Boxes - Seed round, part of Assembly Ventures Fund I/Seed activity, reported around April 2026"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b64c67c1-a51c-4e7d-860d-1d2cbfa77339",
@@ -10807,12 +11087,26 @@
       "Series B+"
     ],
     "website": "https://asymmetry.vc",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Enlightra - $15M Series A, December 18, 2025",
+      "PERSIST.AI - $12M Series A, May 19, 2025",
+      "Coreshell (advanced battery materials) - $24M Series B, March 18, 2025",
+      "BillionToOne (genomics/diagnostics unicorn) - early investment",
+      "Foresight Mental Health (unicorn) - early investment",
+      "Orbit Fab (in-space satellite refueling) - led $10M round",
+      "CytoReason"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a051c20d808bab75a95aa28ae9991980384975b4-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/asymmetry-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Enlightra - $15M Series A, December 18, 2025",
+      "PERSIST.AI - $12M Series A, May 19, 2025",
+      "Coreshell (advanced battery materials) - $24M Series B, March 18, 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "13e322b4-e470-4592-8a51-c050d936496a",
@@ -10847,13 +11141,32 @@
       "Percepto",
       "Earnix",
       "$2BN+",
-      "Close view photo modal"
+      "Close view photo modal",
+      "XCaliber Health — $6.5M Seed round",
+      "Fiddler AI — $30M Series C",
+      "Covu — $10M venture round",
+      "Closed 'Opportunity Fund II' to back human-centric enterprise AI companies",
+      "SandboxAQ (quantum AI) — unicorn",
+      "Earnix (insurance/banking analytics) — unicorn",
+      "JumpCloud (directory-as-a-service) — unicorn",
+      "Grid Dynamics",
+      "Totango",
+      "Secret Double Octopus",
+      "Greenly",
+      "Kardinal"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/dbed5d47e5748a9998afb11111bfa6949dc554a3-170x170.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/benhamou-global-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "XCaliber Health — $6.5M Seed round",
+      "Fiddler AI — $30M Series C",
+      "Covu — $10M venture round",
+      "Closed 'Opportunity Fund II' to back human-centric enterprise AI companies"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "96eeba6c-b2ab-458c-9240-0fc65026c323",
@@ -10886,12 +11199,23 @@
       "Series B+"
     ],
     "website": "https://www.ataraxia.vc/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Noctrix Health — participated in $33.5M follow-on financing (August 2025), following a $40M Series C the fund had backed in Jan 2024",
+      "Paradromics",
+      "Noctrix Health",
+      "Orbillion Bio",
+      "Oishii",
+      "9 unicorns across the Social Starts portfolio"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/6c17b5010956f0b47346159ec98a8afc6f08c30d-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/ataraxia-vc",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Noctrix Health — participated in $33.5M follow-on financing (August 2025), following a $40M Series C the fund had backed in Jan 2024"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "25dc566b-e9c6-454d-bf21-a39985331f46",
@@ -10924,12 +11248,29 @@
       "Series B+"
     ],
     "website": "https://www.atentocapital.com/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Volt (Buenos Aires) — Seed round",
+      "Cariina — co-investor in Series A round",
+      "BioEutectics — $2.1M funding round co-led with Fen Ventures",
+      "Oyster — portfolio unicorn",
+      "Alkira — $100M Series C",
+      "Sway",
+      "Boddle Learning",
+      "Array",
+      "Teleport",
+      "Brij"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/8df3abc87c605410048ae277b69f5af393f57596-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/atento-capital",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Volt (Buenos Aires) — Seed round",
+      "Cariina — co-investor in Series A round",
+      "BioEutectics — $2.1M funding round co-led with Fen Ventures"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "5a4b65a3-0daf-4a77-b877-9906fc13c64e",
@@ -11009,69 +11350,32 @@
       "Series C"
     ],
     "website": "https://fprime.com",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
-  },
-  {
-    "id": "3b0ca87c-ed76-48c2-b713-e6591563f8ac",
-    "name": "gbeta",
-    "slug": "gbeta",
-    "description": null,
-    "thesis": "gBETA is a free, seven-week accelerator for early-stage companies with local roots.",
-    "investment_thesis": "gBETA is a free, seven-week accelerator for early-stage companies with local roots.",
-    "overview": "gBETA is a free, seven-week accelerator for early-stage companies with local roots.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Madison, WI",
-    "country": "United States",
-    "sector_focus": [],
-    "stage_focus": [
-      "Pre-Seed",
-      "Seed"
+    "notable_portfolio": [
+      "Kanastra — $30M Series B",
+      "ARTBIO — $132M Series B",
+      "CHARM Therapeutics — $80M Series B",
+      "ABK Biomedical — $35M Series D",
+      "Toast",
+      "Beam Therapeutics",
+      "Denali Therapeutics",
+      "Devoted Health",
+      "Blueprint Medicines",
+      "Benchling",
+      "Flywire",
+      "Iora Health"
     ],
-    "website": "https://gbeta.org",
-    "notable_portfolio": [],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
-  },
-  {
-    "id": "11225e81-c72b-4958-af38-38f0427b36a1",
-    "name": "Comcast RISE",
-    "slug": "comcast-rise",
-    "description": null,
-    "thesis": "Comcast RISE is a multi-faceted program offering grants, marketing services, and technology upgrades.",
-    "investment_thesis": "Comcast RISE is a multi-faceted program offering grants, marketing services, and technology upgrades.",
-    "overview": "Comcast RISE is a multi-faceted program offering grants, marketing services, and technology upgrades.",
-    "fund_history_text": null,
-    "team_highlights": null,
-    "team_size": null,
-    "aum": null,
-    "check_size_min": null,
-    "check_size_max": null,
-    "founded_year": null,
-    "headquarters": "Philadelphia, PA",
-    "country": "United States",
-    "sector_focus": [],
-    "stage_focus": [],
-    "website": "https://comcastrise.com",
-    "notable_portfolio": [],
-    "logo_url": null,
-    "featured": false,
-    "scout_network": false,
-    "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "Kanastra — $30M Series B",
+      "ARTBIO — $132M Series B",
+      "CHARM Therapeutics — $80M Series B",
+      "ABK Biomedical — $35M Series D"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "689e9606-83b2-4740-90fd-f7fdcbfa4ae9",
@@ -11097,12 +11401,32 @@
       "Growth"
     ],
     "website": "https://kip.co.kr",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Apptronik (US humanoid robotics) - participated in syndicate within $403M Series A, Mar 2025",
+      "Redrob (AI/outbound intelligence platform) - led $10M Series A, Nov 2025",
+      "BreezeBio (formerly GenEdit, precision genetic medicines) - participated as existing investor in $60M Series B, Feb 2026",
+      "Fair2Lab (South Korea) - led Series B, Apr 2026",
+      "Coupang",
+      "Kakao",
+      "Naver",
+      "Yanolja",
+      "YG Entertainment",
+      "IGAWorks",
+      "Didi Chuxing",
+      "Osstem Implant, Doubleu Games, Bodyfriend"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "Apptronik (US humanoid robotics) - participated in syndicate within $403M Series A, Mar 2025",
+      "Redrob (AI/outbound intelligence platform) - led $10M Series A, Nov 2025",
+      "BreezeBio (formerly GenEdit, precision genetic medicines) - participated as existing investor in $60M Series B, Feb 2026",
+      "Fair2Lab (South Korea) - led Series B, Apr 2026"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "b8cbd19c-bc27-4fb0-9a58-7207938df012",
@@ -11195,7 +11519,9 @@
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/audacity-fund",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "45992859-4995-4f93-bdd2-0a8112230119",
@@ -11212,7 +11538,7 @@
     "check_size_min": "$100K",
     "check_size_max": "$1M",
     "founded_year": 2015,
-    "headquarters": "Chicago, IL",
+    "headquarters": "Oakland, CA",
     "country": "United States",
     "sector_focus": [
       "Fintech",
@@ -11227,13 +11553,23 @@
     "notable_portfolio": [
       "G2",
       "ActiveCampaign",
-      "Snapsheet"
+      "Snapsheet",
+      "Cerebrium (AI/ML execution platform) - $8.5M Seed, Jul 2025",
+      "Carrot (African fintech) - $4.2M Seed, May 2025",
+      "AppLovin",
+      "Guardant Health",
+      "Kit (formerly ConvertKit) - reported as the firm's one unicorn"
     ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/ce037d49fbfea9c3cf253ffe135a85b95cee939e-256x256.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/authentic-ventures",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Cerebrium (AI/ML execution platform) - $8.5M Seed, Jul 2025",
+      "Carrot (African fintech) - $4.2M Seed, May 2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "ebc7df42-e4b9-499f-b58d-1cc599ed627e",
@@ -11322,12 +11658,22 @@
       "Seed"
     ],
     "website": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "61 start-ups/SMEs selected for blended grant+equity support in latest 2026 cut-off round (e.g. Zaitra, Grapheal, Oxolife, QuantaMap) - Feb 2026",
+      "38 start-ups/SMEs selected in a separate 2026 cut-off round - Jun 2026",
+      "Multiple 2025 cut-off rounds under the EIC Accelerator 2025-26 work programme (€634M total budget), each selecting dozens of deep-tech companies for grant-only, blended finance (grant+equity), or equity-only support"
+    ],
     "logo_url": null,
     "featured": false,
     "scout_network": false,
     "vcbeast_url": null,
-    "created_at": "2026-07-08T22:33:40.812039+00:00"
+    "created_at": "2026-07-08T22:33:40.812039+00:00",
+    "latest_deals": [
+      "61 start-ups/SMEs selected for blended grant+equity support in latest 2026 cut-off round (e.g. Zaitra, Grapheal, Oxolife, QuantaMap) - Feb 2026",
+      "38 start-ups/SMEs selected in a separate 2026 cut-off round - Jun 2026",
+      "Multiple 2025 cut-off rounds under the EIC Accelerator 2025-26 work programme (€634M total budget), each selecting dozens of deep-tech companies for grant-only, blended finance (grant+equity), or equity-only support"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "82bc8fa0-72f4-4843-8d11-5ef2eb703410",
@@ -11432,12 +11778,20 @@
       "Series B+"
     ],
     "website": "https://innovationlabs.harvard.edu/allston-venture-fund/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Neru Health (healthcare technology) - investment reported 29-May-2025",
+      "Manifold Bio (raised $40M to advance biologics discovery platform) - described in sources as a Harvard Innovation Labs/i-lab-linked company",
+      "Akouos (gene therapy company acquired by Eli Lilly for over $600M) - described in sources as a Harvard Innovation Labs/i-lab-linked company"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/a8a050899c1dab344a529200c83adbf9eca0b40b-180x180.png",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/allston-venture-fund",
-    "created_at": "2026-05-22T19:29:46.720779+00:00"
+    "created_at": "2026-05-22T19:29:46.720779+00:00",
+    "latest_deals": [
+      "Neru Health (healthcare technology) - investment reported 29-May-2025"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "520a32f1-4346-4bde-bea0-649a4c2010b4",
@@ -11519,12 +11873,24 @@
       "Growth"
     ],
     "website": "https://www.avesta.fund/",
-    "notable_portfolio": [],
+    "notable_portfolio": [
+      "Flow Labs (Business/Productivity Software) - latest investment reported 06-Jul-2026",
+      "Ecotone Renewables (climate tech) - recent portfolio addition",
+      "BattGenie (battery/energy management) - recent portfolio addition",
+      "Enurgen",
+      "Recurrent Auto"
+    ],
     "logo_url": "https://cdn.sanity.io/images/nhxy8id3/production/4ea322621423913519155b376abcce312afad763-200x200.jpg",
     "featured": false,
     "scout_network": false,
     "vcbeast_url": "https://vcbeast.com/vc-firms/avesta-fund",
-    "created_at": "2026-05-22T19:29:47.204175+00:00"
+    "created_at": "2026-05-22T19:29:47.204175+00:00",
+    "latest_deals": [
+      "Flow Labs (Business/Productivity Software) - latest investment reported 06-Jul-2026",
+      "Ecotone Renewables (climate tech) - recent portfolio addition",
+      "BattGenie (battery/energy management) - recent portfolio addition"
+    ],
+    "deals_last_checked": "2026-10-03"
   },
   {
     "id": "01695683-0278-42eb-8630-7bcc51ada4af",
